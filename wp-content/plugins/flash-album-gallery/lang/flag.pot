@@ -1,0 +1,2866 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/flash-album-gallery\n"
+"POT-Creation-Date: 2013-07-10 10:46:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/addgallery.php:37
+msgid "Upload failed!"
+msgstr ""
+
+#: admin/addgallery.php:49 admin/functions.php:819
+msgid "No gallery selected !"
+msgstr ""
+
+#: admin/addgallery.php:118
+msgid "Image Files"
+msgstr ""
+
+#: admin/addgallery.php:139 admin/addgallery.php:169
+msgid "remove"
+msgstr ""
+
+#: admin/addgallery.php:140 admin/addgallery.php:281 admin/banner-box.php:342
+#: admin/music-box.php:311 admin/video-box.php:265
+msgid "Browse..."
+msgstr ""
+
+#: admin/addgallery.php:141 admin/addgallery.php:211 admin/addgallery.php:267
+msgid "Upload images"
+msgstr ""
+
+#: admin/addgallery.php:180
+msgid "Add new gallery"
+msgstr ""
+
+#: admin/addgallery.php:181
+msgid "Upload Images"
+msgstr ""
+
+#: admin/addgallery.php:183 admin/addgallery.php:275
+msgid "Import image folder"
+msgstr ""
+
+#: admin/addgallery.php:189
+msgid "Create a new gallery"
+msgstr ""
+
+#: admin/addgallery.php:194
+msgid "New Gallery"
+msgstr ""
+
+#: admin/addgallery.php:199
+msgid "Create a new , empty gallery below the folder"
+msgstr ""
+
+#: admin/addgallery.php:201
+msgid "Allowed characters for file and folder names are"
+msgstr ""
+
+#: admin/addgallery.php:203
+msgid "Add gallery"
+msgstr ""
+
+#: admin/addgallery.php:238
+msgid "Upload image(s):"
+msgstr ""
+
+#: admin/addgallery.php:242
+msgid "in to"
+msgstr ""
+
+#: admin/addgallery.php:244
+msgid "Choose gallery"
+msgstr ""
+
+#: admin/addgallery.php:262
+msgid ""
+"The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr ""
+
+#: admin/addgallery.php:262
+msgid "Disable flash upload"
+msgstr ""
+
+#: admin/addgallery.php:264
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr ""
+
+#: admin/addgallery.php:264
+msgid "Enable flash based upload"
+msgstr ""
+
+#: admin/addgallery.php:280 admin/banner-box.php:341 admin/music-box.php:310
+#: admin/video-box.php:264
+msgid "Import from Server path:"
+msgstr ""
+
+#: admin/addgallery.php:284
+msgid ""
+" Please note : For safe-mode = ON you need to add the subfolder thumbs "
+"manually"
+msgstr ""
+
+#: admin/addgallery.php:287 admin/banner-box.php:349 admin/music-box.php:318
+#: admin/video-box.php:272
+msgid "Import folder"
+msgstr ""
+
+#: admin/admin.php:53 admin/admin.php:54
+msgid "GRAND Flash Album Gallery overview"
+msgstr ""
+
+#: admin/admin.php:53 admin/media-upload.php:8
+msgid "FlAGallery"
+msgstr ""
+
+#: admin/admin.php:54
+msgid "Overview"
+msgstr ""
+
+#: admin/admin.php:55
+msgid "FlAG Manage gallery"
+msgstr ""
+
+#: admin/admin.php:55
+msgid "Manage Galleries"
+msgstr ""
+
+#: admin/admin.php:56
+msgid "FlAG Music Box"
+msgstr ""
+
+#: admin/admin.php:56
+msgid "Music Box"
+msgstr ""
+
+#: admin/admin.php:57
+msgid "FlAG Video Box"
+msgstr ""
+
+#: admin/admin.php:57
+msgid "Video Box"
+msgstr ""
+
+#: admin/admin.php:58
+msgid "FlAG Banner Box"
+msgstr ""
+
+#: admin/admin.php:58
+msgid "Banner Box"
+msgstr ""
+
+#: admin/admin.php:59
+msgid "FlAG Manage skins"
+msgstr ""
+
+#: admin/admin.php:59 admin/skins.php:339
+msgid "Skins"
+msgstr ""
+
+#: admin/admin.php:60
+msgid "FlAG Change options"
+msgstr ""
+
+#: admin/admin.php:60 admin/skins.php:457
+msgid "Options"
+msgstr ""
+
+#: admin/admin.php:61
+msgid "FlAG Facebook Integration"
+msgstr ""
+
+#: admin/admin.php:61
+msgid "Facebook"
+msgstr ""
+
+#: admin/admin.php:63
+msgid "GRAND Flash Album Gallery"
+msgstr ""
+
+#: admin/admin.php:63
+msgid "Grand Flagallery"
+msgstr ""
+
+#: admin/admin.php:133
+msgid "You do not have the correct permission"
+msgstr ""
+
+#: admin/admin.php:134
+msgid "Unexpected Error"
+msgstr ""
+
+#: admin/admin.php:135
+msgid "A failure occurred"
+msgstr ""
+
+#: admin/admin.php:215 admin/admin.php:249 admin/functions.php:105
+#: admin/functions.php:181 admin/manage-images.php:205 admin/manage.php:101
+#: admin/manage.php:112 admin/manage.php:120 admin/overview.php:197
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin.php:229
+msgid "Get help with Grand Flagallery"
+msgstr ""
+
+#: admin/admin.php:233
+msgid "More Help & Info"
+msgstr ""
+
+#: admin/admin.php:235
+msgid "Grand Flagallery Video Tutorial"
+msgstr ""
+
+#: admin/admin.php:236
+msgid "FAQ"
+msgstr ""
+
+#: admin/admin.php:237
+msgid "Grand Flagallery Review"
+msgstr ""
+
+#: admin/admin.php:238
+msgid "Get your language pack"
+msgstr ""
+
+#: admin/admin.php:239
+msgid "Skins for Grand Flagallery"
+msgstr ""
+
+#: admin/ajax.php:139 admin/ajax.php:165 admin/facebook-tool.php:13
+msgid "Success"
+msgstr ""
+
+#: admin/ajax.php:190 admin/functions.php:250 admin/functions.php:290
+msgid "<em>%s</em> was <strong>not</strong> imported due to an error: %s"
+msgstr ""
+
+#: admin/ajax.php:192 admin/functions.php:253 admin/functions.php:293
+msgid "<em>%s</em> has been added to Media library"
+msgstr ""
+
+#: admin/banner-box.php:90 admin/music-box.php:86 admin/video-box.php:80
+msgid "Media updated"
+msgstr ""
+
+#: admin/banner-box.php:133
+msgid "Import folder is complete. The page reloads after 5 seconds."
+msgstr ""
+
+#: admin/banner-box.php:134
+msgid "Import folder complete. Refresh page."
+msgstr ""
+
+#: admin/banner-box.php:155 admin/music-box.php:107 admin/video-box.php:101
+msgid "Created playlists"
+msgstr ""
+
+#: admin/banner-box.php:159 admin/banner-sort.php:68 admin/banner-sort.php:76
+#: admin/manage-banner.php:149 admin/manage-galleries.php:153
+#: admin/manage-images.php:232 admin/manage-playlist.php:150
+#: admin/manage-video.php:150 admin/music-box.php:111
+#: admin/playlist-sort.php:68 admin/playlist-sort.php:76
+#: admin/video-box.php:105 admin/video-sort.php:73 admin/video-sort.php:81
+#: lib/meta.php:398
+msgid "Title"
+msgstr ""
+
+#: admin/banner-box.php:160 admin/banner-box.php:433 admin/banner-box.php:442
+#: admin/manage-banner.php:153 admin/manage-banner.php:185
+#: admin/manage-banner.php:194 admin/manage-galleries.php:154
+#: admin/manage-images.php:236 admin/manage-images.php:601
+#: admin/manage-playlist.php:154 admin/manage-playlist.php:187
+#: admin/manage-playlist.php:197 admin/manage-video.php:154
+#: admin/manage-video.php:187 admin/manage-video.php:197
+#: admin/media-upload.php:184 admin/music-box.php:112 admin/music-box.php:402
+#: admin/music-box.php:412 admin/skins.php:385 admin/skins.php:393
+#: admin/video-box.php:106 admin/video-box.php:317 admin/video-box.php:327
+msgid "Description"
+msgstr ""
+
+#: admin/banner-box.php:161 admin/manage-galleries.php:156
+#: admin/music-box.php:113 admin/video-box.php:107
+msgid "Quantity"
+msgstr ""
+
+#: admin/banner-box.php:162 admin/manage-banner.php:127
+#: admin/manage-playlist.php:128 admin/manage-video.php:128
+#: admin/music-box.php:114 admin/video-box.php:108
+msgid "Shortcode"
+msgstr ""
+
+#: admin/banner-box.php:163 admin/manage-galleries.php:157
+#: admin/music-box.php:115 admin/skins.php:386 admin/skins.php:394
+#: admin/video-box.php:109
+msgid "Action"
+msgstr ""
+
+#: admin/banner-box.php:179 admin/manage-galleries.php:178
+#: admin/music-box.php:131 admin/video-box.php:125
+msgid "Edit"
+msgstr ""
+
+#: admin/banner-box.php:183 admin/music-box.php:135 admin/video-box.php:129
+msgid "player"
+msgstr ""
+
+#: admin/banner-box.php:187 admin/music-box.php:139 admin/video-box.php:133
+msgid "Delete this playlist?"
+msgstr ""
+
+#: admin/banner-box.php:187 admin/manage-galleries.php:191
+#: admin/manage-galleries.php:273 admin/manage-images.php:401
+#: admin/music-box.php:139 admin/skins.php:461 admin/skins.php:471
+#: admin/video-box.php:133
+msgid "Delete"
+msgstr ""
+
+#: admin/banner-box.php:193 admin/music-box.php:145 admin/video-box.php:139
+msgid "No playlists found"
+msgstr ""
+
+#: admin/banner-box.php:290 admin/manage-banner.php:42
+#: admin/manage-playlist.php:42 admin/manage-video.php:42
+#: admin/music-box.php:248 admin/video-box.php:205
+msgid "No items selected"
+msgstr ""
+
+#: admin/banner-box.php:336
+msgid "Import banners from folder"
+msgstr ""
+
+#: admin/banner-box.php:345 admin/music-box.php:314 admin/video-box.php:268
+msgid "delete files after import in WordPress Media Library"
+msgstr ""
+
+#: admin/banner-box.php:355
+msgid "WordPress Image Library"
+msgstr ""
+
+#: admin/banner-box.php:379 admin/manage-galleries.php:22
+#: admin/manage-images.php:55 admin/music-box.php:347
+msgid "&laquo;"
+msgstr ""
+
+#: admin/banner-box.php:380 admin/manage-galleries.php:23
+#: admin/manage-images.php:56 admin/music-box.php:348
+msgid "&raquo;"
+msgstr ""
+
+#: admin/banner-box.php:387 admin/music-box.php:355
+msgid "Selected Media"
+msgstr ""
+
+#: admin/banner-box.php:387 admin/music-box.php:355
+msgid "Clear Selected"
+msgstr ""
+
+#: admin/banner-box.php:389 admin/manage-galleries.php:136
+#: admin/manage-images.php:271 admin/music-box.php:357
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: admin/banner-box.php:404 admin/music-box.php:372 admin/video-box.php:287
+msgid "Update Media"
+msgstr ""
+
+#: admin/banner-box.php:407 admin/manage-banner.php:168
+#: admin/manage-galleries.php:124 admin/manage-images.php:280
+#: admin/manage-playlist.php:169 admin/manage-video.php:169
+#: admin/music-box.php:375 admin/video-box.php:290
+msgid "No action"
+msgstr ""
+
+#: admin/banner-box.php:408 admin/music-box.php:376 admin/video-box.php:291
+msgid "Create new playlist"
+msgstr ""
+
+#: admin/banner-box.php:410 admin/manage-galleries.php:131
+#: admin/music-box.php:378 admin/video-box.php:293
+msgid "Apply"
+msgstr ""
+
+#: admin/banner-box.php:412
+msgid "Upload Banner(s)"
+msgstr ""
+
+#: admin/banner-box.php:421 admin/manage-banner.php:174
+#: admin/manage-banner.php:244 admin/manage-playlist.php:175
+#: admin/manage-playlist.php:255 admin/manage-video.php:175
+#: admin/manage-video.php:250 admin/music-box.php:389 admin/video-box.php:304
+msgid "Update Playlist"
+msgstr ""
+
+#: admin/banner-box.php:429 admin/banner-box.php:438
+#: admin/manage-banner.php:181 admin/manage-banner.php:190
+#: admin/manage-playlist.php:182 admin/manage-playlist.php:192
+#: admin/manage-video.php:182 admin/manage-video.php:192
+#: admin/music-box.php:397 admin/music-box.php:407 admin/video-box.php:312
+#: admin/video-box.php:322
+msgid "Check"
+msgstr ""
+
+#: admin/banner-box.php:430 admin/banner-box.php:439 admin/banner-sort.php:65
+#: admin/banner-sort.php:73 admin/manage-banner.php:182
+#: admin/manage-banner.php:191 admin/manage-galleries.php:152
+#: admin/manage-images.php:596 admin/manage-playlist.php:183
+#: admin/manage-playlist.php:193 admin/manage-sort.php:99
+#: admin/manage-sort.php:108 admin/manage-video.php:183
+#: admin/manage-video.php:193 admin/music-box.php:398 admin/music-box.php:408
+#: admin/playlist-sort.php:65 admin/playlist-sort.php:73
+#: admin/video-box.php:313 admin/video-box.php:323 admin/video-sort.php:70
+#: admin/video-sort.php:78
+msgid "ID"
+msgstr ""
+
+#: admin/banner-box.php:431 admin/banner-box.php:440
+#: admin/manage-banner.php:183 admin/manage-banner.php:192
+#: admin/manage-images.php:597 admin/manage-playlist.php:185
+#: admin/manage-playlist.php:195 admin/manage-video.php:185
+#: admin/manage-video.php:195 admin/media-upload.php:205
+#: admin/music-box.php:400 admin/music-box.php:410 admin/video-box.php:315
+#: admin/video-box.php:325
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/banner-box.php:432 admin/banner-box.php:441
+msgid "Filename / Title / Link"
+msgstr ""
+
+#: admin/banner-box.php:459 admin/music-box.php:429 admin/video-box.php:351
+msgid "Already Added"
+msgstr ""
+
+#: admin/banner-box.php:480 admin/manage-banner.php:226
+msgid "URL"
+msgstr ""
+
+#: admin/banner-box.php:489
+msgid "No images in WordPress Media Library."
+msgstr ""
+
+#: admin/banner-box.php:507 admin/music-box.php:486 admin/video-box.php:410
+msgid "Playlist Title"
+msgstr ""
+
+#: admin/banner-box.php:509 admin/facebook-tool.php:180 admin/meta_box.php:126
+#: admin/music-box.php:488 admin/tinymce/window.php:118
+#: admin/video-box.php:412
+msgid "Choose skin"
+msgstr ""
+
+#: admin/banner-box.php:518 admin/manage-banner.php:140
+#: admin/manage-playlist.php:141 admin/manage-video.php:141
+#: admin/music-box.php:497 admin/video-box.php:421
+msgid "No Skins"
+msgstr ""
+
+#: admin/banner-box.php:526 admin/music-box.php:505 admin/video-box.php:429
+msgid "Playlist Description"
+msgstr ""
+
+#: admin/banner-box.php:531 admin/manage-galleries.php:335
+#: admin/manage-galleries.php:365 admin/manage-images.php:514
+#: admin/manage-images.php:543 admin/manage-images.php:573
+#: admin/music-box.php:510 admin/video-box.php:434
+msgid "Cancel"
+msgstr ""
+
+#: admin/banner-box.php:533 admin/manage-banner.php:171
+#: admin/manage-galleries.php:333 admin/manage-galleries.php:363
+#: admin/manage-images.php:290 admin/manage-images.php:512
+#: admin/manage-images.php:541 admin/manage-images.php:571
+#: admin/manage-playlist.php:172 admin/manage-video.php:172
+#: admin/music-box.php:512 admin/video-box.php:436
+msgid "OK"
+msgstr ""
+
+#: admin/banner-sort.php:17 admin/manage-sort.php:53
+#: admin/playlist-sort.php:17 admin/video-sort.php:22
+msgid "Sort Gallery"
+msgstr ""
+
+#: admin/banner-sort.php:20 admin/playlist-sort.php:20 admin/video-sort.php:25
+msgid "Back to playlist"
+msgstr ""
+
+#: admin/banner-sort.php:25 admin/banner-sort.php:108 admin/manage-sort.php:63
+#: admin/manage-sort.php:146 admin/playlist-sort.php:25
+#: admin/playlist-sort.php:106 admin/video-sort.php:30
+#: admin/video-sort.php:113
+msgid "Update Sort Order"
+msgstr ""
+
+#: admin/banner-sort.php:66 admin/banner-sort.php:74 admin/manage-sort.php:100
+#: admin/manage-sort.php:109
+msgid "Thumb"
+msgstr ""
+
+#: admin/banner-sort.php:67 admin/banner-sort.php:75
+#: admin/manage-images.php:598 admin/manage-sort.php:101
+#: admin/manage-sort.php:110 admin/playlist-sort.php:67
+#: admin/playlist-sort.php:75 admin/video-sort.php:72 admin/video-sort.php:80
+msgid "Filename"
+msgstr ""
+
+#: admin/banner-sort.php:103 admin/manage-banner.php:238
+#: admin/manage-galleries.php:203 admin/manage-images.php:475
+#: admin/manage-playlist.php:249 admin/manage-sort.php:140
+#: admin/manage-video.php:244 admin/playlist-sort.php:101
+#: admin/video-sort.php:108
+msgid "No entries found"
+msgstr ""
+
+#: admin/banner.functions.php:151 admin/playlist.functions.php:121
+#: admin/video.functions.php:121
+msgid "Playlist Saved Successfully"
+msgstr ""
+
+#: admin/banner.functions.php:154 admin/playlist.functions.php:124
+#: admin/video.functions.php:124
+msgid "Create directory please:"
+msgstr ""
+
+#: admin/banner.functions.php:176 admin/playlist.functions.php:146
+#: admin/video.functions.php:146
+msgid "deleted"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:51
+msgid "Color Settings"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:54
+msgid "Background Color"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:58
+msgid "Buttons Background Color"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:62
+msgid "Buttons Text Color"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:71 admin/settings.php:262
+msgid "Category Buttons Color"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:80
+msgid "Category Buttons Text Color"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:89
+msgid "Thumbs Rollover Color"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:98
+msgid "Main Title"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:102
+msgid "Category Title"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:106
+msgid "Item Background"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:110
+msgid "Item Title"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:114
+msgid "Item Description"
+msgstr ""
+
+#: admin/db_skin_color_scheme.php:120 admin/manage-images.php:260
+#: admin/manage-images.php:298 admin/manage-images.php:481
+#: admin/settings.php:287 admin/settings.php:370 admin/settings.php:401
+msgid "Save Changes"
+msgstr ""
+
+#: admin/facebook-tool.php:15
+msgid "Failure"
+msgstr ""
+
+#: admin/facebook-tool.php:144
+msgid "Facebook Integration"
+msgstr ""
+
+#: admin/facebook-tool.php:155
+msgid "Copy facebook.php file to root directory"
+msgstr ""
+
+#: admin/facebook-tool.php:158
+msgid "Photo Gallery Facebook Page Generator"
+msgstr ""
+
+#: admin/facebook-tool.php:161 admin/meta_box.php:107
+#: admin/tinymce/window.php:76
+msgid "Select galleries"
+msgstr ""
+
+#: admin/facebook-tool.php:161 admin/meta_box.php:107
+#: admin/tinymce/window.php:76
+msgid "(album categories)"
+msgstr ""
+
+#: admin/facebook-tool.php:163 admin/meta_box.php:109
+#: admin/tinymce/window.php:78
+msgid "all galleries"
+msgstr ""
+
+#: admin/facebook-tool.php:176 admin/meta_box.php:122
+msgid "Galleries order"
+msgstr ""
+
+#: admin/facebook-tool.php:182 admin/meta_box.php:128
+msgid "skin active by default"
+msgstr ""
+
+#: admin/facebook-tool.php:191 admin/tinymce/window.php:129
+msgid "Skin size"
+msgstr ""
+
+#: admin/facebook-tool.php:191 admin/tinymce/window.php:129
+msgid "blank for default"
+msgstr ""
+
+#: admin/facebook-tool.php:192 admin/tinymce/window.php:130
+msgid "width"
+msgstr ""
+
+#: admin/facebook-tool.php:192 admin/tinymce/window.php:130
+msgid "height"
+msgstr ""
+
+#: admin/facebook-tool.php:195
+msgid "Post ID"
+msgstr ""
+
+#: admin/facebook-tool.php:195
+msgid "optional"
+msgstr ""
+
+#: admin/facebook-tool.php:199 admin/facebook-tool.php:221
+#: admin/facebook-tool.php:243 admin/facebook-tool.php:265
+msgid "Facebook Page Url"
+msgstr ""
+
+#: admin/facebook-tool.php:204
+msgid "mp3 Gallery Facebook Page Generator"
+msgstr ""
+
+#: admin/facebook-tool.php:207 admin/facebook-tool.php:209
+#: admin/facebook-tool.php:229 admin/facebook-tool.php:231
+#: widgets/widgets.php:499
+msgid "Choose playlist"
+msgstr ""
+
+#: admin/facebook-tool.php:226
+msgid "Video Blog Gallery Facebook Page Generator"
+msgstr ""
+
+#: admin/facebook-tool.php:248
+msgid "Banner Box Facebook Page Generator"
+msgstr ""
+
+#: admin/facebook-tool.php:251
+msgid "Choose xml"
+msgstr ""
+
+#: admin/facebook-tool.php:253
+msgid "Choose XML"
+msgstr ""
+
+#: admin/flag_install.php:124
+msgid ""
+"Flash Album Gallery : Tables could not created, please check your database "
+"settings"
+msgstr ""
+
+#: admin/flag_install.php:149
+msgid "Sorry, Flash Album Gallery works only with a role called administrator"
+msgstr ""
+
+#: admin/functions.php:46
+msgid "No valid gallery name!"
+msgstr ""
+
+#: admin/functions.php:53 admin/functions.php:62 admin/functions.php:76
+#: admin/functions.php:153 admin/functions.php:160 admin/functions.php:234
+#: admin/functions.php:241 admin/functions.php:274 admin/functions.php:281
+#: admin/functions.php:314 admin/functions.php:320
+msgid "Directory"
+msgstr ""
+
+#: admin/functions.php:53
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr ""
+
+#: admin/functions.php:54 admin/functions.php:63
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr ""
+
+#: admin/functions.php:62 admin/functions.php:76
+msgid "is not writeable !"
+msgstr ""
+
+#: admin/functions.php:71 admin/functions.php:81 lib/core.php:100
+msgid "Unable to create directory "
+msgstr ""
+
+#: admin/functions.php:85
+msgid "The server setting Safe-Mode is on !"
+msgstr ""
+
+#: admin/functions.php:86
+msgid "If you have problems, please create directory"
+msgstr ""
+
+#: admin/functions.php:87
+msgid "and the thumbnails directory"
+msgstr ""
+
+#: admin/functions.php:87
+msgid "with permission 777 manually !"
+msgstr ""
+
+#: admin/functions.php:105
+msgid "already exists"
+msgstr ""
+
+#: admin/functions.php:115
+msgid ""
+"Gallery '%1$s' successfully created.<br/>You can show this gallery with the "
+"tag %2$s.<br/>"
+msgstr ""
+
+#: admin/functions.php:118
+msgid "Edit gallery"
+msgstr ""
+
+#: admin/functions.php:153 admin/functions.php:234 admin/functions.php:274
+#: admin/functions.php:314
+msgid "doesn&#96;t exist!"
+msgstr ""
+
+#: admin/functions.php:160
+msgid "contains no pictures"
+msgstr ""
+
+#: admin/functions.php:178
+msgid "Database error. Could not add gallery!"
+msgstr ""
+
+#: admin/functions.php:181
+msgid "successfully created!"
+msgstr ""
+
+#: admin/functions.php:210 admin/functions.php:894
+#: admin/manage-galleries.php:125 admin/manage-images.php:281
+#: admin/manage.php:232 admin/manage.php:301
+msgid "Create new thumbnails"
+msgstr ""
+
+#: admin/functions.php:213
+msgid " picture(s) successfully added"
+msgstr ""
+
+#: admin/functions.php:241
+msgid "does not contain flv files"
+msgstr ""
+
+#: admin/functions.php:256 admin/functions.php:296
+msgid " file(s) successfully added"
+msgstr ""
+
+#: admin/functions.php:281
+msgid "does not contain mp3 files"
+msgstr ""
+
+#: admin/functions.php:320
+msgid "does not contain image files"
+msgstr ""
+
+#: admin/functions.php:323
+msgid "image(s) in the folder"
+msgstr ""
+
+#: admin/functions.php:323
+msgid "Crunching..."
+msgstr ""
+
+#: admin/functions.php:348
+msgid "File type does not meet security guidelines. Try another."
+msgstr ""
+
+#: admin/functions.php:379
+msgid "The selected file could not be copied to %s."
+msgstr ""
+
+#: admin/functions.php:478 admin/functions.php:552
+msgid "Object didn't contain correct data"
+msgstr ""
+
+#: admin/functions.php:483
+msgid " is not writeable "
+msgstr ""
+
+#: admin/functions.php:562
+msgid " is not writeable"
+msgstr ""
+
+#: admin/functions.php:657 admin/functions.php:710
+msgid "(Error : Couldn't not update data base)"
+msgstr ""
+
+#: admin/functions.php:664
+msgid "(Error : Couldn't not update meta data)"
+msgstr ""
+
+#: admin/functions.php:666 admin/functions.php:713
+msgid "(Error : Couldn't not find image)"
+msgstr ""
+
+#: admin/functions.php:827 admin/functions.php:944
+msgid "Failure in database, no gallery path set !"
+msgstr ""
+
+#: admin/functions.php:851 admin/functions.php:938
+msgid "is no valid image file!"
+msgstr ""
+
+#: admin/functions.php:865 admin/functions.php:1105 admin/functions.php:1178
+msgid ""
+"Unable to write to directory %s. Is this directory writable by the server?"
+msgstr ""
+
+#: admin/functions.php:872 admin/functions.php:961
+msgid "Error, the file could not moved to : "
+msgstr ""
+
+#: admin/functions.php:877 admin/functions.php:965
+msgid "Error, the file permissions could not set"
+msgstr ""
+
+#: admin/functions.php:898
+msgid " Image(s) successfully added"
+msgstr ""
+
+#: admin/functions.php:918
+msgid "No gallery selected!"
+msgstr ""
+
+#: admin/functions.php:980
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: admin/functions.php:982
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: admin/functions.php:984
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: admin/functions.php:986
+msgid "No file was uploaded"
+msgstr ""
+
+#: admin/functions.php:988
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: admin/functions.php:990
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: admin/functions.php:992
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: admin/functions.php:994
+msgid "Unknown upload error"
+msgstr ""
+
+#: admin/functions.php:1008
+msgid ""
+"Sorry, you have used your space allocation. Please delete some files to "
+"upload more files."
+msgstr ""
+
+#: admin/functions.php:1048
+msgid ""
+"SAFE MODE Restriction in effect! You need to create the folder <strong>%s</"
+"strong> manually"
+msgstr ""
+
+#: admin/functions.php:1049
+msgid ""
+"When safe_mode is on, PHP checks to see if the owner (%s) of the current "
+"script matches the owner (%s) of the file to be operated on by a file "
+"function or its directory"
+msgstr ""
+
+#: admin/functions.php:1099 admin/functions.php:1172
+msgid "The destination gallery does not exist"
+msgstr ""
+
+#: admin/functions.php:1130
+msgid "Failed to move image %1$s to %2$s"
+msgstr ""
+
+#: admin/functions.php:1148
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr ""
+
+#: admin/functions.php:1205
+msgid "Failed to copy image %1$s to %2$s"
+msgstr ""
+
+#: admin/functions.php:1217
+msgid "Failed to copy database row for picture %s"
+msgstr ""
+
+#: admin/functions.php:1222
+msgid ""
+"Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already "
+"existed in the destination gallery."
+msgstr ""
+
+#: admin/functions.php:1225
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr ""
+
+#: admin/functions.php:1234
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr ""
+
+#: admin/grab_meta.php:13 admin/showmeta.php:28
+msgid "Meta Data"
+msgstr ""
+
+#: admin/grab_meta.php:20 admin/showmeta.php:48
+msgid "No meta data saved"
+msgstr ""
+
+#: admin/grab_meta.php:23 admin/showmeta.php:54
+msgid "EXIF Data"
+msgstr ""
+
+#: admin/grab_meta.php:29 admin/showmeta.php:80
+msgid "IPTC Data"
+msgstr ""
+
+#: admin/grab_meta.php:35 admin/showmeta.php:104
+msgid "XMP Data"
+msgstr ""
+
+#: admin/manage-banner.php:50 admin/manage-playlist.php:50
+#: admin/manage-video.php:50
+msgid ""
+"You are about to delete %s item(s) \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+
+#: admin/manage-banner.php:54 admin/manage-playlist.php:54
+#: admin/manage-video.php:54
+msgid ""
+"You are about to start the bulk edit for %s item(s) \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+
+#: admin/manage-banner.php:100 admin/manage-playlist.php:101
+#: admin/manage-video.php:101
+msgid "Playlist"
+msgstr ""
+
+#: admin/manage-banner.php:102
+msgid "Back to Banner Box"
+msgstr ""
+
+#: admin/manage-banner.php:104 admin/manage-playlist.php:105
+#: admin/manage-video.php:105
+msgid "Choose another playlist"
+msgstr ""
+
+#: admin/manage-banner.php:123 admin/manage-playlist.php:124
+#: admin/manage-video.php:124
+msgid "Playlist settings"
+msgstr ""
+
+#: admin/manage-banner.php:129 admin/manage-playlist.php:130
+#: admin/manage-video.php:130
+msgid "Playlist Skin"
+msgstr ""
+
+#: admin/manage-banner.php:143 admin/manage-playlist.php:144
+#: admin/manage-video.php:144
+msgid "Change Skin Options"
+msgstr ""
+
+#: admin/manage-banner.php:145 admin/manage-playlist.php:146
+#: admin/manage-video.php:146
+msgid "Update skin options for this playlist"
+msgstr ""
+
+#: admin/manage-banner.php:157 admin/manage-images.php:240
+#: admin/manage-playlist.php:158 admin/manage-video.php:158
+msgid "Path"
+msgstr ""
+
+#: admin/manage-banner.php:169 admin/manage-playlist.php:170
+#: admin/manage-video.php:170
+msgid "Delete items"
+msgstr ""
+
+#: admin/manage-banner.php:172 admin/manage-playlist.php:173
+#: admin/manage-video.php:173
+msgid "Sort Playlist"
+msgstr ""
+
+#: admin/manage-banner.php:173 admin/manage-playlist.php:174
+#: admin/manage-video.php:174
+msgid "Add/Remove Items from Playlist"
+msgstr ""
+
+#: admin/manage-banner.php:184 admin/manage-banner.php:193
+#: admin/manage-playlist.php:186 admin/manage-playlist.php:196
+#: admin/manage-video.php:186 admin/manage-video.php:196
+#: admin/music-box.php:401 admin/music-box.php:411 admin/video-box.php:316
+#: admin/video-box.php:326
+msgid "Filename / Title"
+msgstr ""
+
+#: admin/manage-galleries.php:64 admin/manage-images.php:150
+msgid "No images selected"
+msgstr ""
+
+#: admin/manage-galleries.php:81
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+
+#: admin/manage-galleries.php:106
+msgid "Gallery Overview"
+msgstr ""
+
+#: admin/manage-galleries.php:109 admin/manage-galleries.php:112
+#: admin/manage-images.php:190 admin/manage-images.php:193
+msgid "Search Images"
+msgstr ""
+
+#: admin/manage-galleries.php:126 admin/manage-images.php:282
+#: admin/manage.php:216 admin/manage.php:287
+msgid "Resize images"
+msgstr ""
+
+#: admin/manage-galleries.php:127 admin/manage-images.php:284
+#: admin/manage.php:194 admin/manage.php:268
+msgid "Import metadata"
+msgstr ""
+
+#: admin/manage-galleries.php:128 admin/manage-images.php:285
+msgid "Metadata to description"
+msgstr ""
+
+#: admin/manage-galleries.php:155 admin/manage-images.php:244 lib/meta.php:399
+msgid "Author"
+msgstr ""
+
+#: admin/manage-galleries.php:184 admin/manage-galleries.php:195
+msgid "Draft"
+msgstr ""
+
+#: admin/manage-galleries.php:191
+msgid "Delete this gallery ?"
+msgstr ""
+
+#: admin/manage-galleries.php:193
+msgid "Publish this gallery?"
+msgstr ""
+
+#: admin/manage-galleries.php:193
+msgid "Publish"
+msgstr ""
+
+#: admin/manage-galleries.php:195
+msgid "Make this gallery draft?"
+msgstr ""
+
+#: admin/manage-galleries.php:260 admin/tinymce/window.php:50
+#: admin/tinymce/window.php:59
+msgid "Albums"
+msgstr ""
+
+#: admin/manage-galleries.php:262
+msgid "Create New Album"
+msgstr ""
+
+#: admin/manage-galleries.php:263
+msgid "Categories"
+msgstr ""
+
+#: admin/manage-galleries.php:273 admin/skins.php:333
+msgid "Save"
+msgstr ""
+
+#: admin/manage-galleries.php:284
+msgid "Drag&Drop Categories Here"
+msgstr ""
+
+#: admin/manage-galleries.php:291
+msgid "No Albums"
+msgstr ""
+
+#: admin/manage-galleries.php:324 admin/manage-images.php:532
+msgid "Resize Images to"
+msgstr ""
+
+#: admin/manage-galleries.php:328
+msgid "Width x height (in pixel). FlAGallery will keep ratio size"
+msgstr ""
+
+#: admin/manage-galleries.php:352 admin/manage-images.php:560
+msgid "Width x height (in pixel)"
+msgstr ""
+
+#: admin/manage-galleries.php:354 admin/manage-images.php:562
+msgid "These values are maximum values "
+msgstr ""
+
+#: admin/manage-galleries.php:357 admin/manage-images.php:565
+msgid "Set fix dimension"
+msgstr ""
+
+#: admin/manage-galleries.php:359 admin/manage-images.php:567
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr ""
+
+#: admin/manage-images.php:31
+msgid "Gallery not found."
+msgstr ""
+
+#: admin/manage-images.php:37
+msgid "Sorry, you have no access here"
+msgstr ""
+
+#: admin/manage-images.php:172
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+
+#: admin/manage-images.php:187
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/manage-images.php:207
+msgid "Choose another gallery"
+msgstr ""
+
+#: admin/manage-images.php:228
+msgid "Gallery settings"
+msgstr ""
+
+#: admin/manage-images.php:259
+msgid "Scan Folder for new images"
+msgstr ""
+
+#: admin/manage-images.php:283
+msgid "Delete images"
+msgstr ""
+
+#: admin/manage-images.php:286
+msgid "Copy to..."
+msgstr ""
+
+#: admin/manage-images.php:287
+msgid "Move to..."
+msgstr ""
+
+#: admin/manage-images.php:293
+msgid "Sort gallery"
+msgstr ""
+
+#: admin/manage-images.php:296
+msgid "Add Images"
+msgstr ""
+
+#: admin/manage-images.php:389 admin/manage-images.php:393
+msgid "Size: "
+msgstr ""
+
+#: admin/manage-images.php:389 admin/manage-images.php:393
+msgid "pixel"
+msgstr ""
+
+#: admin/manage-images.php:398
+msgid "View \"%s\""
+msgstr ""
+
+#: admin/manage-images.php:398
+msgid "View"
+msgstr ""
+
+#: admin/manage-images.php:399
+msgid "Show Meta data"
+msgstr ""
+
+#: admin/manage-images.php:399
+msgid "Meta"
+msgstr ""
+
+#: admin/manage-images.php:400
+msgid "Customize thumbnail"
+msgstr ""
+
+#: admin/manage-images.php:400
+msgid "Edit thumb"
+msgstr ""
+
+#: admin/manage-images.php:401
+msgid "Delete \"%s\""
+msgstr ""
+
+#: admin/manage-images.php:496
+msgid "Select the destination gallery:"
+msgstr ""
+
+#: admin/manage-images.php:536
+msgid "Width x height (in pixel). Grand Flagallery will keep ratio size"
+msgstr ""
+
+#: admin/manage-images.php:599
+msgid "Views / Likes"
+msgstr ""
+
+#: admin/manage-images.php:600
+msgid "Rating"
+msgstr ""
+
+#: admin/manage-images.php:601 admin/manage-sort.php:103
+#: admin/manage-sort.php:112
+msgid "Alt &amp; Title Text"
+msgstr ""
+
+#: admin/manage-images.php:602
+msgid "Only for logged in users"
+msgstr ""
+
+#: admin/manage-playlist.php:103
+msgid "Back to Music Box"
+msgstr ""
+
+#: admin/manage-playlist.php:184 admin/manage-playlist.php:194
+#: admin/manage-video.php:184 admin/manage-video.php:194
+#: admin/media-upload.php:201 admin/music-box.php:399 admin/music-box.php:409
+#: admin/video-box.php:314 admin/video-box.php:324
+msgid "Size"
+msgstr ""
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "Thumb URL:"
+msgstr ""
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "Add an Image"
+msgstr ""
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "assist"
+msgstr ""
+
+#: admin/manage-sort.php:31
+msgid "Sort order changed"
+msgstr ""
+
+#: admin/manage-sort.php:57
+msgid "Back to gallery"
+msgstr ""
+
+#: admin/manage-sort.php:102 admin/manage-sort.php:111
+msgid "Date"
+msgstr ""
+
+#: admin/manage-video.php:103
+msgid "Back to Video Box"
+msgstr ""
+
+#: admin/manage.php:101 admin/manage.php:153 admin/skins.php:217
+msgid "deleted successfully"
+msgstr ""
+
+#: admin/manage.php:112
+msgid "now in draft"
+msgstr ""
+
+#: admin/manage.php:120
+msgid "now visible"
+msgstr ""
+
+#: admin/manage.php:134
+msgid "Album"
+msgstr ""
+
+#: admin/manage.php:134
+msgid "successfully created"
+msgstr ""
+
+#: admin/manage.php:153
+msgid "Picture"
+msgstr ""
+
+#: admin/manage.php:162
+msgid "Operation successful. Please clear your browser cache."
+msgstr ""
+
+#: admin/manage.php:199 admin/manage.php:271
+msgid "Copy metadata to image Description"
+msgstr ""
+
+#: admin/manage.php:264
+msgid "Pictures deleted successfully "
+msgstr ""
+
+#: admin/manage.php:345
+msgid "Update successful"
+msgstr ""
+
+#: admin/manage_thumbnail.php:17 admin/manage_thumbnail.php:20
+#: admin/showmeta.php:10 admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: admin/manage_thumbnail.php:107
+msgid "Select with the mouse the area for the new thumbnail."
+msgstr ""
+
+#: admin/manage_thumbnail.php:121
+msgid "Thumbnail updated"
+msgstr ""
+
+#: admin/manage_thumbnail.php:126
+msgid "Error updating thumbnail."
+msgstr ""
+
+#: admin/manage_thumbnail.php:143
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr ""
+
+#: admin/manage_thumbnail.php:158 admin/wpmu.php:61
+msgid "Update"
+msgstr ""
+
+#: admin/media-upload.php:125
+msgid "No gallery"
+msgstr ""
+
+#: admin/media-upload.php:137
+msgid "Select &#187;"
+msgstr ""
+
+#: admin/media-upload.php:168
+msgid "Show"
+msgstr ""
+
+#: admin/media-upload.php:169
+msgid "Hide"
+msgstr ""
+
+#: admin/media-upload.php:174
+msgid "Image ID:"
+msgstr ""
+
+#: admin/media-upload.php:180
+msgid "Alt/Title text"
+msgstr ""
+
+#: admin/media-upload.php:188
+msgid "Alignment"
+msgstr ""
+
+#: admin/media-upload.php:191
+msgid "None"
+msgstr ""
+
+#: admin/media-upload.php:193
+msgid "Left"
+msgstr ""
+
+#: admin/media-upload.php:195
+msgid "Center"
+msgstr ""
+
+#: admin/media-upload.php:197
+msgid "Right"
+msgstr ""
+
+#: admin/media-upload.php:207
+msgid "Full size"
+msgstr ""
+
+#: admin/media-upload.php:215
+msgid "Insert into Post"
+msgstr ""
+
+#: admin/media-upload.php:225
+msgid "Save all changes"
+msgstr ""
+
+#: admin/meta_box.php:139
+msgid "Back Button Text"
+msgstr ""
+
+#: admin/meta_box.php:141
+msgid "Leave empty to hide Back button"
+msgstr ""
+
+#: admin/meta_box.php:144
+msgid "Back Button Link"
+msgstr ""
+
+#: admin/meta_box.php:146
+msgid "Leave empty to use referer link"
+msgstr ""
+
+#: admin/meta_box.php:149 admin/tinymce/window.php:53
+#: admin/tinymce/window.php:62 widgets/widgets.php:595
+msgid "Music"
+msgstr ""
+
+#: admin/meta_box.php:151 admin/tinymce/window.php:176
+msgid "choose playlist"
+msgstr ""
+
+#: admin/meta_box.php:161
+msgid "(optional) Read Skin specification for supporting this function."
+msgstr ""
+
+#: admin/meta_box.php:164
+msgid "Background Image Link"
+msgstr ""
+
+#: admin/meta_box.php:166
+msgid "(optional) Be sure you set Wmode to 'transparent' in skin's options"
+msgstr ""
+
+#: admin/meta_box.php:169
+msgid "Background Position"
+msgstr ""
+
+#: admin/meta_box.php:183
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/music-box.php:305
+msgid "Import mp3 from folder"
+msgstr ""
+
+#: admin/music-box.php:324
+msgid "WordPress Music Library"
+msgstr ""
+
+#: admin/music-box.php:380
+msgid "Upload Music"
+msgstr ""
+
+#: admin/music-box.php:468
+msgid "No music in WordPress Media Library."
+msgstr ""
+
+#: admin/overview.php:14
+msgid "Grand Flagallery Overview"
+msgstr ""
+
+#: admin/overview.php:111
+msgid "Reset all settings to default parameter"
+msgstr ""
+
+#: admin/overview.php:122
+msgid ""
+"Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr ""
+
+#: admin/overview.php:130
+msgid "Plugin Home"
+msgstr ""
+
+#: admin/overview.php:135
+msgid "Plugin Comments"
+msgstr ""
+
+#: admin/overview.php:140
+msgid "Rate Plugin"
+msgstr ""
+
+#: admin/overview.php:145
+msgid "My Plugins"
+msgstr ""
+
+#: admin/overview.php:150
+msgid "Contact Me"
+msgstr ""
+
+#: admin/overview.php:161
+msgid "Reset settings"
+msgstr ""
+
+#: admin/overview.php:161
+msgid ""
+"Reset all options to default settings ?\\n\\nChoose [Cancel] to Stop, [OK] "
+"to proceed.\\n"
+msgstr ""
+
+#: admin/overview.php:164
+msgid "Uninstall plugin"
+msgstr ""
+
+#: admin/overview.php:164
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\nThis action is not "
+"reversible.\\n\\nChoose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+
+#: admin/overview.php:186
+msgid "At a Glance"
+msgstr ""
+
+#: admin/overview.php:191
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/overview.php:206
+msgid "Upload pictures"
+msgstr ""
+
+#: admin/overview.php:207
+msgid "Here you can control your images and galleries."
+msgstr ""
+
+#: admin/overview.php:209
+msgid "Gallery Administrator"
+msgstr ""
+
+#: admin/overview.php:209
+msgid "Gallery Editor"
+msgstr ""
+
+#: admin/overview.php:210
+msgid "You currently have %s rights."
+msgstr ""
+
+#: admin/overview.php:216
+msgid "Welcome to FlAGallery !"
+msgstr ""
+
+#: admin/overview.php:217
+msgid "Server Settings"
+msgstr ""
+
+#: admin/overview.php:218
+msgid "Graphic Library"
+msgstr ""
+
+#: admin/overview.php:219
+msgid "Setup Box"
+msgstr ""
+
+#: admin/overview.php:239
+msgid "No GD support"
+msgstr ""
+
+#: admin/overview.php:251 admin/overview.php:295 admin/overview.php:298
+#: admin/overview.php:301
+msgid "Yes"
+msgstr ""
+
+#: admin/overview.php:253 admin/overview.php:296 admin/overview.php:299
+#: admin/overview.php:302
+msgid "No"
+msgstr ""
+
+#: admin/overview.php:269
+msgid "Not set"
+msgstr ""
+
+#: admin/overview.php:271 admin/overview.php:274
+msgid "On"
+msgstr ""
+
+#: admin/overview.php:272 admin/overview.php:275
+msgid "Off"
+msgstr ""
+
+#: admin/overview.php:278 admin/overview.php:281 admin/overview.php:284
+#: admin/overview.php:287 admin/overview.php:290 admin/overview.php:293
+msgid "N/A"
+msgstr ""
+
+#: admin/overview.php:292
+msgid " MByte"
+msgstr ""
+
+#: admin/overview.php:304
+msgid "Operating System"
+msgstr ""
+
+#: admin/overview.php:305
+msgid "Server"
+msgstr ""
+
+#: admin/overview.php:306
+msgid "Memory usage"
+msgstr ""
+
+#: admin/overview.php:307
+msgid "MYSQL Version"
+msgstr ""
+
+#: admin/overview.php:308
+msgid "SQL Mode"
+msgstr ""
+
+#: admin/overview.php:309
+msgid "PHP Version"
+msgstr ""
+
+#: admin/overview.php:310
+msgid "PHP Safe Mode"
+msgstr ""
+
+#: admin/overview.php:311
+msgid "PHP Allow URL fopen"
+msgstr ""
+
+#: admin/overview.php:312
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: admin/overview.php:313
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: admin/overview.php:314
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: admin/overview.php:315
+msgid "PHP Output Buffer Size"
+msgstr ""
+
+#: admin/overview.php:316
+msgid "PHP Max Script Execute Time"
+msgstr ""
+
+#: admin/overview.php:317
+msgid "PHP Exif support"
+msgstr ""
+
+#: admin/overview.php:318
+msgid "PHP IPTC support"
+msgstr ""
+
+#: admin/overview.php:319
+msgid "PHP XML support"
+msgstr ""
+
+#: admin/overview.php:377
+msgid "Storage Space"
+msgstr ""
+
+#: admin/overview.php:380
+msgid "Upload Space Used:"
+msgstr ""
+
+#: admin/overview.php:386
+msgid "Upload Space Remaining:"
+msgstr ""
+
+#: admin/playlist-sort.php:66 admin/playlist-sort.php:74
+#: admin/video-sort.php:71 admin/video-sort.php:79
+msgid "Play"
+msgstr ""
+
+#: admin/settings.php:33 admin/skins.php:152 admin/skins.php:204
+msgid "Update Successfully"
+msgstr ""
+
+#: admin/settings.php:47 admin/settings.php:89 admin/skins.php:183
+#: admin/skins.php:374
+msgid "cURL library is not installed on your server."
+msgstr ""
+
+#: admin/settings.php:77
+msgid "Error: All fields required."
+msgstr ""
+
+#: admin/settings.php:122
+msgid "Updated capabilities"
+msgstr ""
+
+#: admin/settings.php:134
+msgid "Gallery Options"
+msgstr ""
+
+#: admin/settings.php:136 admin/settings.php:296
+msgid "License Key & Remote Control"
+msgstr ""
+
+#: admin/settings.php:138
+msgid "FLV Single Player Options"
+msgstr ""
+
+#: admin/settings.php:139
+msgid "MP3 Single Player Options"
+msgstr ""
+
+#: admin/settings.php:141
+msgid "Roles"
+msgstr ""
+
+#: admin/settings.php:164
+msgid "Image Gallery Options"
+msgstr ""
+
+#: admin/settings.php:165
+msgid "General Options"
+msgstr ""
+
+#: admin/settings.php:168 admin/wpmu.php:44
+msgid "Gallery path"
+msgstr ""
+
+#: admin/settings.php:170
+msgid "This is the default path for all galleries"
+msgstr ""
+
+#: admin/settings.php:173
+msgid "Default flash size (W x H)"
+msgstr ""
+
+#: admin/settings.php:178
+msgid "Delete image files"
+msgstr ""
+
+#: admin/settings.php:180
+msgid "Delete files, when removing a gallery in the database"
+msgstr ""
+
+#: admin/settings.php:183
+msgid "Activate Deep Linking (optional)"
+msgstr ""
+
+#: admin/settings.php:183
+msgid "Not all skins support this feature."
+msgstr ""
+
+#: admin/settings.php:185
+msgid "Deep links for images in flash."
+msgstr ""
+
+#: admin/settings.php:188
+msgid "Activate Media RSS feed"
+msgstr ""
+
+#: admin/settings.php:190
+msgid "A RSS feed will be added to you blog header."
+msgstr ""
+
+#: admin/settings.php:194
+msgid "Image settings"
+msgstr ""
+
+#: admin/settings.php:197
+msgid "Resize Images"
+msgstr ""
+
+#: admin/settings.php:199
+msgid "Width x Height (in pixel). Flash Album Gallery will keep ratio size"
+msgstr ""
+
+#: admin/settings.php:202
+msgid "Image quality"
+msgstr ""
+
+#: admin/settings.php:207
+msgid "Sort options"
+msgstr ""
+
+#: admin/settings.php:210
+msgid "Sort thumbnails"
+msgstr ""
+
+#: admin/settings.php:212
+msgid "Custom order"
+msgstr ""
+
+#: admin/settings.php:213
+msgid "Image ID"
+msgstr ""
+
+#: admin/settings.php:214
+msgid "File name"
+msgstr ""
+
+#: admin/settings.php:215
+msgid "Alt / Title text"
+msgstr ""
+
+#: admin/settings.php:216
+msgid "Date / Time"
+msgstr ""
+
+#: admin/settings.php:217
+msgid "Image views"
+msgstr ""
+
+#: admin/settings.php:218
+msgid "Image likes"
+msgstr ""
+
+#: admin/settings.php:219 admin/tinymce/window.php:153
+msgid "Randomly"
+msgstr ""
+
+#: admin/settings.php:223
+msgid "Sort direction"
+msgstr ""
+
+#: admin/settings.php:224
+msgid "Ascending"
+msgstr ""
+
+#: admin/settings.php:225
+msgid "Descending"
+msgstr ""
+
+#: admin/settings.php:230
+msgid "Alternative Gallery Options"
+msgstr ""
+
+#: admin/settings.php:230
+msgid ""
+"(Note: this is not flash skin option. Options below only for alternative "
+"gallery in mobile browsers)"
+msgstr ""
+
+#: admin/settings.php:233
+msgid "Show jQuery gallery for browsers without flashplayer"
+msgstr ""
+
+#: admin/settings.php:237
+msgid "jQuery gallery script"
+msgstr ""
+
+#: admin/settings.php:245
+msgid "Disable image views/likes counter on thumbnails"
+msgstr ""
+
+#: admin/settings.php:249
+msgid "Top Bar BG"
+msgstr ""
+
+#: admin/settings.php:253
+msgid "Category Buttons BG"
+msgstr ""
+
+#: admin/settings.php:271
+msgid "Thumbnail BG"
+msgstr ""
+
+#: admin/settings.php:275
+msgid "Thumbnail MouseOver BG"
+msgstr ""
+
+#: admin/settings.php:279
+msgid "Fancybox Title"
+msgstr ""
+
+#: admin/settings.php:279 admin/settings.php:283
+msgid "Only if FancyBox script is selected"
+msgstr ""
+
+#: admin/settings.php:283
+msgid "Fancybox Description Text"
+msgstr ""
+
+#: admin/settings.php:300
+msgid "License Key"
+msgstr ""
+
+#: admin/settings.php:304
+msgid ""
+"If you want to upload photos to FlAGallery right from your iPhone <a href="
+"\"https://itunes.apple.com/us/app/mypgc/id663405181?ls=1&mt=8\">download "
+"application</a> and enter access key below. You can enter your own access "
+"key. You can change these at any point in time and this will force all users "
+"to have to log in again in application."
+msgstr ""
+
+#: admin/settings.php:307
+msgid "Remote App Access Key"
+msgstr ""
+
+#: admin/settings.php:309
+msgid "Leave blank to disable access from application"
+msgstr ""
+
+#: admin/settings.php:313
+msgid "Update Settings for Remote Access"
+msgstr ""
+
+#: admin/settings.php:318
+msgid ""
+"Register with form below or <a href=\"http://mypgc.co/membership/\" target="
+"\"_blank\">purchase license key</a>"
+msgstr ""
+
+#: admin/settings.php:323
+msgid "First Name"
+msgstr ""
+
+#: admin/settings.php:324
+msgid "Last Name"
+msgstr ""
+
+#: admin/settings.php:327
+msgid "Email"
+msgstr ""
+
+#: admin/settings.php:328
+msgid "Register"
+msgstr ""
+
+#: admin/settings.php:341
+msgid "Flash Video Player Colors"
+msgstr ""
+
+#: admin/settings.php:344
+msgid "Video BG"
+msgstr ""
+
+#: admin/settings.php:348 admin/settings.php:385
+msgid "Color 1"
+msgstr ""
+
+#: admin/settings.php:352 admin/settings.php:389
+msgid "Color 2"
+msgstr ""
+
+#: admin/settings.php:357 admin/settings.php:394
+msgid "Autoplay"
+msgstr ""
+
+#: admin/settings.php:359 admin/settings.php:396
+msgid "True"
+msgstr ""
+
+#: admin/settings.php:360 admin/settings.php:397
+msgid "False"
+msgstr ""
+
+#: admin/settings.php:364
+msgid "Default Size"
+msgstr ""
+
+#: admin/settings.php:378
+msgid "MP3 Player Colors"
+msgstr ""
+
+#: admin/settings.php:381
+msgid "Player BG"
+msgstr ""
+
+#: admin/settings.php:409
+msgid "Roles / capabilities"
+msgstr ""
+
+#: admin/settings.php:410
+msgid ""
+"Select the lowest role which should be able to access the follow "
+"capabilities. Flash Album Gallery supports the standard roles from WordPress."
+msgstr ""
+
+#: admin/settings.php:413
+msgid "Main Flash Album Gallery overview"
+msgstr ""
+
+#: admin/settings.php:417
+msgid "View TinyMCE Button / GRAND Pages"
+msgstr ""
+
+#: admin/settings.php:421
+msgid "Add gallery / Upload images"
+msgstr ""
+
+#: admin/settings.php:425
+msgid "Import images folder"
+msgstr ""
+
+#: admin/settings.php:429
+msgid "Manage gallery"
+msgstr ""
+
+#: admin/settings.php:433
+msgid "Manage others galleries and Albums"
+msgstr ""
+
+#: admin/settings.php:437
+msgid "Manage music"
+msgstr ""
+
+#: admin/settings.php:441
+msgid "Manage video"
+msgstr ""
+
+#: admin/settings.php:445
+msgid "Manage banners"
+msgstr ""
+
+#: admin/settings.php:449
+msgid "Change skin"
+msgstr ""
+
+#: admin/settings.php:453
+msgid "Add skins"
+msgstr ""
+
+#: admin/settings.php:457
+msgid "Delete skins"
+msgstr ""
+
+#: admin/settings.php:461
+msgid "Change options"
+msgstr ""
+
+#: admin/settings.php:465
+msgid "Facebook page"
+msgstr ""
+
+#: admin/settings.php:469
+msgid "Update capabilities"
+msgstr ""
+
+#: admin/showmeta.php:33 admin/showmeta.php:59 admin/showmeta.php:84
+#: admin/showmeta.php:108
+msgid "Tag"
+msgstr ""
+
+#: admin/showmeta.php:34 admin/showmeta.php:60 admin/showmeta.php:85
+#: admin/showmeta.php:109
+msgid "Value"
+msgstr ""
+
+#: admin/showmeta.php:73
+msgid "No exif data"
+msgstr ""
+
+#: admin/skin_install.php:10 admin/skins.php:84
+msgid "No skin Specified"
+msgstr ""
+
+#: admin/skin_install.php:39
+msgid "Installation Failed"
+msgstr ""
+
+#: admin/skin_install.php:42 admin/skins.php:65
+msgid "The skin installed successfully."
+msgstr ""
+
+#: admin/skin_install.php:45 admin/skins.php:439
+msgid "Activate this skin"
+msgstr ""
+
+#: admin/skin_install.php:45
+msgid "Activate Skin"
+msgstr ""
+
+#: admin/skin_install.php:46
+msgid "Goto skin overview"
+msgstr ""
+
+#: admin/skin_install.php:46
+msgid "Skin overview"
+msgstr ""
+
+#: admin/skin_install.php:70
+msgid "Could not access filesystem."
+msgstr ""
+
+#: admin/skin_install.php:73
+msgid "Filesystem error"
+msgstr ""
+
+#: admin/skin_install.php:79
+msgid "Unable to locate FlAGallery Skin directory."
+msgstr ""
+
+#: admin/skin_install.php:84
+msgid "Unable to locate WordPress Content directory (wp-content)."
+msgstr ""
+
+#: admin/skin_install.php:90
+msgid "Install package not available."
+msgstr ""
+
+#: admin/skin_install.php:98
+msgid "Unpacking the skin package"
+msgstr ""
+
+#: admin/skin_install.php:115
+msgid "Folder already exists."
+msgstr ""
+
+#: admin/skin_install.php:118
+msgid "Installing the skin"
+msgstr ""
+
+#: admin/skins.php:72
+msgid "Install info"
+msgstr ""
+
+#: admin/skins.php:87
+msgid "Installing Skin from file: %s"
+msgstr ""
+
+#: admin/skins.php:96
+msgid "The uploaded file could not be moved to %s."
+msgstr ""
+
+#: admin/skins.php:161
+msgid "License Key Updated"
+msgstr ""
+
+#: admin/skins.php:176
+msgid "Your license key was deactivated"
+msgstr ""
+
+#: admin/skins.php:180
+msgid "Bad Licence Key"
+msgstr ""
+
+#: admin/skins.php:217 admin/skins.php:247 admin/skins.php:384
+#: admin/skins.php:392 admin/tinymce/window.php:52 admin/tinymce/window.php:61
+msgid "Skin"
+msgstr ""
+
+#: admin/skins.php:219 admin/skins.php:223
+msgid "Can't find skin directory "
+msgstr ""
+
+#: admin/skins.php:219 admin/skins.php:223
+msgid ". Try delete it manualy via ftp"
+msgstr ""
+
+#: admin/skins.php:226
+msgid "You need activate another skin before delete it"
+msgstr ""
+
+#: admin/skins.php:229
+msgid ""
+"You do not have sufficient permissions to delete skins of Grand Flagallery."
+msgstr ""
+
+#: admin/skins.php:247
+msgid ""
+"activated successfully. Optionally it can be overwritten with shortcode "
+"parameter."
+msgstr ""
+
+#: admin/skins.php:254 admin/skins.php:274
+msgid "New Photo Skins"
+msgstr ""
+
+#: admin/skins.php:258
+msgid "New Music Skins"
+msgstr ""
+
+#: admin/skins.php:262
+msgid "New Video Skins"
+msgstr ""
+
+#: admin/skins.php:266
+msgid "New Banner Skins"
+msgstr ""
+
+#: admin/skins.php:270
+msgid "New Widget Skins"
+msgstr ""
+
+#: admin/skins.php:283
+msgid "Skins refreshed successfully"
+msgstr ""
+
+#: admin/skins.php:289 admin/skins.php:296
+msgid "Add new skin"
+msgstr ""
+
+#: admin/skins.php:291 admin/skins.php:311
+msgid "Active Skin Options"
+msgstr ""
+
+#: admin/skins.php:297
+msgid "Install a skin in .zip format"
+msgstr ""
+
+#: admin/skins.php:298
+msgid ""
+"If you have a skin in a .zip format, You may install it by uploading it here."
+msgstr ""
+
+#: admin/skins.php:302
+msgid "Install Now"
+msgstr ""
+
+#: admin/skins.php:328
+msgid "Skin License Key"
+msgstr ""
+
+#: admin/skins.php:329
+msgid "If you have license key then paste it here."
+msgstr ""
+
+#: admin/skins.php:340
+msgid "Refresh / Update Skins"
+msgstr ""
+
+#: admin/skins.php:341
+msgid "Photo skins"
+msgstr ""
+
+#: admin/skins.php:342
+msgid "Music skins"
+msgstr ""
+
+#: admin/skins.php:343
+msgid "Video skins"
+msgstr ""
+
+#: admin/skins.php:344
+msgid "Banner skins"
+msgstr ""
+
+#: admin/skins.php:345
+msgid "Widget skins"
+msgstr ""
+
+#: admin/skins.php:374
+msgid "Download skins from http://photogallerycreator.com"
+msgstr ""
+
+#: admin/skins.php:403
+msgid "No skins to show"
+msgstr ""
+
+#: admin/skins.php:422
+msgid "Version %s"
+msgstr ""
+
+#: admin/skins.php:426
+msgid "Visit author homepage"
+msgstr ""
+
+#: admin/skins.php:427
+msgid "By %s"
+msgstr ""
+
+#: admin/skins.php:430
+msgid "Visit skin site"
+msgstr ""
+
+#: admin/skins.php:439
+msgid "Activate"
+msgstr ""
+
+#: admin/skins.php:441
+msgid "Activated by default"
+msgstr ""
+
+#: admin/skins.php:461
+msgid "Delete this skin"
+msgstr ""
+
+#: admin/skins.php:491
+msgid "Install"
+msgstr ""
+
+#: admin/skins.php:492
+msgid "Preview"
+msgstr ""
+
+#: admin/skins.php:500
+msgid "All available %s skins are already installed..."
+msgstr ""
+
+#: admin/tinymce/tinymce.php:115 admin/tinymce/window.php:21
+#: admin/tinymce/window.php:32
+msgid "Insert Flash Album with one or more galleries"
+msgstr ""
+
+#: admin/tinymce/window.php:10
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: admin/tinymce/window.php:49 admin/tinymce/window.php:58
+msgid "Galleries"
+msgstr ""
+
+#: admin/tinymce/window.php:51 admin/tinymce/window.php:60
+msgid "Sort"
+msgstr ""
+
+#: admin/tinymce/window.php:72
+msgid "Album Name"
+msgstr ""
+
+#: admin/tinymce/window.php:97
+msgid "Select album"
+msgstr ""
+
+#: admin/tinymce/window.php:99
+msgid "choose album"
+msgstr ""
+
+#: admin/tinymce/window.php:120
+msgid "choose custom skin"
+msgstr ""
+
+#: admin/tinymce/window.php:133
+msgid "Skin align"
+msgstr ""
+
+#: admin/tinymce/window.php:135
+msgid "default"
+msgstr ""
+
+#: admin/tinymce/window.php:136
+msgid "align left"
+msgstr ""
+
+#: admin/tinymce/window.php:137
+msgid "align center"
+msgstr ""
+
+#: admin/tinymce/window.php:138
+msgid "align right"
+msgstr ""
+
+#: admin/tinymce/window.php:148
+msgid "Order galleries by"
+msgstr ""
+
+#: admin/tinymce/window.php:150
+msgid "Gallery IDs (default)"
+msgstr ""
+
+#: admin/tinymce/window.php:151
+msgid "Gallery Title"
+msgstr ""
+
+#: admin/tinymce/window.php:152
+msgid "User Defined"
+msgstr ""
+
+#: admin/tinymce/window.php:157
+msgid "Order"
+msgstr ""
+
+#: admin/tinymce/window.php:159
+msgid "DESC (default)"
+msgstr ""
+
+#: admin/tinymce/window.php:160
+msgid "ASC"
+msgstr ""
+
+#: admin/tinymce/window.php:164
+msgid "Exclude Gallery"
+msgstr ""
+
+#: admin/tinymce/window.php:174
+msgid "Choose playlist for background music"
+msgstr ""
+
+#: admin/tinymce/window.php:185
+msgid "Read Skin specification for supporting this function."
+msgstr ""
+
+#: admin/tinymce/window.php:194
+msgid "Insert"
+msgstr ""
+
+#: admin/tuning.php:20 admin/tuning.php:24
+msgid "Directory <strong>\""
+msgstr ""
+
+#: admin/tuning.php:20
+msgid ""
+"\"</strong> doesn't exist. Please create first the <strong>\"flagallery-skins"
+"\"</strong> folder!"
+msgstr ""
+
+#: admin/tuning.php:24
+msgid "\"</strong> is not writeable!"
+msgstr ""
+
+#: admin/tuning.php:39
+msgid "Failed to move files from %1$s to %2$s"
+msgstr ""
+
+#: admin/upgrade.php:52
+msgid "Import date and time information..."
+msgstr ""
+
+#: admin/upgrade.php:54 admin/upgrade.php:72 admin/upgrade.php:84
+#: admin/upgrade.php:93
+msgid "finished"
+msgstr ""
+
+#: admin/upgrade.php:58 admin/upgrade.php:75 admin/upgrade.php:87
+msgid "Adding new options to database..."
+msgstr ""
+
+#: admin/video-box.php:259
+msgid "Import video from folder"
+msgstr ""
+
+#: admin/video-box.php:278
+msgid "WordPress Video Library"
+msgstr ""
+
+#: admin/video-box.php:295
+msgid "Upload Video"
+msgstr ""
+
+#: admin/video-box.php:371
+msgid "Can't read file size. Perhaps file is broken."
+msgstr ""
+
+#: admin/video-box.php:392
+msgid "No video in WordPress Media Library."
+msgstr ""
+
+#: admin/wpmu.php:29
+msgid "Update successfully"
+msgstr ""
+
+#: admin/wpmu.php:38
+msgid "General WordPress MU Settings"
+msgstr ""
+
+#: admin/wpmu.php:46
+msgid ""
+"This is the default path for all blogs. With the placeholder %BLOG_ID% you "
+"can organize the folder structure better. The path must end with a /."
+msgstr ""
+
+#: admin/wpmu.php:49
+msgid "Enable upload quota check"
+msgstr ""
+
+#: admin/wpmu.php:51
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr ""
+
+#: admin/wpmu.php:55
+msgid "Enable roles/capabilities"
+msgstr ""
+
+#: admin/wpmu.php:57
+msgid "Allow users to change the roles for other blog authors."
+msgstr ""
+
+#: facebook.php:68 facebook.php:80 facebook.php:98
+msgid "Can't find playlist"
+msgstr ""
+
+#: flag.php:155
+msgid ""
+"Sorry, GRAND Flash Album Gallery works only with a Memory Limit of 16 MB "
+"higher"
+msgstr ""
+
+#: flag.php:354
+msgctxt "post type general name"
+msgid "GRAND Galleries"
+msgstr ""
+
+#: flag.php:355
+msgid "FlAGallery Page"
+msgstr ""
+
+#: flag.php:356 flag.php:357
+msgid "Add New Gallery Page"
+msgstr ""
+
+#: flag.php:358
+msgid "Edit Gallery Page"
+msgstr ""
+
+#: flag.php:359
+msgid "New Gallery Page"
+msgstr ""
+
+#: flag.php:360
+msgid "All GRAND Galleries"
+msgstr ""
+
+#: flag.php:361
+msgid "View Gallery Page"
+msgstr ""
+
+#: flag.php:362
+msgid "Search GRAND Galleries"
+msgstr ""
+
+#: flag.php:363
+msgid "No GRAND Galleries found"
+msgstr ""
+
+#: flag.php:364
+msgid "No GRAND Galleries found in Trash"
+msgstr ""
+
+#: flag.php:371
+msgid ""
+"This is the page template for displaing Grand Flagallery galleries in full "
+"width and height of browser window."
+msgstr ""
+
+#: flag.php:390
+msgid "Photo Gallery Page Generator"
+msgstr ""
+
+#: flag.php:474
+msgid "Add Grand Flagallery"
+msgstr ""
+
+#: lib/class.swfobject.php:59
+msgid ""
+"The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> "
+"and a browser with Javascript support are needed."
+msgstr ""
+
+#: lib/core.php:200
+msgid ""
+"Note : Based on your server memory limit you should not upload larger images "
+"then <strong>%d x %d</strong> pixel"
+msgstr ""
+
+#: lib/core.php:280
+msgid "Can't create/open file '"
+msgstr ""
+
+#: lib/core.php:286
+msgid "Can't write data to file '"
+msgstr ""
+
+#: lib/meta.php:116
+msgid " mm"
+msgstr ""
+
+#: lib/meta.php:122
+msgid " sec"
+msgstr ""
+
+#: lib/meta.php:126
+msgid "Fired"
+msgstr ""
+
+#: lib/meta.php:126
+msgid "Not fired"
+msgstr ""
+
+#: lib/meta.php:389
+msgid "Aperture"
+msgstr ""
+
+#: lib/meta.php:390
+msgid "Credit"
+msgstr ""
+
+#: lib/meta.php:391
+msgid "Camera"
+msgstr ""
+
+#: lib/meta.php:392
+msgid "Caption"
+msgstr ""
+
+#: lib/meta.php:393
+msgid "Date/Time"
+msgstr ""
+
+#: lib/meta.php:394
+msgid "Copyright"
+msgstr ""
+
+#: lib/meta.php:395
+msgid "Focal length"
+msgstr ""
+
+#: lib/meta.php:396
+msgid "ISO"
+msgstr ""
+
+#: lib/meta.php:397
+msgid "Shutter speed"
+msgstr ""
+
+#: lib/meta.php:400
+msgid "Tags"
+msgstr ""
+
+#: lib/meta.php:401
+msgid "Subject"
+msgstr ""
+
+#: lib/meta.php:402
+msgid "Make"
+msgstr ""
+
+#: lib/meta.php:403
+msgid "Edit Status"
+msgstr ""
+
+#: lib/meta.php:404
+msgid "Category"
+msgstr ""
+
+#: lib/meta.php:405
+msgid "Keywords"
+msgstr ""
+
+#: lib/meta.php:406
+msgid "Date Created"
+msgstr ""
+
+#: lib/meta.php:407
+msgid "Time Created"
+msgstr ""
+
+#: lib/meta.php:408
+msgid "Author Position"
+msgstr ""
+
+#: lib/meta.php:409
+msgid "City"
+msgstr ""
+
+#: lib/meta.php:410
+msgid "Location"
+msgstr ""
+
+#: lib/meta.php:411
+msgid "Province/State"
+msgstr ""
+
+#: lib/meta.php:412
+msgid "Country code"
+msgstr ""
+
+#: lib/meta.php:413
+msgid "Country"
+msgstr ""
+
+#: lib/meta.php:414
+msgid "Headline"
+msgstr ""
+
+#: lib/meta.php:415
+msgid "Source"
+msgstr ""
+
+#: lib/meta.php:416
+msgid "Contact"
+msgstr ""
+
+#: lib/meta.php:417
+msgid "Last modified"
+msgstr ""
+
+#: lib/meta.php:418
+msgid "Program tool"
+msgstr ""
+
+#: lib/meta.php:419
+msgid "Format"
+msgstr ""
+
+#: lib/meta.php:420
+msgid "Image Width"
+msgstr ""
+
+#: lib/meta.php:421
+msgid "Image Height"
+msgstr ""
+
+#: lib/meta.php:422
+msgid "Flash"
+msgstr ""
+
+#: lib/shortcodes.php:62
+msgid "[Gallery %s not found]"
+msgstr ""
+
+#: lib/shortcodes.php:81
+msgid "[Galleries not found]"
+msgstr ""
+
+#: lib/shortcodes.php:93
+msgid "[Galleries %s not found]"
+msgstr ""
+
+#: lib/shortcodes.php:155 lib/shortcodes.php:194
+msgid "[Playlist %s not found]"
+msgstr ""
+
+#: lib/shortcodes.php:234 lib/shortcodes.php:258
+msgid "[XML %s not found]"
+msgstr ""
+
+#: widgets/widgets.php:15
+msgid "Show links to GRAND Pages as random images from the galleries"
+msgstr ""
+
+#: widgets/widgets.php:16
+msgid "FLAGallery GRANDPages"
+msgstr ""
+
+#: widgets/widgets.php:107 widgets/widgets.php:305 widgets/widgets.php:479
+msgid "Title :"
+msgstr ""
+
+#: widgets/widgets.php:113 widgets/widgets.php:320 widgets/widgets.php:485
+msgid "Width x Height of thumbs:"
+msgstr ""
+
+#: widgets/widgets.php:119
+msgid "Select GRAND Pages:"
+msgstr ""
+
+#: widgets/widgets.php:131
+msgid "galleries order:"
+msgstr ""
+
+#: widgets/widgets.php:147
+msgid "Show a Grand Flagallery Banner"
+msgstr ""
+
+#: widgets/widgets.php:148
+msgid "FLAGallery Banner"
+msgstr ""
+
+#: widgets/widgets.php:154
+msgid "Banner"
+msgstr ""
+
+#: widgets/widgets.php:205 widgets/widgets.php:646
+msgid "Title:"
+msgstr ""
+
+#: widgets/widgets.php:207 widgets/widgets.php:648
+msgid "Select playlist:"
+msgstr ""
+
+#: widgets/widgets.php:219 widgets/widgets.php:660
+msgid "Height:"
+msgstr ""
+
+#: widgets/widgets.php:220 widgets/widgets.php:661
+msgid "Width:"
+msgstr ""
+
+#: widgets/widgets.php:222 widgets/widgets.php:348 widgets/widgets.php:663
+msgid "Select Skin:"
+msgstr ""
+
+#: widgets/widgets.php:260
+msgid "Add recent or random images from the galleries"
+msgstr ""
+
+#: widgets/widgets.php:261
+msgid "FLAGallery Widget"
+msgstr ""
+
+#: widgets/widgets.php:312
+msgid "random"
+msgstr ""
+
+#: widgets/widgets.php:315
+msgid "first in album"
+msgstr ""
+
+#: widgets/widgets.php:326 widgets/widgets.php:491
+msgid "Width x Height of popup:"
+msgstr ""
+
+#: widgets/widgets.php:332
+msgid "Select Album:"
+msgstr ""
+
+#: widgets/widgets.php:334
+msgid "Choose album"
+msgstr ""
+
+#: widgets/widgets.php:440
+msgid "Add recent or random video from the galleries"
+msgstr ""
+
+#: widgets/widgets.php:441
+msgid "FLAGallery Video Widget"
+msgstr ""
+
+#: widgets/widgets.php:497
+msgid "Select Playlist:"
+msgstr ""
+
+#: widgets/widgets.php:564
+msgid "Error! No playlist."
+msgstr ""
+
+#: widgets/widgets.php:588
+msgid "Show a Grand Flagallery Music Player"
+msgstr ""
+
+#: widgets/widgets.php:589
+msgid "FLAGallery Music"
+msgstr ""
+
+#: xml/media-rss.php:39
+msgid "No galleries have been yet created."
+msgstr ""
+
+#: xml/media-rss.php:58
+msgid "The gallery ID=%s does not exist."
+msgstr ""
+
+#: xml/media-rss.php:85
+msgid "Invalid MediaRSS command (%s)."
+msgstr ""

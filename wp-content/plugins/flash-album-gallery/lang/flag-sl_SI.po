@@ -1,0 +1,3081 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GrandFla gallery Sl\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/flash-album-gallery\n"
+"POT-Creation-Date: 2013-07-10 10:46:14+00:00\n"
+"PO-Revision-Date: 2013-07-10 22:15+0100\n"
+"Last-Translator: Bekim Lutolli <Bekim.Lutolli@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: Slovenščina\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#: admin/addgallery.php:37
+msgid "Upload failed!"
+msgstr "Nalaganje ni uspelo!"
+
+#: admin/addgallery.php:49 admin/functions.php:819
+msgid "No gallery selected !"
+msgstr "Nobena galerija ni izbrana!"
+
+#: admin/addgallery.php:118
+msgid "Image Files"
+msgstr "Slikovne datoteke"
+
+#: admin/addgallery.php:139 admin/addgallery.php:169
+msgid "remove"
+msgstr "odstrani"
+
+#: admin/addgallery.php:140 admin/addgallery.php:281 admin/banner-box.php:342
+#: admin/music-box.php:311 admin/video-box.php:265
+msgid "Browse..."
+msgstr "Brskaj"
+
+#: admin/addgallery.php:141 admin/addgallery.php:211 admin/addgallery.php:267
+msgid "Upload images"
+msgstr "Naloži datoteke"
+
+#: admin/addgallery.php:180
+msgid "Add new gallery"
+msgstr "Dodaj novo galerijo"
+
+#: admin/addgallery.php:181
+msgid "Upload Images"
+msgstr "Naloži slike"
+
+#: admin/addgallery.php:183 admin/addgallery.php:275
+msgid "Import image folder"
+msgstr "Uvozi mapo s slikami"
+
+#: admin/addgallery.php:189
+msgid "Create a new gallery"
+msgstr "Ustvari novo galerijo"
+
+#: admin/addgallery.php:194
+msgid "New Gallery"
+msgstr "Nova galerija"
+
+#: admin/addgallery.php:199
+msgid "Create a new , empty gallery below the folder"
+msgstr "ustvari novo, prazno galerijo pod mapo"
+
+#: admin/addgallery.php:201
+msgid "Allowed characters for file and folder names are"
+msgstr "Dovoljen iznaki za datoteke in mape so"
+
+#: admin/addgallery.php:203
+msgid "Add gallery"
+msgstr "Dodaj galerijo"
+
+#: admin/addgallery.php:238
+msgid "Upload image(s):"
+msgstr "Naloži slike:"
+
+#: admin/addgallery.php:242
+msgid "in to"
+msgstr "v"
+
+#: admin/addgallery.php:244
+msgid "Choose gallery"
+msgstr "Izberi galerijo"
+
+#: admin/addgallery.php:262
+msgid ""
+"The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr ""
+"Serijsko nalaganje potrebuje adobe flash 10, onemogočite ga če imate težave"
+
+#: admin/addgallery.php:262
+msgid "Disable flash upload"
+msgstr "Onemogočite flash nalaganje"
+
+#: admin/addgallery.php:264
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Naložite več datotek na enkrat z uporabo ctrl/shift v dialogu"
+
+#: admin/addgallery.php:264
+msgid "Enable flash based upload"
+msgstr "Omogoči nalaganje z adobe flashom"
+
+#: admin/addgallery.php:280 admin/banner-box.php:341 admin/music-box.php:310
+#: admin/video-box.php:264
+msgid "Import from Server path:"
+msgstr "Uvozi iz strežnika"
+
+#: admin/addgallery.php:284
+msgid ""
+" Please note : For safe-mode = ON you need to add the subfolder thumbs "
+"manually"
+msgstr ""
+"Prosim upoštevajte: V varnem načinu = vključeno morate dodati podmapo thumbs "
+"ročno"
+
+#: admin/addgallery.php:287 admin/banner-box.php:349 admin/music-box.php:318
+#: admin/video-box.php:272
+msgid "Import folder"
+msgstr "Uvozi mapo"
+
+#: admin/admin.php:53 admin/admin.php:54
+msgid "GRAND Flash Album Gallery overview"
+msgstr "GRAND Flash Album Gallery pregled"
+
+#: admin/admin.php:53 admin/media-upload.php:8
+msgid "FlAGallery"
+msgstr "Flagalerija"
+
+#: admin/admin.php:54
+msgid "Overview"
+msgstr "Pregled"
+
+#: admin/admin.php:55
+msgid "FlAG Manage gallery"
+msgstr "FlAG uredi galerijo"
+
+#: admin/admin.php:55
+msgid "Manage Galleries"
+msgstr "Uredi galerije"
+
+#: admin/admin.php:56
+msgid "FlAG Music Box"
+msgstr "FLAG glasbena skrinja"
+
+#: admin/admin.php:56
+msgid "Music Box"
+msgstr "Glasbena skrinja"
+
+#: admin/admin.php:57
+msgid "FlAG Video Box"
+msgstr "FlAG video skrinja"
+
+#: admin/admin.php:57
+msgid "Video Box"
+msgstr "Video skrinja"
+
+#: admin/admin.php:58
+msgid "FlAG Banner Box"
+msgstr "FlAG skrinja oglasnih pasic"
+
+#: admin/admin.php:58
+msgid "Banner Box"
+msgstr "Skrinja oglasnih pasic"
+
+#: admin/admin.php:59
+msgid "FlAG Manage skins"
+msgstr "FLAG Upravljaj s preoblekami"
+
+#: admin/admin.php:59 admin/skins.php:339
+msgid "Skins"
+msgstr "Preobleke"
+
+#: admin/admin.php:60
+msgid "FlAG Change options"
+msgstr "FlAG Spremeni nastavitve"
+
+#: admin/admin.php:60 admin/skins.php:457
+msgid "Options"
+msgstr "Nastavitve"
+
+#: admin/admin.php:61
+msgid "FlAG Facebook Integration"
+msgstr "FlAG Facebook integracija"
+
+#: admin/admin.php:61
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/admin.php:63
+msgid "GRAND Flash Album Gallery"
+msgstr "GRAND Flash Album Galerija"
+
+#: admin/admin.php:63
+msgid "Grand Flagallery"
+msgstr "GRAND FlAGalerija"
+
+#: admin/admin.php:133
+msgid "You do not have the correct permission"
+msgstr "Nimate pravega dovoljenja"
+
+#: admin/admin.php:134
+msgid "Unexpected Error"
+msgstr "Nepričakovana napaka"
+
+#: admin/admin.php:135
+msgid "A failure occurred"
+msgstr "Ni uspelo"
+
+#: admin/admin.php:215 admin/admin.php:249 admin/functions.php:105
+#: admin/functions.php:181 admin/manage-images.php:205 admin/manage.php:101
+#: admin/manage.php:112 admin/manage.php:120 admin/overview.php:197
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] ""
+msgstr[1] "Galerija"
+msgstr[2] "Galeriji"
+msgstr[3] "Galerije"
+
+#: admin/admin.php:229
+msgid "Get help with Grand Flagallery"
+msgstr "Prodobite pomoč pri GRAND FLAGaleriji"
+
+#: admin/admin.php:233
+msgid "More Help & Info"
+msgstr "Več pomoč&info"
+
+#: admin/admin.php:235
+msgid "Grand Flagallery Video Tutorial"
+msgstr "GRAND FlAGlerija video vodič"
+
+#: admin/admin.php:236
+msgid "FAQ"
+msgstr "Navodila"
+
+#: admin/admin.php:237
+msgid "Grand Flagallery Review"
+msgstr "GRAND FlAGalerija pregled"
+
+#: admin/admin.php:238
+msgid "Get your language pack"
+msgstr "Pridobite vaš jezikovni paket"
+
+#: admin/admin.php:239
+msgid "Skins for Grand Flagallery"
+msgstr "Preobleke za GRAND FlAGalerijo"
+
+#: admin/ajax.php:139 admin/ajax.php:165 admin/facebook-tool.php:13
+msgid "Success"
+msgstr "Uspeh"
+
+#: admin/ajax.php:190 admin/functions.php:250 admin/functions.php:290
+msgid "<em>%s</em> was <strong>not</strong> imported due to an error: %s"
+msgstr "<em>%s</em> ni <strong>bil</strong> uvožen zaradi napake: %s"
+
+#: admin/ajax.php:192 admin/functions.php:253 admin/functions.php:293
+msgid "<em>%s</em> has been added to Media library"
+msgstr "<em>%s</em> je dodano v Medijsko knjižnico"
+
+#: admin/banner-box.php:90 admin/music-box.php:86 admin/video-box.php:80
+msgid "Media updated"
+msgstr "Medij posodobljen"
+
+#: admin/banner-box.php:133
+msgid "Import folder is complete. The page reloads after 5 seconds."
+msgstr "Uvoz mape je končan. Stran se ponovno naloži po 5 sekundah"
+
+#: admin/banner-box.php:134
+msgid "Import folder complete. Refresh page."
+msgstr "Uvoz mape dokončan. Osvežite stran."
+
+#: admin/banner-box.php:155 admin/music-box.php:107 admin/video-box.php:101
+msgid "Created playlists"
+msgstr "Ustvarjen seznam predvajanja"
+
+#: admin/banner-box.php:159 admin/banner-sort.php:68 admin/banner-sort.php:76
+#: admin/manage-banner.php:149 admin/manage-galleries.php:153
+#: admin/manage-images.php:232 admin/manage-playlist.php:150
+#: admin/manage-video.php:150 admin/music-box.php:111
+#: admin/playlist-sort.php:68 admin/playlist-sort.php:76
+#: admin/video-box.php:105 admin/video-sort.php:73 admin/video-sort.php:81
+#: lib/meta.php:398
+msgid "Title"
+msgstr "Naslov"
+
+#: admin/banner-box.php:160 admin/banner-box.php:433 admin/banner-box.php:442
+#: admin/manage-banner.php:153 admin/manage-banner.php:185
+#: admin/manage-banner.php:194 admin/manage-galleries.php:154
+#: admin/manage-images.php:236 admin/manage-images.php:601
+#: admin/manage-playlist.php:154 admin/manage-playlist.php:187
+#: admin/manage-playlist.php:197 admin/manage-video.php:154
+#: admin/manage-video.php:187 admin/manage-video.php:197
+#: admin/media-upload.php:184 admin/music-box.php:112 admin/music-box.php:402
+#: admin/music-box.php:412 admin/skins.php:385 admin/skins.php:393
+#: admin/video-box.php:106 admin/video-box.php:317 admin/video-box.php:327
+msgid "Description"
+msgstr "Opis"
+
+#: admin/banner-box.php:161 admin/manage-galleries.php:156
+#: admin/music-box.php:113 admin/video-box.php:107
+msgid "Quantity"
+msgstr "Količina"
+
+#: admin/banner-box.php:162 admin/manage-banner.php:127
+#: admin/manage-playlist.php:128 admin/manage-video.php:128
+#: admin/music-box.php:114 admin/video-box.php:108
+msgid "Shortcode"
+msgstr "Kratka koda (Shortcode)"
+
+#: admin/banner-box.php:163 admin/manage-galleries.php:157
+#: admin/music-box.php:115 admin/skins.php:386 admin/skins.php:394
+#: admin/video-box.php:109
+msgid "Action"
+msgstr "Ukrepanje"
+
+#: admin/banner-box.php:179 admin/manage-galleries.php:178
+#: admin/music-box.php:131 admin/video-box.php:125
+msgid "Edit"
+msgstr "Uredi"
+
+#: admin/banner-box.php:183 admin/music-box.php:135 admin/video-box.php:129
+msgid "player"
+msgstr "predvajalnik"
+
+#: admin/banner-box.php:187 admin/music-box.php:139 admin/video-box.php:133
+msgid "Delete this playlist?"
+msgstr "Izbriši seznam predvajanja"
+
+#: admin/banner-box.php:187 admin/manage-galleries.php:191
+#: admin/manage-galleries.php:273 admin/manage-images.php:401
+#: admin/music-box.php:139 admin/skins.php:461 admin/skins.php:471
+#: admin/video-box.php:133
+msgid "Delete"
+msgstr "izbriši"
+
+#: admin/banner-box.php:193 admin/music-box.php:145 admin/video-box.php:139
+msgid "No playlists found"
+msgstr "Ni najdenega seznama predvajanja"
+
+#: admin/banner-box.php:290 admin/manage-banner.php:42
+#: admin/manage-playlist.php:42 admin/manage-video.php:42
+#: admin/music-box.php:248 admin/video-box.php:205
+msgid "No items selected"
+msgstr "Ni izbranih predmetov"
+
+#: admin/banner-box.php:336
+msgid "Import banners from folder"
+msgstr "Uvozi oglasne pasice iz mape"
+
+#: admin/banner-box.php:345 admin/music-box.php:314 admin/video-box.php:268
+msgid "delete files after import in WordPress Media Library"
+msgstr "izbriši datoteke po nalaganju v Wordpress medijsko knjižnico"
+
+#: admin/banner-box.php:355
+msgid "WordPress Image Library"
+msgstr "Wordpress knjižnica slik"
+
+#: admin/banner-box.php:379 admin/manage-galleries.php:22
+#: admin/manage-images.php:55 admin/music-box.php:347
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: admin/banner-box.php:380 admin/manage-galleries.php:23
+#: admin/manage-images.php:56 admin/music-box.php:348
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: admin/banner-box.php:387 admin/music-box.php:355
+msgid "Selected Media"
+msgstr "Izbrani mediji"
+
+#: admin/banner-box.php:387 admin/music-box.php:355
+msgid "Clear Selected"
+msgstr "Počisti izbrano"
+
+#: admin/banner-box.php:389 admin/manage-galleries.php:136
+#: admin/manage-images.php:271 admin/music-box.php:357
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Prikaz %s&#8211;%s od %s"
+
+#: admin/banner-box.php:404 admin/music-box.php:372 admin/video-box.php:287
+msgid "Update Media"
+msgstr "Posodobi medije"
+
+#: admin/banner-box.php:407 admin/manage-banner.php:168
+#: admin/manage-galleries.php:124 admin/manage-images.php:280
+#: admin/manage-playlist.php:169 admin/manage-video.php:169
+#: admin/music-box.php:375 admin/video-box.php:290
+msgid "No action"
+msgstr "brez ukrepanja"
+
+#: admin/banner-box.php:408 admin/music-box.php:376 admin/video-box.php:291
+msgid "Create new playlist"
+msgstr "Ustvari nov seznam predvajanja"
+
+#: admin/banner-box.php:410 admin/manage-galleries.php:131
+#: admin/music-box.php:378 admin/video-box.php:293
+msgid "Apply"
+msgstr "Potrdi"
+
+#: admin/banner-box.php:412
+msgid "Upload Banner(s)"
+msgstr "Naloži oglasno pasico"
+
+#: admin/banner-box.php:421 admin/manage-banner.php:174
+#: admin/manage-banner.php:244 admin/manage-playlist.php:175
+#: admin/manage-playlist.php:255 admin/manage-video.php:175
+#: admin/manage-video.php:250 admin/music-box.php:389 admin/video-box.php:304
+msgid "Update Playlist"
+msgstr "posodobi seznam predvajanja"
+
+#: admin/banner-box.php:429 admin/banner-box.php:438
+#: admin/manage-banner.php:181 admin/manage-banner.php:190
+#: admin/manage-playlist.php:182 admin/manage-playlist.php:192
+#: admin/manage-video.php:182 admin/manage-video.php:192
+#: admin/music-box.php:397 admin/music-box.php:407 admin/video-box.php:312
+#: admin/video-box.php:322
+msgid "Check"
+msgstr "Preveri"
+
+#: admin/banner-box.php:430 admin/banner-box.php:439 admin/banner-sort.php:65
+#: admin/banner-sort.php:73 admin/manage-banner.php:182
+#: admin/manage-banner.php:191 admin/manage-galleries.php:152
+#: admin/manage-images.php:596 admin/manage-playlist.php:183
+#: admin/manage-playlist.php:193 admin/manage-sort.php:99
+#: admin/manage-sort.php:108 admin/manage-video.php:183
+#: admin/manage-video.php:193 admin/music-box.php:398 admin/music-box.php:408
+#: admin/playlist-sort.php:65 admin/playlist-sort.php:73
+#: admin/video-box.php:313 admin/video-box.php:323 admin/video-sort.php:70
+#: admin/video-sort.php:78
+msgid "ID"
+msgstr "ID"
+
+#: admin/banner-box.php:431 admin/banner-box.php:440
+#: admin/manage-banner.php:183 admin/manage-banner.php:192
+#: admin/manage-images.php:597 admin/manage-playlist.php:185
+#: admin/manage-playlist.php:195 admin/manage-video.php:185
+#: admin/manage-video.php:195 admin/media-upload.php:205
+#: admin/music-box.php:400 admin/music-box.php:410 admin/video-box.php:315
+#: admin/video-box.php:325
+msgid "Thumbnail"
+msgstr "PThumbnail"
+
+#: admin/banner-box.php:432 admin/banner-box.php:441
+msgid "Filename / Title / Link"
+msgstr "Ime datoteke / Naslov / Povezava"
+
+#: admin/banner-box.php:459 admin/music-box.php:429 admin/video-box.php:351
+msgid "Already Added"
+msgstr "Že dodano"
+
+#: admin/banner-box.php:480 admin/manage-banner.php:226
+msgid "URL"
+msgstr "URL"
+
+#: admin/banner-box.php:489
+msgid "No images in WordPress Media Library."
+msgstr "Ni slik v  Wordpress medijski knjižnici"
+
+#: admin/banner-box.php:507 admin/music-box.php:486 admin/video-box.php:410
+msgid "Playlist Title"
+msgstr "Naslov seznama predvajanja"
+
+#: admin/banner-box.php:509 admin/facebook-tool.php:180 admin/meta_box.php:126
+#: admin/music-box.php:488 admin/tinymce/window.php:118
+#: admin/video-box.php:412
+msgid "Choose skin"
+msgstr "Izberi preobleko"
+
+#: admin/banner-box.php:518 admin/manage-banner.php:140
+#: admin/manage-playlist.php:141 admin/manage-video.php:141
+#: admin/music-box.php:497 admin/video-box.php:421
+msgid "No Skins"
+msgstr "Ni preobleke"
+
+#: admin/banner-box.php:526 admin/music-box.php:505 admin/video-box.php:429
+msgid "Playlist Description"
+msgstr "Opis seznama predvajanja"
+
+#: admin/banner-box.php:531 admin/manage-galleries.php:335
+#: admin/manage-galleries.php:365 admin/manage-images.php:514
+#: admin/manage-images.php:543 admin/manage-images.php:573
+#: admin/music-box.php:510 admin/video-box.php:434
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: admin/banner-box.php:533 admin/manage-banner.php:171
+#: admin/manage-galleries.php:333 admin/manage-galleries.php:363
+#: admin/manage-images.php:290 admin/manage-images.php:512
+#: admin/manage-images.php:541 admin/manage-images.php:571
+#: admin/manage-playlist.php:172 admin/manage-video.php:172
+#: admin/music-box.php:512 admin/video-box.php:436
+msgid "OK"
+msgstr "vredu"
+
+#: admin/banner-sort.php:17 admin/manage-sort.php:53
+#: admin/playlist-sort.php:17 admin/video-sort.php:22
+msgid "Sort Gallery"
+msgstr "Razvrsti galerijo"
+
+#: admin/banner-sort.php:20 admin/playlist-sort.php:20 admin/video-sort.php:25
+msgid "Back to playlist"
+msgstr "Nazaj na seznam predvajanja"
+
+#: admin/banner-sort.php:25 admin/banner-sort.php:108 admin/manage-sort.php:63
+#: admin/manage-sort.php:146 admin/playlist-sort.php:25
+#: admin/playlist-sort.php:106 admin/video-sort.php:30
+#: admin/video-sort.php:113
+msgid "Update Sort Order"
+msgstr "posodobi vrstni red"
+
+#: admin/banner-sort.php:66 admin/banner-sort.php:74 admin/manage-sort.php:100
+#: admin/manage-sort.php:109
+msgid "Thumb"
+msgstr "Thumb"
+
+#: admin/banner-sort.php:67 admin/banner-sort.php:75
+#: admin/manage-images.php:598 admin/manage-sort.php:101
+#: admin/manage-sort.php:110 admin/playlist-sort.php:67
+#: admin/playlist-sort.php:75 admin/video-sort.php:72 admin/video-sort.php:80
+msgid "Filename"
+msgstr "Ime datoteke"
+
+#: admin/banner-sort.php:103 admin/manage-banner.php:238
+#: admin/manage-galleries.php:203 admin/manage-images.php:475
+#: admin/manage-playlist.php:249 admin/manage-sort.php:140
+#: admin/manage-video.php:244 admin/playlist-sort.php:101
+#: admin/video-sort.php:108
+msgid "No entries found"
+msgstr "Ni bilo najdenih vnosov"
+
+#: admin/banner.functions.php:151 admin/playlist.functions.php:121
+#: admin/video.functions.php:121
+msgid "Playlist Saved Successfully"
+msgstr "Seznam predvajanja uspešno shranjen"
+
+#: admin/banner.functions.php:154 admin/playlist.functions.php:124
+#: admin/video.functions.php:124
+msgid "Create directory please:"
+msgstr "Prosimo ustvari direktorij"
+
+#: admin/banner.functions.php:176 admin/playlist.functions.php:146
+#: admin/video.functions.php:146
+msgid "deleted"
+msgstr "izbrisano"
+
+#: admin/db_skin_color_scheme.php:51
+msgid "Color Settings"
+msgstr "Nastavitve barve"
+
+#: admin/db_skin_color_scheme.php:54
+msgid "Background Color"
+msgstr "Barva ozadja"
+
+#: admin/db_skin_color_scheme.php:58
+msgid "Buttons Background Color"
+msgstr "Barva ozadja gumbov"
+
+#: admin/db_skin_color_scheme.php:62
+msgid "Buttons Text Color"
+msgstr "Barva pisave gumbov"
+
+#: admin/db_skin_color_scheme.php:71 admin/settings.php:262
+msgid "Category Buttons Color"
+msgstr "Barva gumbov kategorije"
+
+#: admin/db_skin_color_scheme.php:80
+msgid "Category Buttons Text Color"
+msgstr "Gumbi kategorije barva pisave"
+
+#: admin/db_skin_color_scheme.php:89
+msgid "Thumbs Rollover Color"
+msgstr "Barva predoglednih sličic- rollover"
+
+#: admin/db_skin_color_scheme.php:98
+msgid "Main Title"
+msgstr "Glavni naslov"
+
+#: admin/db_skin_color_scheme.php:102
+msgid "Category Title"
+msgstr "Naslov kategorije"
+
+#: admin/db_skin_color_scheme.php:106
+msgid "Item Background"
+msgstr "Ozadje elementa"
+
+#: admin/db_skin_color_scheme.php:110
+msgid "Item Title"
+msgstr "Ime elementa"
+
+#: admin/db_skin_color_scheme.php:114
+msgid "Item Description"
+msgstr "Opis elementa"
+
+#: admin/db_skin_color_scheme.php:120 admin/manage-images.php:260
+#: admin/manage-images.php:298 admin/manage-images.php:481
+#: admin/settings.php:287 admin/settings.php:370 admin/settings.php:401
+msgid "Save Changes"
+msgstr "Shrani spremembe"
+
+#: admin/facebook-tool.php:15
+msgid "Failure"
+msgstr "Neuspelo"
+
+#: admin/facebook-tool.php:144
+msgid "Facebook Integration"
+msgstr "Facebook integracija"
+
+#: admin/facebook-tool.php:155
+msgid "Copy facebook.php file to root directory"
+msgstr "Kopiraj facebook.php v root direktorij"
+
+#: admin/facebook-tool.php:158
+msgid "Photo Gallery Facebook Page Generator"
+msgstr "Foto galerija Facebook generator strani"
+
+#: admin/facebook-tool.php:161 admin/meta_box.php:107
+#: admin/tinymce/window.php:76
+msgid "Select galleries"
+msgstr "Izberi galerije"
+
+#: admin/facebook-tool.php:161 admin/meta_box.php:107
+#: admin/tinymce/window.php:76
+msgid "(album categories)"
+msgstr "(kategorije albuma)"
+
+#: admin/facebook-tool.php:163 admin/meta_box.php:109
+#: admin/tinymce/window.php:78
+msgid "all galleries"
+msgstr "vse galerije"
+
+#: admin/facebook-tool.php:176 admin/meta_box.php:122
+msgid "Galleries order"
+msgstr "Vrstni red galerij"
+
+#: admin/facebook-tool.php:182 admin/meta_box.php:128
+msgid "skin active by default"
+msgstr "Privzeto aktivirana preobleka"
+
+#: admin/facebook-tool.php:191 admin/tinymce/window.php:129
+msgid "Skin size"
+msgstr "Velikost preobleke"
+
+#: admin/facebook-tool.php:191 admin/tinymce/window.php:129
+msgid "blank for default"
+msgstr "prazno za privzeto"
+
+#: admin/facebook-tool.php:192 admin/tinymce/window.php:130
+msgid "width"
+msgstr "širina"
+
+#: admin/facebook-tool.php:192 admin/tinymce/window.php:130
+msgid "height"
+msgstr "višina"
+
+#: admin/facebook-tool.php:195
+msgid "Post ID"
+msgstr "Post ID"
+
+#: admin/facebook-tool.php:195
+msgid "optional"
+msgstr "neobvezno"
+
+#: admin/facebook-tool.php:199 admin/facebook-tool.php:221
+#: admin/facebook-tool.php:243 admin/facebook-tool.php:265
+msgid "Facebook Page Url"
+msgstr "Facebook Url strani"
+
+#: admin/facebook-tool.php:204
+msgid "mp3 Gallery Facebook Page Generator"
+msgstr "MP3 galerija Facebook generator strani"
+
+#: admin/facebook-tool.php:207 admin/facebook-tool.php:209
+#: admin/facebook-tool.php:229 admin/facebook-tool.php:231
+#: widgets/widgets.php:499
+msgid "Choose playlist"
+msgstr "Izberi seznam predvajanja"
+
+#: admin/facebook-tool.php:226
+msgid "Video Blog Gallery Facebook Page Generator"
+msgstr "Video blog galerija Facebook generator strani"
+
+#: admin/facebook-tool.php:248
+msgid "Banner Box Facebook Page Generator"
+msgstr "Skrinja oglasne pasice Facebook generator strani"
+
+#: admin/facebook-tool.php:251
+msgid "Choose xml"
+msgstr "Izberi xml"
+
+#: admin/facebook-tool.php:253
+msgid "Choose XML"
+msgstr "Izberi XML"
+
+#: admin/flag_install.php:124
+msgid ""
+"Flash Album Gallery : Tables could not created, please check your database "
+"settings"
+msgstr ""
+"Flash Album Gallery : Tabele niso bile ustvarjene, prosim preverite "
+"nastavitve vaše podatkovne baze"
+
+#: admin/flag_install.php:149
+msgid "Sorry, Flash Album Gallery works only with a role called administrator"
+msgstr "Oprostite, flash album galerija deluje samo z vlogo administratorja"
+
+#: admin/functions.php:46
+msgid "No valid gallery name!"
+msgstr "Neveljavno ime galerije"
+
+#: admin/functions.php:53 admin/functions.php:62 admin/functions.php:76
+#: admin/functions.php:153 admin/functions.php:160 admin/functions.php:234
+#: admin/functions.php:241 admin/functions.php:274 admin/functions.php:281
+#: admin/functions.php:314 admin/functions.php:320
+msgid "Directory"
+msgstr "Imenik"
+
+#: admin/functions.php:53
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "ni obstajal. Prvo ustvarite glavno mapo galerije"
+
+#: admin/functions.php:54 admin/functions.php:63
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Preverite to povezavo, če ne znate spremeniti dovoljenja"
+
+#: admin/functions.php:62 admin/functions.php:76
+msgid "is not writeable !"
+msgstr "ni zapisljivo"
+
+#: admin/functions.php:71 admin/functions.php:81 lib/core.php:100
+msgid "Unable to create directory "
+msgstr "ne morem ustvariti direktorija"
+
+#: admin/functions.php:85
+msgid "The server setting Safe-Mode is on !"
+msgstr "Strežnik v varnem načinu!"
+
+#: admin/functions.php:86
+msgid "If you have problems, please create directory"
+msgstr "Če imate težave prosim ustvarite direktorij"
+
+#: admin/functions.php:87
+msgid "and the thumbnails directory"
+msgstr "in direktorij predoglednih sličic"
+
+#: admin/functions.php:87
+msgid "with permission 777 manually !"
+msgstr "z ročnim vnosom 777 dovoljenja"
+
+#: admin/functions.php:105
+msgid "already exists"
+msgstr "že obstaja"
+
+#: admin/functions.php:115
+msgid ""
+"Gallery '%1$s' successfully created.<br/>You can show this gallery with the "
+"tag %2$s.<br/>"
+msgstr ""
+"Galerija '%1$s'  je bila uspešno ustvarjena.//n Galerijo lahko pokažete s "
+"tagom %2$s.//n"
+
+#: admin/functions.php:118
+msgid "Edit gallery"
+msgstr "Uredi galerijo"
+
+#: admin/functions.php:153 admin/functions.php:234 admin/functions.php:274
+#: admin/functions.php:314
+msgid "doesn&#96;t exist!"
+msgstr "ne obstaja"
+
+#: admin/functions.php:160
+msgid "contains no pictures"
+msgstr "ne vsebuje slik"
+
+#: admin/functions.php:178
+msgid "Database error. Could not add gallery!"
+msgstr "Napaka podatkovne baze. galerije ni bilo možno dodati"
+
+#: admin/functions.php:181
+msgid "successfully created!"
+msgstr "uspešno ustvarjena"
+
+#: admin/functions.php:210 admin/functions.php:894
+#: admin/manage-galleries.php:125 admin/manage-images.php:281
+#: admin/manage.php:232 admin/manage.php:301
+msgid "Create new thumbnails"
+msgstr "Ustvari nove thumbnaile"
+
+#: admin/functions.php:213
+msgid " picture(s) successfully added"
+msgstr "slika uspešno dodana"
+
+#: admin/functions.php:241
+msgid "does not contain flv files"
+msgstr "Ne vsebuje flv datotek"
+
+#: admin/functions.php:256 admin/functions.php:296
+msgid " file(s) successfully added"
+msgstr "slik(a)e uspešno dodana(e)"
+
+#: admin/functions.php:281
+msgid "does not contain mp3 files"
+msgstr "Ne vsebuje mp3 datotek"
+
+#: admin/functions.php:320
+msgid "does not contain image files"
+msgstr "Ne vsebuje slikovnih datotek"
+
+#: admin/functions.php:323
+msgid "image(s) in the folder"
+msgstr "Slik(a)e v mapi"
+
+#: admin/functions.php:323
+msgid "Crunching..."
+msgstr "Škrtanje..."
+
+#: admin/functions.php:348
+msgid "File type does not meet security guidelines. Try another."
+msgstr "Tip datoteke ne ustreza varnostnim napotkom. poskusi drugega."
+
+#: admin/functions.php:379
+msgid "The selected file could not be copied to %s."
+msgstr "Izbrane, datoteke ni bilo mogoče kopirati  v %s."
+
+#: admin/functions.php:478 admin/functions.php:552
+msgid "Object didn't contain correct data"
+msgstr "Predmet ni vseboval pravilnih podatkov"
+
+#: admin/functions.php:483
+msgid " is not writeable "
+msgstr "ni zapisljivo"
+
+#: admin/functions.php:562
+msgid " is not writeable"
+msgstr "ni zapisljiv"
+
+#: admin/functions.php:657 admin/functions.php:710
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Napaka: ni bilo mogoče posodobiti podatkovne baze)"
+
+#: admin/functions.php:664
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Napaka: ni bilo mogoče posodobiti meta posatkov)"
+
+#: admin/functions.php:666 admin/functions.php:713
+msgid "(Error : Couldn't not find image)"
+msgstr "(Napaka: ni bilo mogoče najti slike)"
+
+#: admin/functions.php:827 admin/functions.php:944
+msgid "Failure in database, no gallery path set !"
+msgstr "Napaka v podatkovni bazi, pot do galerije ni nastavljena!"
+
+#: admin/functions.php:851 admin/functions.php:938
+msgid "is no valid image file!"
+msgstr "ni veljavna slikovna datoteka!"
+
+#: admin/functions.php:865 admin/functions.php:1105 admin/functions.php:1178
+msgid ""
+"Unable to write to directory %s. Is this directory writable by the server?"
+msgstr ""
+"Ni bilo mogoče zapisati v direktorij %s. Ali je direktorij zapisljiv iz "
+"strani strežnika?"
+
+#: admin/functions.php:872 admin/functions.php:961
+msgid "Error, the file could not moved to : "
+msgstr "Napaka, datoteke ni bilo mogoče prestaviti v :"
+
+#: admin/functions.php:877 admin/functions.php:965
+msgid "Error, the file permissions could not set"
+msgstr "Napaka, dovoljenja datoteke ni bilo mogoče nastaviti"
+
+#: admin/functions.php:898
+msgid " Image(s) successfully added"
+msgstr "Slike (a)uspešno dodane(a)"
+
+#: admin/functions.php:918
+msgid "No gallery selected!"
+msgstr "Ni izbrane galerije!"
+
+#: admin/functions.php:980
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "Naložena datoteka presega MAX_FILE_SIZE v php.ini"
+
+#: admin/functions.php:982
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr "Naložena datoteka presega MAX_FILE_SIZE , ki je določena v HTMLformi"
+
+#: admin/functions.php:984
+msgid "The uploaded file was only partially uploaded"
+msgstr "Naložena datoteka je bila le delno naložena"
+
+#: admin/functions.php:986
+msgid "No file was uploaded"
+msgstr "Ni bilo naložene datoteke"
+
+#: admin/functions.php:988
+msgid "Missing a temporary folder"
+msgstr "Manjka začasna mapa"
+
+#: admin/functions.php:990
+msgid "Failed to write file to disk"
+msgstr "Ni bilo mogoče zapisati datoteke na disk"
+
+#: admin/functions.php:992
+msgid "File upload stopped by extension"
+msgstr "Nalaganje datoteke ustavljeno iz strani razširitve"
+
+#: admin/functions.php:994
+msgid "Unknown upload error"
+msgstr "Neznana napaka nalaganja"
+
+#: admin/functions.php:1008
+msgid ""
+"Sorry, you have used your space allocation. Please delete some files to "
+"upload more files."
+msgstr ""
+"Oprostite, galerija je prepolna. Prosim izbrišite nekaj datotek, če želite "
+"naložiti več datotek"
+
+#: admin/functions.php:1048
+msgid ""
+"SAFE MODE Restriction in effect! You need to create the folder <strong>%s</"
+"strong> manually"
+msgstr ""
+"Omejitev varnega načina v efektu! ustvariti morate mapo <strong>%s</strong> "
+"ročno"
+
+#: admin/functions.php:1049
+msgid ""
+"When safe_mode is on, PHP checks to see if the owner (%s) of the current "
+"script matches the owner (%s) of the file to be operated on by a file "
+"function or its directory"
+msgstr ""
+"Ko je safe_mode aktiven, PHP preveri če se lastnik (%s) trenutne skripte "
+"ujema z lastnikom (%s) datoteke s katero bo upravljano naprej z datotečno "
+"funkcijo ali njenim direktorijem"
+
+#: admin/functions.php:1099 admin/functions.php:1172
+msgid "The destination gallery does not exist"
+msgstr "Ciljna galerija ne obstaja"
+
+#: admin/functions.php:1130
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Neuspeli prenos slike  %1$s v %2$s"
+
+#: admin/functions.php:1148
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Prestavljen(a)e slik(a)e v galerijo: %2$s ."
+
+#: admin/functions.php:1205
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Neuspelo kopiranje slike %1$s v %2$s"
+
+#: admin/functions.php:1217
+msgid "Failed to copy database row for picture %s"
+msgstr "Neuspelo kopiranje podatkovne vrstice za sliko %s"
+
+#: admin/functions.php:1222
+msgid ""
+"Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already "
+"existed in the destination gallery."
+msgstr ""
+"Slika %1$s (%2$s) kopirana kot slika %3$s (%4$s) &raquo; Datoteka je že "
+"obstajala v ciljni galeriji."
+
+#: admin/functions.php:1225
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Slika %1$s (%2$s) kopirana  kot slika %3$s (%4$s)"
+
+#: admin/functions.php:1234
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Kopirana %1$s slika(e) v galerijo: %2$s ."
+
+#: admin/grab_meta.php:13 admin/showmeta.php:28
+msgid "Meta Data"
+msgstr "Meta podatki"
+
+#: admin/grab_meta.php:20 admin/showmeta.php:48
+msgid "No meta data saved"
+msgstr "Ni shranjenih meta podatkov"
+
+#: admin/grab_meta.php:23 admin/showmeta.php:54
+msgid "EXIF Data"
+msgstr "EXIF podatki"
+
+#: admin/grab_meta.php:29 admin/showmeta.php:80
+msgid "IPTC Data"
+msgstr "IPTC podatki"
+
+#: admin/grab_meta.php:35 admin/showmeta.php:104
+msgid "XMP Data"
+msgstr "XMP podatki"
+
+#: admin/manage-banner.php:50 admin/manage-playlist.php:50
+#: admin/manage-video.php:50
+msgid ""
+"You are about to delete %s item(s) \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Izbrisali boste %s predmet(e) \\n\\n'Prekliči' za preklic, 'Vredu' za "
+"nadaljevanje."
+
+#: admin/manage-banner.php:54 admin/manage-playlist.php:54
+#: admin/manage-video.php:54
+msgid ""
+"You are about to start the bulk edit for %s item(s) \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Ste pred začetkom skupinskega urejanja %s predmeta(ov)) \n"
+" \n"
+" 'Prekliči' za ustavitev, 'Vredu' za nadaljevanje"
+
+#: admin/manage-banner.php:100 admin/manage-playlist.php:101
+#: admin/manage-video.php:101
+msgid "Playlist"
+msgstr "Seznam predvajanja"
+
+#: admin/manage-banner.php:102
+msgid "Back to Banner Box"
+msgstr "Nazaj v skrinjo oglasne pasice"
+
+#: admin/manage-banner.php:104 admin/manage-playlist.php:105
+#: admin/manage-video.php:105
+msgid "Choose another playlist"
+msgstr "Izberite drugo predvajalno listo"
+
+#: admin/manage-banner.php:123 admin/manage-playlist.php:124
+#: admin/manage-video.php:124
+msgid "Playlist settings"
+msgstr "Nastavitve predvajalne liste"
+
+#: admin/manage-banner.php:129 admin/manage-playlist.php:130
+#: admin/manage-video.php:130
+msgid "Playlist Skin"
+msgstr "Preobleka seznama predvajanja"
+
+#: admin/manage-banner.php:143 admin/manage-playlist.php:144
+#: admin/manage-video.php:144
+msgid "Change Skin Options"
+msgstr "Spremeni nastavitve preoblek"
+
+#: admin/manage-banner.php:145 admin/manage-playlist.php:146
+#: admin/manage-video.php:146
+msgid "Update skin options for this playlist"
+msgstr "Posodobi nastavitve za ta seznam predvajanja"
+
+#: admin/manage-banner.php:157 admin/manage-images.php:240
+#: admin/manage-playlist.php:158 admin/manage-video.php:158
+msgid "Path"
+msgstr "Pot"
+
+#: admin/manage-banner.php:169 admin/manage-playlist.php:170
+#: admin/manage-video.php:170
+msgid "Delete items"
+msgstr "Izbriši predmete"
+
+#: admin/manage-banner.php:172 admin/manage-playlist.php:173
+#: admin/manage-video.php:173
+msgid "Sort Playlist"
+msgstr "Sortiraj seznam predvajanja"
+
+#: admin/manage-banner.php:173 admin/manage-playlist.php:174
+#: admin/manage-video.php:174
+msgid "Add/Remove Items from Playlist"
+msgstr "Dodaj/Odstrani predmete iz seznama predvajanja"
+
+#: admin/manage-banner.php:184 admin/manage-banner.php:193
+#: admin/manage-playlist.php:186 admin/manage-playlist.php:196
+#: admin/manage-video.php:186 admin/manage-video.php:196
+#: admin/music-box.php:401 admin/music-box.php:411 admin/video-box.php:316
+#: admin/video-box.php:326
+msgid "Filename / Title"
+msgstr "Ime datoteke/ Naslov"
+
+#: admin/manage-galleries.php:64 admin/manage-images.php:150
+msgid "No images selected"
+msgstr "Ni izbranih slik"
+
+#: admin/manage-galleries.php:81
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Ste pred začetkom skupinskega urejanja %s galerij\n"
+" \n"
+" 'Prekliči' za ustavitev, 'Vredu' za nadaljevanje"
+
+#: admin/manage-galleries.php:106
+msgid "Gallery Overview"
+msgstr "Pregled galerije"
+
+#: admin/manage-galleries.php:109 admin/manage-galleries.php:112
+#: admin/manage-images.php:190 admin/manage-images.php:193
+msgid "Search Images"
+msgstr "Išči slike"
+
+#: admin/manage-galleries.php:126 admin/manage-images.php:282
+#: admin/manage.php:216 admin/manage.php:287
+msgid "Resize images"
+msgstr "Spremeni velikost slike"
+
+#: admin/manage-galleries.php:127 admin/manage-images.php:284
+#: admin/manage.php:194 admin/manage.php:268
+msgid "Import metadata"
+msgstr "Uvozi meta podatke"
+
+#: admin/manage-galleries.php:128 admin/manage-images.php:285
+msgid "Metadata to description"
+msgstr "meta podatki v opis"
+
+#: admin/manage-galleries.php:155 admin/manage-images.php:244 lib/meta.php:399
+msgid "Author"
+msgstr "Autor"
+
+#: admin/manage-galleries.php:184 admin/manage-galleries.php:195
+msgid "Draft"
+msgstr "Osnutek"
+
+#: admin/manage-galleries.php:191
+msgid "Delete this gallery ?"
+msgstr "Izbriši galerijo"
+
+#: admin/manage-galleries.php:193
+msgid "Publish this gallery?"
+msgstr "Objavi to galerijo"
+
+#: admin/manage-galleries.php:193
+msgid "Publish"
+msgstr "Objavi"
+
+#: admin/manage-galleries.php:195
+msgid "Make this gallery draft?"
+msgstr "Naredi osnutek te galerije"
+
+#: admin/manage-galleries.php:260 admin/tinymce/window.php:50
+#: admin/tinymce/window.php:59
+msgid "Albums"
+msgstr "Albumi"
+
+#: admin/manage-galleries.php:262
+msgid "Create New Album"
+msgstr "Ustvari nov album"
+
+#: admin/manage-galleries.php:263
+msgid "Categories"
+msgstr "Kategorije"
+
+#: admin/manage-galleries.php:273 admin/skins.php:333
+msgid "Save"
+msgstr "Shrani"
+
+#: admin/manage-galleries.php:284
+msgid "Drag&Drop Categories Here"
+msgstr "Povleci&Spusti kategorije tukaj"
+
+#: admin/manage-galleries.php:291
+msgid "No Albums"
+msgstr "Ni albumov"
+
+#: admin/manage-galleries.php:324 admin/manage-images.php:532
+msgid "Resize Images to"
+msgstr "Spremeni velikost slik na"
+
+#: admin/manage-galleries.php:328
+msgid "Width x height (in pixel). FlAGallery will keep ratio size"
+msgstr "širino x višino v (px). FLAGalerija bo obdaržala razmerje slike"
+
+#: admin/manage-galleries.php:352 admin/manage-images.php:560
+msgid "Width x height (in pixel)"
+msgstr "širina x višina v (px)"
+
+#: admin/manage-galleries.php:354 admin/manage-images.php:562
+msgid "These values are maximum values "
+msgstr "Te vrednosti so maksimalne vrednosti"
+
+#: admin/manage-galleries.php:357 admin/manage-images.php:565
+msgid "Set fix dimension"
+msgstr "Nastavi fiksne mere"
+
+#: admin/manage-galleries.php:359 admin/manage-images.php:567
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignoriraj razmerje slike,  ni portretnih predoglednih sličic"
+
+#: admin/manage-images.php:31
+msgid "Gallery not found."
+msgstr "Galerija ni najdena"
+
+#: admin/manage-images.php:37
+msgid "Sorry, you have no access here"
+msgstr "Oprostite, nimate dostopa tukaj"
+
+#: admin/manage-images.php:172
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Ste pred začetkom skupinskega urejanja %s slik \n"
+" \n"
+" 'Prekliči' za ustavitev, 'Vredu' za nadaljevanje"
+
+#: admin/manage-images.php:187
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Iskalni rezultati za &#8220;%s&#8221;"
+
+#: admin/manage-images.php:207
+msgid "Choose another gallery"
+msgstr "Izberite drugo galerijo"
+
+#: admin/manage-images.php:228
+msgid "Gallery settings"
+msgstr "Nastavitve galerije"
+
+#: admin/manage-images.php:259
+msgid "Scan Folder for new images"
+msgstr "Skeniraj mapo za druge slike"
+
+#: admin/manage-images.php:283
+msgid "Delete images"
+msgstr "Izbriši slike"
+
+#: admin/manage-images.php:286
+msgid "Copy to..."
+msgstr "Kopiraj v "
+
+#: admin/manage-images.php:287
+msgid "Move to..."
+msgstr "Premakni v "
+
+#: admin/manage-images.php:293
+msgid "Sort gallery"
+msgstr "Sortiraj galerijo"
+
+#: admin/manage-images.php:296
+msgid "Add Images"
+msgstr "Dodaj slike"
+
+#: admin/manage-images.php:389 admin/manage-images.php:393
+msgid "Size: "
+msgstr "Velikost:"
+
+#: admin/manage-images.php:389 admin/manage-images.php:393
+msgid "pixel"
+msgstr "piksel"
+
+#: admin/manage-images.php:398
+msgid "View \"%s\""
+msgstr "Poglej \"%s\""
+
+#: admin/manage-images.php:398
+msgid "View"
+msgstr "Pogled"
+
+#: admin/manage-images.php:399
+msgid "Show Meta data"
+msgstr "pokaži meta podatke"
+
+#: admin/manage-images.php:399
+msgid "Meta"
+msgstr "Meta"
+
+#: admin/manage-images.php:400
+msgid "Customize thumbnail"
+msgstr "Spremeni thumbnail"
+
+#: admin/manage-images.php:400
+msgid "Edit thumb"
+msgstr "Uredi thumb"
+
+#: admin/manage-images.php:401
+msgid "Delete \"%s\""
+msgstr "Izbriši \"%s\""
+
+#: admin/manage-images.php:496
+msgid "Select the destination gallery:"
+msgstr "Izberi ciljno galerijo"
+
+#: admin/manage-images.php:536
+msgid "Width x height (in pixel). Grand Flagallery will keep ratio size"
+msgstr ""
+"Širina x višina (v pikslih). GRAND FLAGalerija bo obdržala razmerje velikosti"
+
+#: admin/manage-images.php:599
+msgid "Views / Likes"
+msgstr "Ogledi / Všečki"
+
+#: admin/manage-images.php:600
+msgid "Rating"
+msgstr "Ocena"
+
+#: admin/manage-images.php:601 admin/manage-sort.php:103
+#: admin/manage-sort.php:112
+msgid "Alt &amp; Title Text"
+msgstr "Alt &amp; naslov "
+
+#: admin/manage-images.php:602
+msgid "Only for logged in users"
+msgstr "Samo za prijavljene uporabnike"
+
+#: admin/manage-playlist.php:103
+msgid "Back to Music Box"
+msgstr "Nazaj v skrinjo glasbe"
+
+#: admin/manage-playlist.php:184 admin/manage-playlist.php:194
+#: admin/manage-video.php:184 admin/manage-video.php:194
+#: admin/media-upload.php:201 admin/music-box.php:399 admin/music-box.php:409
+#: admin/video-box.php:314 admin/video-box.php:324
+msgid "Size"
+msgstr "Velikost"
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "Thumb URL:"
+msgstr "URL predogledne sličice"
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "Add an Image"
+msgstr "Dodaj sliko"
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "assist"
+msgstr "asistiraj"
+
+#: admin/manage-sort.php:31
+msgid "Sort order changed"
+msgstr "vrstni red se je spremenil"
+
+#: admin/manage-sort.php:57
+msgid "Back to gallery"
+msgstr "Nazaj v galerijo"
+
+#: admin/manage-sort.php:102 admin/manage-sort.php:111
+msgid "Date"
+msgstr "Datum"
+
+#: admin/manage-video.php:103
+msgid "Back to Video Box"
+msgstr "Nazaj v skrinjo videa"
+
+#: admin/manage.php:101 admin/manage.php:153 admin/skins.php:217
+msgid "deleted successfully"
+msgstr "Uspešno izbrisano"
+
+#: admin/manage.php:112
+msgid "now in draft"
+msgstr "zdaj v osnutku"
+
+#: admin/manage.php:120
+msgid "now visible"
+msgstr "zdaj vidno"
+
+#: admin/manage.php:134
+msgid "Album"
+msgstr "Album"
+
+#: admin/manage.php:134
+msgid "successfully created"
+msgstr "uspešno ustvarjeno"
+
+#: admin/manage.php:153
+msgid "Picture"
+msgstr "Slika"
+
+#: admin/manage.php:162
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operacija uspešna, prosim izpraznite predpomnilnik brskalnika"
+
+#: admin/manage.php:199 admin/manage.php:271
+msgid "Copy metadata to image Description"
+msgstr "Kopiraj meta podatke v opis slike"
+
+#: admin/manage.php:264
+msgid "Pictures deleted successfully "
+msgstr "Slike uspešno izbrisane"
+
+#: admin/manage.php:345
+msgid "Update successful"
+msgstr "Posodobitev uspešna"
+
+#: admin/manage_thumbnail.php:17 admin/manage_thumbnail.php:20
+#: admin/showmeta.php:10 admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr "Varaš&#8217; uh?"
+
+#: admin/manage_thumbnail.php:107
+msgid "Select with the mouse the area for the new thumbnail."
+msgstr "Z miško izberite področje novih thumbnailov"
+
+#: admin/manage_thumbnail.php:121
+msgid "Thumbnail updated"
+msgstr "Thumbnail posodobljen"
+
+#: admin/manage_thumbnail.php:126
+msgid "Error updating thumbnail."
+msgstr "napaka med posodabljanjem thumbnailov+"
+
+#: admin/manage_thumbnail.php:143
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Izberite mesto thumbnaila na sliki levo."
+
+#: admin/manage_thumbnail.php:158 admin/wpmu.php:61
+msgid "Update"
+msgstr "Posodobi"
+
+#: admin/media-upload.php:125
+msgid "No gallery"
+msgstr "Ni galerije"
+
+#: admin/media-upload.php:137
+msgid "Select &#187;"
+msgstr "Označi &#187;"
+
+#: admin/media-upload.php:168
+msgid "Show"
+msgstr "Pokaži"
+
+#: admin/media-upload.php:169
+msgid "Hide"
+msgstr "Skrij"
+
+#: admin/media-upload.php:174
+msgid "Image ID:"
+msgstr "ID: slike"
+
+#: admin/media-upload.php:180
+msgid "Alt/Title text"
+msgstr "Alt/ naslovni text"
+
+#: admin/media-upload.php:188
+msgid "Alignment"
+msgstr "Poravnava"
+
+#: admin/media-upload.php:191
+msgid "None"
+msgstr "Nobena"
+
+#: admin/media-upload.php:193
+msgid "Left"
+msgstr "Leva"
+
+#: admin/media-upload.php:195
+msgid "Center"
+msgstr "Sredinska"
+
+#: admin/media-upload.php:197
+msgid "Right"
+msgstr "Desna"
+
+#: admin/media-upload.php:207
+msgid "Full size"
+msgstr "Polna velikost"
+
+#: admin/media-upload.php:215
+msgid "Insert into Post"
+msgstr "Vstavi v prispevek"
+
+#: admin/media-upload.php:225
+msgid "Save all changes"
+msgstr "Shrani vse spremembe"
+
+#: admin/meta_box.php:139
+msgid "Back Button Text"
+msgstr "Gumb nazaj (text)"
+
+#: admin/meta_box.php:141
+msgid "Leave empty to hide Back button"
+msgstr "Pusti prazno, če želiš skriti NAZAJ gumb"
+
+#: admin/meta_box.php:144
+msgid "Back Button Link"
+msgstr "Nazaj gumb povezava"
+
+#: admin/meta_box.php:146
+msgid "Leave empty to use referer link"
+msgstr "Pusti prazno, če želiš uporabiti referer povezavo"
+
+#: admin/meta_box.php:149 admin/tinymce/window.php:53
+#: admin/tinymce/window.php:62 widgets/widgets.php:595
+msgid "Music"
+msgstr "Glasba"
+
+#: admin/meta_box.php:151 admin/tinymce/window.php:176
+msgid "choose playlist"
+msgstr "Izberi seznam predvajanja"
+
+#: admin/meta_box.php:161
+msgid "(optional) Read Skin specification for supporting this function."
+msgstr "(poljubno) Preberi specifikacije preobleke za podporo te funkcije"
+
+#: admin/meta_box.php:164
+msgid "Background Image Link"
+msgstr "Povezava ozadja slike"
+
+#: admin/meta_box.php:166
+msgid "(optional) Be sure you set Wmode to 'transparent' in skin's options"
+msgstr ""
+"(poljubno) Prepričajte se, da nastavite Wmode na 'transparent' v nastavitvah "
+"preobleke"
+
+#: admin/meta_box.php:169
+msgid "Background Position"
+msgstr "postavitev ozadja"
+
+#: admin/meta_box.php:183
+msgid "Background Repeat"
+msgstr "Ozadje ponavljanje"
+
+#: admin/music-box.php:305
+msgid "Import mp3 from folder"
+msgstr "Uvozi mp3 iz mape"
+
+#: admin/music-box.php:324
+msgid "WordPress Music Library"
+msgstr "Wordpress knjižnica glasbe"
+
+#: admin/music-box.php:380
+msgid "Upload Music"
+msgstr "Naloži glasbo"
+
+#: admin/music-box.php:468
+msgid "No music in WordPress Media Library."
+msgstr "Ni glasbe v Wordpress medijski knjižnici."
+
+#: admin/overview.php:14
+msgid "Grand Flagallery Overview"
+msgstr "GRAND FlAGalerija pregled"
+
+#: admin/overview.php:111
+msgid "Reset all settings to default parameter"
+msgstr "Ponastavi vse na privzete nastavitve"
+
+#: admin/overview.php:122
+msgid ""
+"Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr ""
+"Uspešno izbrisano! Sedaj izbrišite vtičnik in uživajte življenje! Srečno!"
+
+#: admin/overview.php:130
+msgid "Plugin Home"
+msgstr "Vtičnik domov"
+
+#: admin/overview.php:135
+msgid "Plugin Comments"
+msgstr "Komentarji vtičnika"
+
+#: admin/overview.php:140
+msgid "Rate Plugin"
+msgstr "Oceni vtičnik"
+
+#: admin/overview.php:145
+msgid "My Plugins"
+msgstr "Moji vtičniki"
+
+#: admin/overview.php:150
+msgid "Contact Me"
+msgstr "Kontaktirajte me"
+
+#: admin/overview.php:161
+msgid "Reset settings"
+msgstr "Ponastavi nastavitve"
+
+#: admin/overview.php:161
+msgid ""
+"Reset all options to default settings ?\\n\\nChoose [Cancel] to Stop, [OK] "
+"to proceed.\\n"
+msgstr ""
+"Ponastavi vse nastavitve na privzete?\\n\\nIzberi [prekliči] za preklic, "
+"[vredu] za nadaljevanje.\\n"
+
+#: admin/overview.php:164
+msgid "Uninstall plugin"
+msgstr "Izbriši vtičnik"
+
+#: admin/overview.php:164
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\nThis action is not "
+"reversible.\\n\\nChoose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"ste tik pred izbrisom vtičnika iz Wordpressa.\\nTega ukrepa se ne da "
+"povrniti.\\n\\nIzberite [prekliči] za preklic, [vredu] za izbris.\\n"
+
+#: admin/overview.php:186
+msgid "At a Glance"
+msgstr "V vpogled"
+
+#: admin/overview.php:191
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] ""
+msgstr[1] "Slika "
+msgstr[2] "Sliki "
+msgstr[3] "Slike "
+
+#: admin/overview.php:206
+msgid "Upload pictures"
+msgstr "Naloži slike"
+
+#: admin/overview.php:207
+msgid "Here you can control your images and galleries."
+msgstr "Tukaj lahko kontrolirate slike in galerije"
+
+#: admin/overview.php:209
+msgid "Gallery Administrator"
+msgstr "Administrator galerije"
+
+#: admin/overview.php:209
+msgid "Gallery Editor"
+msgstr "Urednik galerije"
+
+#: admin/overview.php:210
+msgid "You currently have %s rights."
+msgstr "Trenutno imate %s pravic."
+
+#: admin/overview.php:216
+msgid "Welcome to FlAGallery !"
+msgstr "Dobrodošli v FLAGalerija"
+
+#: admin/overview.php:217
+msgid "Server Settings"
+msgstr "Nastavitve strežnika"
+
+#: admin/overview.php:218
+msgid "Graphic Library"
+msgstr "Grafična knjižnica"
+
+#: admin/overview.php:219
+msgid "Setup Box"
+msgstr "Nastavitve"
+
+#: admin/overview.php:239
+msgid "No GD support"
+msgstr "Ni GD podpore"
+
+#: admin/overview.php:251 admin/overview.php:295 admin/overview.php:298
+#: admin/overview.php:301
+msgid "Yes"
+msgstr "Da"
+
+#: admin/overview.php:253 admin/overview.php:296 admin/overview.php:299
+#: admin/overview.php:302
+msgid "No"
+msgstr "Ne"
+
+#: admin/overview.php:269
+msgid "Not set"
+msgstr "Ni nastavljeno"
+
+#: admin/overview.php:271 admin/overview.php:274
+msgid "On"
+msgstr "Vključeno"
+
+#: admin/overview.php:272 admin/overview.php:275
+msgid "Off"
+msgstr "Ugasnjeno"
+
+#: admin/overview.php:278 admin/overview.php:281 admin/overview.php:284
+#: admin/overview.php:287 admin/overview.php:290 admin/overview.php:293
+msgid "N/A"
+msgstr "N/A"
+
+#: admin/overview.php:292
+msgid " MByte"
+msgstr " MByte"
+
+#: admin/overview.php:304
+msgid "Operating System"
+msgstr "Operacijski sistem"
+
+#: admin/overview.php:305
+msgid "Server"
+msgstr "Strežnik"
+
+#: admin/overview.php:306
+msgid "Memory usage"
+msgstr "Uporaba pomnilnika"
+
+#: admin/overview.php:307
+msgid "MYSQL Version"
+msgstr "MYSQL Verzija"
+
+#: admin/overview.php:308
+msgid "SQL Mode"
+msgstr "SQL Način"
+
+#: admin/overview.php:309
+msgid "PHP Version"
+msgstr "PHP Verzija"
+
+#: admin/overview.php:310
+msgid "PHP Safe Mode"
+msgstr "PHP Varni način"
+
+#: admin/overview.php:311
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: admin/overview.php:312
+msgid "PHP Memory Limit"
+msgstr "PHP Limit pomnilnika"
+
+#: admin/overview.php:313
+msgid "PHP Max Upload Size"
+msgstr "PHP Max velikost nalaganja"
+
+#: admin/overview.php:314
+msgid "PHP Max Post Size"
+msgstr "PHP Max velikost objave"
+
+#: admin/overview.php:315
+msgid "PHP Output Buffer Size"
+msgstr "PHP velikost zunanjega predpomnilnika"
+
+#: admin/overview.php:316
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max čas izvajanja skripte"
+
+#: admin/overview.php:317
+msgid "PHP Exif support"
+msgstr "PHP Exif podpora"
+
+#: admin/overview.php:318
+msgid "PHP IPTC support"
+msgstr "PHP IPTC podpora"
+
+#: admin/overview.php:319
+msgid "PHP XML support"
+msgstr "PHP XML podpora"
+
+#: admin/overview.php:377
+msgid "Storage Space"
+msgstr "Shranjevalni prostor"
+
+#: admin/overview.php:380
+msgid "Upload Space Used:"
+msgstr "Uporabljen prostor nalaganja"
+
+#: admin/overview.php:386
+msgid "Upload Space Remaining:"
+msgstr "Preostali prostor nalaganja"
+
+#: admin/playlist-sort.php:66 admin/playlist-sort.php:74
+#: admin/video-sort.php:71 admin/video-sort.php:79
+msgid "Play"
+msgstr "Predvajaj"
+
+#: admin/settings.php:33 admin/skins.php:152 admin/skins.php:204
+msgid "Update Successfully"
+msgstr "Posodobitev uspešna"
+
+#: admin/settings.php:47 admin/settings.php:89 admin/skins.php:183
+#: admin/skins.php:374
+msgid "cURL library is not installed on your server."
+msgstr "cURL knjižnica ni nameščena na vašem strežniku."
+
+#: admin/settings.php:77
+msgid "Error: All fields required."
+msgstr "Napaka: Vsa polja so nujna"
+
+#: admin/settings.php:122
+msgid "Updated capabilities"
+msgstr "Posodobljene zmožnosti"
+
+#: admin/settings.php:134
+msgid "Gallery Options"
+msgstr "Nastavitve galerije"
+
+#: admin/settings.php:136 admin/settings.php:296
+msgid "License Key & Remote Control"
+msgstr "Licenčni ključ & Oddaljeni nadzor"
+
+#: admin/settings.php:138
+msgid "FLV Single Player Options"
+msgstr "FLV Posamezne nastavitve predvajalnika"
+
+#: admin/settings.php:139
+msgid "MP3 Single Player Options"
+msgstr "MP3 Posamezne nastavitve predvajalnika"
+
+#: admin/settings.php:141
+msgid "Roles"
+msgstr "Vloge"
+
+#: admin/settings.php:164
+msgid "Image Gallery Options"
+msgstr "Nastavitve slik v galeriji"
+
+#: admin/settings.php:165
+msgid "General Options"
+msgstr "Generalne nastavitve"
+
+#: admin/settings.php:168 admin/wpmu.php:44
+msgid "Gallery path"
+msgstr "Pot galerije"
+
+#: admin/settings.php:170
+msgid "This is the default path for all galleries"
+msgstr "To je privzeta pot za vse galerije"
+
+#: admin/settings.php:173
+msgid "Default flash size (W x H)"
+msgstr "Privzeta velikost flasha (W x H)"
+
+#: admin/settings.php:178
+msgid "Delete image files"
+msgstr "Izbriši slikovne datoteke"
+
+#: admin/settings.php:180
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Izbriši datoteke, med brisanjem galerije iz podatkovne baze"
+
+#: admin/settings.php:183
+msgid "Activate Deep Linking (optional)"
+msgstr "Aktivirajte globoko povezovanje (poljubno)"
+
+#: admin/settings.php:183
+msgid "Not all skins support this feature."
+msgstr "Vse preobleke ne podpirajo te funkcije"
+
+#: admin/settings.php:185
+msgid "Deep links for images in flash."
+msgstr "Globoke povezave za slike v flashu"
+
+#: admin/settings.php:188
+msgid "Activate Media RSS feed"
+msgstr "Aktiviraj Media RSS feed"
+
+#: admin/settings.php:190
+msgid "A RSS feed will be added to you blog header."
+msgstr "Rss feed bo dodan v glavo bloga"
+
+#: admin/settings.php:194
+msgid "Image settings"
+msgstr "Nastavitve slik"
+
+#: admin/settings.php:197
+msgid "Resize Images"
+msgstr "Spremeni velikost slike"
+
+#: admin/settings.php:199
+msgid "Width x Height (in pixel). Flash Album Gallery will keep ratio size"
+msgstr ""
+"Širina x višina (v pikslih). Flash Album Gallery bo obdržal razmerje "
+"velikosti"
+
+#: admin/settings.php:202
+msgid "Image quality"
+msgstr "Kvaliteta slike"
+
+#: admin/settings.php:207
+msgid "Sort options"
+msgstr "Nastavitve razvrščanja"
+
+#: admin/settings.php:210
+msgid "Sort thumbnails"
+msgstr "razvrsti thumbnaile"
+
+#: admin/settings.php:212
+msgid "Custom order"
+msgstr "Naročilo po meri"
+
+#: admin/settings.php:213
+msgid "Image ID"
+msgstr "ID Slike"
+
+#: admin/settings.php:214
+msgid "File name"
+msgstr "Ime datoteke"
+
+#: admin/settings.php:215
+msgid "Alt / Title text"
+msgstr "Alt/ naslov teksta"
+
+#: admin/settings.php:216
+msgid "Date / Time"
+msgstr "Datum/čas"
+
+#: admin/settings.php:217
+msgid "Image views"
+msgstr "Ogledi slik"
+
+#: admin/settings.php:218
+msgid "Image likes"
+msgstr "Všečki slik"
+
+#: admin/settings.php:219 admin/tinymce/window.php:153
+msgid "Randomly"
+msgstr "Naključju"
+
+#: admin/settings.php:223
+msgid "Sort direction"
+msgstr "Razvrsti po"
+
+#: admin/settings.php:224
+msgid "Ascending"
+msgstr "Naraščajače"
+
+#: admin/settings.php:225
+msgid "Descending"
+msgstr "Padajoče"
+
+#: admin/settings.php:230
+msgid "Alternative Gallery Options"
+msgstr "Alternativne nastavitve galerije"
+
+#: admin/settings.php:230
+msgid ""
+"(Note: this is not flash skin option. Options below only for alternative "
+"gallery in mobile browsers)"
+msgstr ""
+"(Sporočilo: to ni nastavitev za flash preobleke. Nastavitve spodaj so samo "
+"za alternativne galerije mobilnih brskalnikov)"
+
+#: admin/settings.php:233
+msgid "Show jQuery gallery for browsers without flashplayer"
+msgstr "Prikaži jQuery galerije za brskalnike brez flash predvajalnika"
+
+#: admin/settings.php:237
+msgid "jQuery gallery script"
+msgstr "Skripta jQuery galerije"
+
+#: admin/settings.php:245
+msgid "Disable image views/likes counter on thumbnails"
+msgstr "Izključi oglede slik/števec všečkov na predoglednih skičicah"
+
+#: admin/settings.php:249
+msgid "Top Bar BG"
+msgstr "Top Bar (Ozadje)"
+
+#: admin/settings.php:253
+msgid "Category Buttons BG"
+msgstr "Barva gumbov kategorije (ozadje)"
+
+#: admin/settings.php:271
+msgid "Thumbnail BG"
+msgstr "Predogledna sličica ozadje"
+
+#: admin/settings.php:275
+msgid "Thumbnail MouseOver BG"
+msgstr "Predogledna sličica MouseOver ozadje"
+
+#: admin/settings.php:279
+msgid "Fancybox Title"
+msgstr "Fancybox naslov"
+
+#: admin/settings.php:279 admin/settings.php:283
+msgid "Only if FancyBox script is selected"
+msgstr "Samo, če je FAncyBox skripta izbrana"
+
+#: admin/settings.php:283
+msgid "Fancybox Description Text"
+msgstr "Fancybox opisni tekst"
+
+#: admin/settings.php:300
+msgid "License Key"
+msgstr "Licenčni ključ"
+
+#: admin/settings.php:304
+msgid ""
+"If you want to upload photos to FlAGallery right from your iPhone <a href="
+"\"https://itunes.apple.com/us/app/mypgc/id663405181?ls=1&mt=8\">download "
+"application</a> and enter access key below. You can enter your own access "
+"key. You can change these at any point in time and this will force all users "
+"to have to log in again in application."
+msgstr ""
+"Če želite nalagati fotografije v FLAgalerijo direktno iz vašega iphona <a "
+"href=\"https://itunes.apple.com/us/app/mypgc/id663405181?"
+"ls=1&mt=8\">prenesite aplikacijo</a> in vnesite vaš dostopni ključ, katerega "
+"lahko kadarkoli spremenite, tako se bodo drugi uporabniki primorani ponovno "
+"vpisati v aplikacijo."
+
+#: admin/settings.php:307
+msgid "Remote App Access Key"
+msgstr "Dostopni kluč za oddaljen dostop"
+
+#: admin/settings.php:309
+msgid "Leave blank to disable access from application"
+msgstr "Pustite prazno, če želite onemogočiti dostop iz aplikacije"
+
+#: admin/settings.php:313
+msgid "Update Settings for Remote Access"
+msgstr "Posodobite nastavitve za oddaljen dostop"
+
+#: admin/settings.php:318
+msgid ""
+"Register with form below or <a href=\"http://mypgc.co/membership/\" target="
+"\"_blank\">purchase license key</a>"
+msgstr ""
+"Registrirajte se z uporabo obrazca spodaj ali <a href=\"http://mypgc.co/"
+"membership/\" target=\"_blank\">purchase license key</a>"
+
+#: admin/settings.php:323
+msgid "First Name"
+msgstr "Ime"
+
+#: admin/settings.php:324
+msgid "Last Name"
+msgstr "Priimek"
+
+#: admin/settings.php:327
+msgid "Email"
+msgstr "E-naslov"
+
+#: admin/settings.php:328
+msgid "Register"
+msgstr "Registracija"
+
+#: admin/settings.php:341
+msgid "Flash Video Player Colors"
+msgstr "Barve flash video predvajalnika"
+
+#: admin/settings.php:344
+msgid "Video BG"
+msgstr "Video ozadje"
+
+#: admin/settings.php:348 admin/settings.php:385
+msgid "Color 1"
+msgstr "Barva 1"
+
+#: admin/settings.php:352 admin/settings.php:389
+msgid "Color 2"
+msgstr "Barva 2"
+
+#: admin/settings.php:357 admin/settings.php:394
+msgid "Autoplay"
+msgstr "Samodejno predvajanje"
+
+#: admin/settings.php:359 admin/settings.php:396
+msgid "True"
+msgstr "Prav"
+
+#: admin/settings.php:360 admin/settings.php:397
+msgid "False"
+msgstr "Narobe"
+
+#: admin/settings.php:364
+msgid "Default Size"
+msgstr "Privzeta velikost"
+
+#: admin/settings.php:378
+msgid "MP3 Player Colors"
+msgstr "Barve MP3 predvajalnika"
+
+#: admin/settings.php:381
+msgid "Player BG"
+msgstr "Ozadje predvajalnika"
+
+#: admin/settings.php:409
+msgid "Roles / capabilities"
+msgstr "Vloge / zmožnosti"
+
+#: admin/settings.php:410
+msgid ""
+"Select the lowest role which should be able to access the follow "
+"capabilities. Flash Album Gallery supports the standard roles from WordPress."
+msgstr ""
+"Izberi najnižjo vlogo, katera bo lahko dostopala do sledečih možnosti. Flash "
+"Gallery podpira standardne vloge Wordpressa"
+
+#: admin/settings.php:413
+msgid "Main Flash Album Gallery overview"
+msgstr "Glavni Flash Gallery Album pregled"
+
+#: admin/settings.php:417
+msgid "View TinyMCE Button / GRAND Pages"
+msgstr "Uporabi TinyMCE Gumb / GRAND strani"
+
+#: admin/settings.php:421
+msgid "Add gallery / Upload images"
+msgstr "Dodaj galerijo / Naloži slike"
+
+#: admin/settings.php:425
+msgid "Import images folder"
+msgstr "Uvozi mapo s slikami"
+
+#: admin/settings.php:429
+msgid "Manage gallery"
+msgstr "Uredi galerijo"
+
+#: admin/settings.php:433
+msgid "Manage others galleries and Albums"
+msgstr "Uredi druge galerije in albume"
+
+#: admin/settings.php:437
+msgid "Manage music"
+msgstr "Uredi glasbo"
+
+#: admin/settings.php:441
+msgid "Manage video"
+msgstr "Uredi video"
+
+#: admin/settings.php:445
+msgid "Manage banners"
+msgstr "Uredi oglasne pasice"
+
+#: admin/settings.php:449
+msgid "Change skin"
+msgstr "Zamenjaj preobleko"
+
+#: admin/settings.php:453
+msgid "Add skins"
+msgstr "Dodaj preobleko"
+
+#: admin/settings.php:457
+msgid "Delete skins"
+msgstr "Izbriši preobleko"
+
+#: admin/settings.php:461
+msgid "Change options"
+msgstr "Spremeni možnosti"
+
+#: admin/settings.php:465
+msgid "Facebook page"
+msgstr "Facebook stran"
+
+#: admin/settings.php:469
+msgid "Update capabilities"
+msgstr "posodobi možnosti"
+
+#: admin/showmeta.php:33 admin/showmeta.php:59 admin/showmeta.php:84
+#: admin/showmeta.php:108
+msgid "Tag"
+msgstr "Tag"
+
+#: admin/showmeta.php:34 admin/showmeta.php:60 admin/showmeta.php:85
+#: admin/showmeta.php:109
+msgid "Value"
+msgstr "Vrednost"
+
+#: admin/showmeta.php:73
+msgid "No exif data"
+msgstr "Ni EXIF podatkov"
+
+#: admin/skin_install.php:10 admin/skins.php:84
+msgid "No skin Specified"
+msgstr "Ni določene preobleke"
+
+#: admin/skin_install.php:39
+msgid "Installation Failed"
+msgstr "Instalacija spodletela"
+
+#: admin/skin_install.php:42 admin/skins.php:65
+msgid "The skin installed successfully."
+msgstr "Preobleka uspešno nameščena"
+
+#: admin/skin_install.php:45 admin/skins.php:439
+msgid "Activate this skin"
+msgstr "Aktiviraj to preobleko"
+
+#: admin/skin_install.php:45
+msgid "Activate Skin"
+msgstr "Aktiviraj peobleko"
+
+#: admin/skin_install.php:46
+msgid "Goto skin overview"
+msgstr "Pojdi na pregled preoblek"
+
+#: admin/skin_install.php:46
+msgid "Skin overview"
+msgstr "pregled preoblek"
+
+#: admin/skin_install.php:70
+msgid "Could not access filesystem."
+msgstr "ni bil mogoč dostop do datotečnega sistema"
+
+#: admin/skin_install.php:73
+msgid "Filesystem error"
+msgstr "Napaka datotečnega sistema"
+
+#: admin/skin_install.php:79
+msgid "Unable to locate FlAGallery Skin directory."
+msgstr "Ni bilo mogoče locirati FLAGallery mape za preobleke"
+
+#: admin/skin_install.php:84
+msgid "Unable to locate WordPress Content directory (wp-content)."
+msgstr "Ni bilo mogoče locirati Wordpress vsebinskega direktorija (wp-content)"
+
+#: admin/skin_install.php:90
+msgid "Install package not available."
+msgstr "Instalacijski paket ni na voljo"
+
+#: admin/skin_install.php:98
+msgid "Unpacking the skin package"
+msgstr "Razširjanje preoblečnega paketa"
+
+#: admin/skin_install.php:115
+msgid "Folder already exists."
+msgstr "Mapa že obstaja."
+
+#: admin/skin_install.php:118
+msgid "Installing the skin"
+msgstr "Instaliranje preobleke"
+
+#: admin/skins.php:72
+msgid "Install info"
+msgstr "Info instalacije"
+
+#: admin/skins.php:87
+msgid "Installing Skin from file: %s"
+msgstr "Nameščanje preobleke iz datoteke: %s"
+
+#: admin/skins.php:96
+msgid "The uploaded file could not be moved to %s."
+msgstr "Naložene datoteke ni bilo možno prestaviti v %s."
+
+#: admin/skins.php:161
+msgid "License Key Updated"
+msgstr "Licenčni ključ posodobljen"
+
+#: admin/skins.php:176
+msgid "Your license key was deactivated"
+msgstr "Vaš licenčni ključ je deaktiviran"
+
+#: admin/skins.php:180
+msgid "Bad Licence Key"
+msgstr "Neveljaven licenčni ključ"
+
+#: admin/skins.php:217 admin/skins.php:247 admin/skins.php:384
+#: admin/skins.php:392 admin/tinymce/window.php:52 admin/tinymce/window.php:61
+msgid "Skin"
+msgstr "Preobleka"
+
+#: admin/skins.php:219 admin/skins.php:223
+msgid "Can't find skin directory "
+msgstr "Ne najdem mape za preobleke"
+
+#: admin/skins.php:219 admin/skins.php:223
+msgid ". Try delete it manualy via ftp"
+msgstr ". Poskusite ga izbristai ročno preko ftp"
+
+#: admin/skins.php:226
+msgid "You need activate another skin before delete it"
+msgstr "Aktivirati morate drugo preobleko preden to izbrišete"
+
+#: admin/skins.php:229
+msgid ""
+"You do not have sufficient permissions to delete skins of Grand Flagallery."
+msgstr "Nimate dovolj dovoljenj za izbris preobleke Grand Flagallery."
+
+#: admin/skins.php:247
+msgid ""
+"activated successfully. Optionally it can be overwritten with shortcode "
+"parameter."
+msgstr ""
+"uspešno aktivirano. Poljubno je lahko prepisano s kratkimi kodami (shortcode)"
+
+#: admin/skins.php:254 admin/skins.php:274
+msgid "New Photo Skins"
+msgstr "Nove foto preobleke"
+
+#: admin/skins.php:258
+msgid "New Music Skins"
+msgstr "Nove glasbene preobleke"
+
+#: admin/skins.php:262
+msgid "New Video Skins"
+msgstr "Nove video preobleke"
+
+#: admin/skins.php:266
+msgid "New Banner Skins"
+msgstr "Nove preobleke  oglasnih pasic"
+
+#: admin/skins.php:270
+msgid "New Widget Skins"
+msgstr "Nove preobleke Gradnikov"
+
+#: admin/skins.php:283
+msgid "Skins refreshed successfully"
+msgstr "Preobleke uspešno osvežene"
+
+#: admin/skins.php:289 admin/skins.php:296
+msgid "Add new skin"
+msgstr "Dodajte novo preobleko"
+
+#: admin/skins.php:291 admin/skins.php:311
+msgid "Active Skin Options"
+msgstr "Aktivne nastavitve preoblek"
+
+#: admin/skins.php:297
+msgid "Install a skin in .zip format"
+msgstr "Namesti preobleko v .zip formatu"
+
+#: admin/skins.php:298
+msgid ""
+"If you have a skin in a .zip format, You may install it by uploading it here."
+msgstr "Če imate preobleko v .zip formatu, jo lahko naložite tukaj."
+
+#: admin/skins.php:302
+msgid "Install Now"
+msgstr "Namestite zdaj"
+
+#: admin/skins.php:328
+msgid "Skin License Key"
+msgstr "Licenčni ključ preobleke"
+
+#: admin/skins.php:329
+msgid "If you have license key then paste it here."
+msgstr "Če imate licenčni kluč ga vnesite tukaj."
+
+#: admin/skins.php:340
+msgid "Refresh / Update Skins"
+msgstr "Osveži / Posodobi preobleke"
+
+#: admin/skins.php:341
+msgid "Photo skins"
+msgstr "Foto preobleke"
+
+#: admin/skins.php:342
+msgid "Music skins"
+msgstr "Glasbene preobleke"
+
+#: admin/skins.php:343
+msgid "Video skins"
+msgstr "Video preobleke"
+
+#: admin/skins.php:344
+msgid "Banner skins"
+msgstr "preobleke oglasnih pasic"
+
+#: admin/skins.php:345
+msgid "Widget skins"
+msgstr "preobleke gradnikov"
+
+#: admin/skins.php:374
+msgid "Download skins from http://photogallerycreator.com"
+msgstr "Prenesi probleke iz http://photogallerycreator.com"
+
+#: admin/skins.php:403
+msgid "No skins to show"
+msgstr "Ni preoblek za prikaz"
+
+#: admin/skins.php:422
+msgid "Version %s"
+msgstr "Verzija %s"
+
+#: admin/skins.php:426
+msgid "Visit author homepage"
+msgstr "Obiščite stran avtorja"
+
+#: admin/skins.php:427
+msgid "By %s"
+msgstr "Ob %s"
+
+#: admin/skins.php:430
+msgid "Visit skin site"
+msgstr "Obiščite stran s preoblekami"
+
+#: admin/skins.php:439
+msgid "Activate"
+msgstr "Aktiviraj"
+
+#: admin/skins.php:441
+msgid "Activated by default"
+msgstr "Aktivirano (privzeto)"
+
+#: admin/skins.php:461
+msgid "Delete this skin"
+msgstr "Izbriši to preobleko"
+
+#: admin/skins.php:491
+msgid "Install"
+msgstr "Namestite"
+
+#: admin/skins.php:492
+msgid "Preview"
+msgstr "Predogled"
+
+#: admin/skins.php:500
+msgid "All available %s skins are already installed..."
+msgstr "Vse razpoložljive %s preobleke so že nameščene..."
+
+#: admin/tinymce/tinymce.php:115 admin/tinymce/window.php:21
+#: admin/tinymce/window.php:32
+msgid "Insert Flash Album with one or more galleries"
+msgstr "Vstavi Flash Album z eno ali več galerijami"
+
+#: admin/tinymce/window.php:10
+msgid "You are not allowed to be here"
+msgstr "Ni vam dovoljeno biti tukaj"
+
+#: admin/tinymce/window.php:49 admin/tinymce/window.php:58
+msgid "Galleries"
+msgstr "Galerije"
+
+#: admin/tinymce/window.php:51 admin/tinymce/window.php:60
+msgid "Sort"
+msgstr "Razvrsti"
+
+#: admin/tinymce/window.php:72
+msgid "Album Name"
+msgstr "Ime Albuma"
+
+#: admin/tinymce/window.php:97
+msgid "Select album"
+msgstr "Označi album"
+
+#: admin/tinymce/window.php:99
+msgid "choose album"
+msgstr "Izberi album"
+
+#: admin/tinymce/window.php:120
+msgid "choose custom skin"
+msgstr "izberi preobleko po meri"
+
+#: admin/tinymce/window.php:133
+msgid "Skin align"
+msgstr "poravnava preobleke"
+
+#: admin/tinymce/window.php:135
+msgid "default"
+msgstr "privzeto"
+
+#: admin/tinymce/window.php:136
+msgid "align left"
+msgstr "poravnava levo"
+
+#: admin/tinymce/window.php:137
+msgid "align center"
+msgstr "poravnava sredina"
+
+#: admin/tinymce/window.php:138
+msgid "align right"
+msgstr "poravnava desno"
+
+#: admin/tinymce/window.php:148
+msgid "Order galleries by"
+msgstr "Razvrsti galerije po"
+
+#: admin/tinymce/window.php:150
+msgid "Gallery IDs (default)"
+msgstr "ID-ju galerije"
+
+#: admin/tinymce/window.php:151
+msgid "Gallery Title"
+msgstr "Naslovu galerije"
+
+#: admin/tinymce/window.php:152
+msgid "User Defined"
+msgstr "Po uporabniku"
+
+#: admin/tinymce/window.php:157
+msgid "Order"
+msgstr "razvrsti"
+
+#: admin/tinymce/window.php:159
+msgid "DESC (default)"
+msgstr "DESC (privzeto)"
+
+#: admin/tinymce/window.php:160
+msgid "ASC"
+msgstr "ASC"
+
+#: admin/tinymce/window.php:164
+msgid "Exclude Gallery"
+msgstr "Izključi galerijo"
+
+#: admin/tinymce/window.php:174
+msgid "Choose playlist for background music"
+msgstr "Izberite seznam predvajanja za glasbo v ozadju"
+
+#: admin/tinymce/window.php:185
+msgid "Read Skin specification for supporting this function."
+msgstr "Preberite specifikacije preobleke za podporo te funkcije"
+
+#: admin/tinymce/window.php:194
+msgid "Insert"
+msgstr "vstavi"
+
+#: admin/tuning.php:20 admin/tuning.php:24
+msgid "Directory <strong>\""
+msgstr "Direktorij <strong>\""
+
+#: admin/tuning.php:20
+msgid ""
+"\"</strong> doesn't exist. Please create first the <strong>\"flagallery-skins"
+"\"</strong> folder!"
+msgstr ""
+"\"</strong> ne obstaja. Najprej ustvarite<strong>\"flagallery-skins\"</"
+"strong> mapo!"
+
+#: admin/tuning.php:24
+msgid "\"</strong> is not writeable!"
+msgstr "\"</strong> ni zapisljiva!"
+
+#: admin/tuning.php:39
+msgid "Failed to move files from %1$s to %2$s"
+msgstr "Neuspelo prenašanje datotek iz %1$s v %2$s"
+
+#: admin/upgrade.php:52
+msgid "Import date and time information..."
+msgstr "uvozi informacijo o datumu in času"
+
+#: admin/upgrade.php:54 admin/upgrade.php:72 admin/upgrade.php:84
+#: admin/upgrade.php:93
+msgid "finished"
+msgstr "končano"
+
+#: admin/upgrade.php:58 admin/upgrade.php:75 admin/upgrade.php:87
+msgid "Adding new options to database..."
+msgstr "Dodajam nove možnosti v podatkovno bazo..."
+
+#: admin/video-box.php:259
+msgid "Import video from folder"
+msgstr "Uvozi video iz mape"
+
+#: admin/video-box.php:278
+msgid "WordPress Video Library"
+msgstr "WordPress video knjižnica"
+
+#: admin/video-box.php:295
+msgid "Upload Video"
+msgstr "Naloži video"
+
+#: admin/video-box.php:371
+msgid "Can't read file size. Perhaps file is broken."
+msgstr "Ne morem prebrati velikosti datoteke, mogoče je okvarjena."
+
+#: admin/video-box.php:392
+msgid "No video in WordPress Media Library."
+msgstr "Ni video datoteke v Wordpress medijski knjižnici"
+
+#: admin/wpmu.php:29
+msgid "Update successfully"
+msgstr "Posodobitev uspešna"
+
+#: admin/wpmu.php:38
+msgid "General WordPress MU Settings"
+msgstr "Generalne MU nastavitve"
+
+#: admin/wpmu.php:46
+msgid ""
+"This is the default path for all blogs. With the placeholder %BLOG_ID% you "
+"can organize the folder structure better. The path must end with a /."
+msgstr ""
+"To je privzeta pot za vse bloge. Z uporabo %BLOG_ID% lahko bolje "
+"organizirate strukturo map. pot se mora končati z a /."
+
+#: admin/wpmu.php:49
+msgid "Enable upload quota check"
+msgstr "Omogočite preverjanje kvote nalaganja"
+
+#: admin/wpmu.php:51
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Moralo bi delovati, če je galerija pod blog.dir"
+
+#: admin/wpmu.php:55
+msgid "Enable roles/capabilities"
+msgstr "Omogočite vloge/zmožnosti"
+
+#: admin/wpmu.php:57
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Omogočite uporabnikom spreminjati vloge za druge blog avtorje."
+
+#: facebook.php:68 facebook.php:80 facebook.php:98
+msgid "Can't find playlist"
+msgstr "Ne najdem seznama predvajanja"
+
+#: flag.php:155
+msgid ""
+"Sorry, GRAND Flash Album Gallery works only with a Memory Limit of 16 MB "
+"higher"
+msgstr ""
+"oprostite GRAND Flash Album deluje le z limitom pomnilnika 16MB in višje"
+
+#: flag.php:354
+msgctxt "post type general name"
+msgid "GRAND Galleries"
+msgstr "GRAND galerije"
+
+#: flag.php:355
+msgid "FlAGallery Page"
+msgstr "FlAGallery stran"
+
+#: flag.php:356 flag.php:357
+msgid "Add New Gallery Page"
+msgstr "Dodaj novo stran galerije"
+
+#: flag.php:358
+msgid "Edit Gallery Page"
+msgstr "Uredi stran galerije"
+
+#: flag.php:359
+msgid "New Gallery Page"
+msgstr "Nova stran galerije"
+
+#: flag.php:360
+msgid "All GRAND Galleries"
+msgstr "vse GRAND galerije"
+
+#: flag.php:361
+msgid "View Gallery Page"
+msgstr "Poglej stran galerije"
+
+#: flag.php:362
+msgid "Search GRAND Galleries"
+msgstr "Išči GRAND galerije"
+
+#: flag.php:363
+msgid "No GRAND Galleries found"
+msgstr "Ni najdenih GRAND galerij"
+
+#: flag.php:364
+msgid "No GRAND Galleries found in Trash"
+msgstr "V smeteh ni bilo najti GRAND galerij"
+
+#: flag.php:371
+msgid ""
+"This is the page template for displaing Grand Flagallery galleries in full "
+"width and height of browser window."
+msgstr ""
+"To je predloga strani za prikaz GRAND FLAGalerije v polni širini in višini "
+"okna brskalnika"
+
+#: flag.php:390
+msgid "Photo Gallery Page Generator"
+msgstr "Photo gallery generator strani"
+
+#: flag.php:474
+msgid "Add Grand Flagallery"
+msgstr "Dodaj GRAND FlAGalerijo"
+
+#: lib/class.swfobject.php:59
+msgid ""
+"The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> "
+"and a browser with Javascript support are needed."
+msgstr ""
+"<a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> in "
+"brskalnik s podporo javascripta je potreben."
+
+#: lib/core.php:200
+msgid ""
+"Note : Based on your server memory limit you should not upload larger images "
+"then <strong>%d x %d</strong> pixel"
+msgstr ""
+"Sporočilo : Based on your server memory limit you should not upload larger "
+"images then <strong>%d x %d</strong> pixel"
+
+#: lib/core.php:280
+msgid "Can't create/open file '"
+msgstr "Ni možno narediti/ odpreti datoteke"
+
+#: lib/core.php:286
+msgid "Can't write data to file '"
+msgstr "Ni možno zapisati podatkov v datoteko"
+
+#: lib/meta.php:116
+msgid " mm"
+msgstr "mm"
+
+#: lib/meta.php:122
+msgid " sec"
+msgstr "sek"
+
+#: lib/meta.php:126
+msgid "Fired"
+msgstr "Odpuščen"
+
+#: lib/meta.php:126
+msgid "Not fired"
+msgstr "Ni odpuščen"
+
+#: lib/meta.php:389
+msgid "Aperture"
+msgstr "Zaslonka"
+
+#: lib/meta.php:390
+msgid "Credit"
+msgstr "Zasluge"
+
+#: lib/meta.php:391
+msgid "Camera"
+msgstr "kamera"
+
+#: lib/meta.php:392
+msgid "Caption"
+msgstr "Napis"
+
+#: lib/meta.php:393
+msgid "Date/Time"
+msgstr "Datum/čas"
+
+#: lib/meta.php:394
+msgid "Copyright"
+msgstr "Copyright"
+
+#: lib/meta.php:395
+msgid "Focal length"
+msgstr "Focal length"
+
+#: lib/meta.php:396
+msgid "ISO"
+msgstr "iso"
+
+#: lib/meta.php:397
+msgid "Shutter speed"
+msgstr "Shutter speed"
+
+#: lib/meta.php:400
+msgid "Tags"
+msgstr "Tagi"
+
+#: lib/meta.php:401
+msgid "Subject"
+msgstr "Tema"
+
+#: lib/meta.php:402
+msgid "Make"
+msgstr "Naredi"
+
+#: lib/meta.php:403
+msgid "Edit Status"
+msgstr "Uredi status"
+
+#: lib/meta.php:404
+msgid "Category"
+msgstr "Kategorija"
+
+#: lib/meta.php:405
+msgid "Keywords"
+msgstr "Ključne besede"
+
+#: lib/meta.php:406
+msgid "Date Created"
+msgstr "Narejeno datum"
+
+#: lib/meta.php:407
+msgid "Time Created"
+msgstr "Narejeno čas"
+
+#: lib/meta.php:408
+msgid "Author Position"
+msgstr "pozicija avtorja"
+
+#: lib/meta.php:409
+msgid "City"
+msgstr "Mesto"
+
+#: lib/meta.php:410
+msgid "Location"
+msgstr "Lokacija"
+
+#: lib/meta.php:411
+msgid "Province/State"
+msgstr "Provinca/država"
+
+#: lib/meta.php:412
+msgid "Country code"
+msgstr "Koda države"
+
+#: lib/meta.php:413
+msgid "Country"
+msgstr "Država"
+
+#: lib/meta.php:414
+msgid "Headline"
+msgstr "Naslovnica"
+
+#: lib/meta.php:415
+msgid "Source"
+msgstr "Izvor"
+
+#: lib/meta.php:416
+msgid "Contact"
+msgstr "Kontakt"
+
+#: lib/meta.php:417
+msgid "Last modified"
+msgstr "Na zadnje spreminjano"
+
+#: lib/meta.php:418
+msgid "Program tool"
+msgstr "Programsko orodje"
+
+#: lib/meta.php:419
+msgid "Format"
+msgstr "Format"
+
+#: lib/meta.php:420
+msgid "Image Width"
+msgstr "širina slike"
+
+#: lib/meta.php:421
+msgid "Image Height"
+msgstr "Višina slike"
+
+#: lib/meta.php:422
+msgid "Flash"
+msgstr "Flash"
+
+#: lib/shortcodes.php:62
+msgid "[Gallery %s not found]"
+msgstr "[Galerija %s ni najdena]"
+
+#: lib/shortcodes.php:81
+msgid "[Galleries not found]"
+msgstr "[Galerije niso najdene]"
+
+#: lib/shortcodes.php:93
+msgid "[Galleries %s not found]"
+msgstr "[Galerija %s ni najdena]"
+
+#: lib/shortcodes.php:155 lib/shortcodes.php:194
+msgid "[Playlist %s not found]"
+msgstr "[predvajalna lista %s ni najdena]"
+
+#: lib/shortcodes.php:234 lib/shortcodes.php:258
+msgid "[XML %s not found]"
+msgstr "[XML %s ni najden]"
+
+#: widgets/widgets.php:15
+msgid "Show links to GRAND Pages as random images from the galleries"
+msgstr "Pokaži povezavo GRAND strani kot naključne slike iz galerije"
+
+#: widgets/widgets.php:16
+msgid "FLAGallery GRANDPages"
+msgstr "FlAGallery GRAND strani"
+
+#: widgets/widgets.php:107 widgets/widgets.php:305 widgets/widgets.php:479
+msgid "Title :"
+msgstr "Naslov:"
+
+#: widgets/widgets.php:113 widgets/widgets.php:320 widgets/widgets.php:485
+msgid "Width x Height of thumbs:"
+msgstr "Širina x višina predoglednih sličic"
+
+#: widgets/widgets.php:119
+msgid "Select GRAND Pages:"
+msgstr "Izberi GRAND strani"
+
+#: widgets/widgets.php:131
+msgid "galleries order:"
+msgstr "vrstni red galerij"
+
+#: widgets/widgets.php:147
+msgid "Show a Grand Flagallery Banner"
+msgstr "Pokaži Grand Flagallery oglasno pasico"
+
+#: widgets/widgets.php:148
+msgid "FLAGallery Banner"
+msgstr "FlAGalerija oglasna pasica"
+
+#: widgets/widgets.php:154
+msgid "Banner"
+msgstr "Oglasna pasica"
+
+#: widgets/widgets.php:205 widgets/widgets.php:646
+msgid "Title:"
+msgstr "Naslov:"
+
+#: widgets/widgets.php:207 widgets/widgets.php:648
+msgid "Select playlist:"
+msgstr "Izberi predvajalno listo"
+
+#: widgets/widgets.php:219 widgets/widgets.php:660
+msgid "Height:"
+msgstr "višina:"
+
+#: widgets/widgets.php:220 widgets/widgets.php:661
+msgid "Width:"
+msgstr "širina:"
+
+#: widgets/widgets.php:222 widgets/widgets.php:348 widgets/widgets.php:663
+msgid "Select Skin:"
+msgstr "Izberi preobleko:"
+
+#: widgets/widgets.php:260
+msgid "Add recent or random images from the galleries"
+msgstr "Dodaj pred kratkim dodane ali naključne slike iz galerije"
+
+#: widgets/widgets.php:261
+msgid "FLAGallery Widget"
+msgstr "FlAGallery gradnik"
+
+#: widgets/widgets.php:312
+msgid "random"
+msgstr "naključno"
+
+#: widgets/widgets.php:315
+msgid "first in album"
+msgstr "prvi v albumu"
+
+#: widgets/widgets.php:326 widgets/widgets.php:491
+msgid "Width x Height of popup:"
+msgstr "Širina x višina oblačka (popup)"
+
+#: widgets/widgets.php:332
+msgid "Select Album:"
+msgstr "Izberi album:"
+
+#: widgets/widgets.php:334
+msgid "Choose album"
+msgstr "Izberi album"
+
+#: widgets/widgets.php:440
+msgid "Add recent or random video from the galleries"
+msgstr "Dodaj pred kratkim dodane videe iz galerije"
+
+#: widgets/widgets.php:441
+msgid "FLAGallery Video Widget"
+msgstr "FlAGallery video gradnik"
+
+#: widgets/widgets.php:497
+msgid "Select Playlist:"
+msgstr "Izberi predvajalno listo"
+
+#: widgets/widgets.php:564
+msgid "Error! No playlist."
+msgstr "Napaka! ni predvajalne liste."
+
+#: widgets/widgets.php:588
+msgid "Show a Grand Flagallery Music Player"
+msgstr "Pokaži Grand Flagallery predvajalnik glasbe"
+
+#: widgets/widgets.php:589
+msgid "FLAGallery Music"
+msgstr "FLAGallery glasba"
+
+#: xml/media-rss.php:39
+msgid "No galleries have been yet created."
+msgstr "Ni še bilo ustvarjene galerije"
+
+#: xml/media-rss.php:58
+msgid "The gallery ID=%s does not exist."
+msgstr " ID=%s galerije ne obstaja."
+
+#: xml/media-rss.php:85
+msgid "Invalid MediaRSS command (%s)."
+msgstr "Neveljavna MediaRSS komanda (%s)."
+
+#~ msgid "Toggle DIR Browser"
+#~ msgstr "Preklopi DIR brskalnik"
+
+#~ msgid ""
+#~ "(and above) use a different database structure than in previous versions "
+#~ "- this was to support new features. You must update your database in "
+#~ "order for this version to work - <strong>backup your database first</"
+#~ "strong> then"
+#~ msgstr ""
+#~ "(in zgoraj) uporabi drugačno strukturo podatkovne baze kot v prejšnjih "
+#~ "verzijah - zaradi podpore nove opreme. Posodobiti morate podatkovno bazo, "
+#~ "če želite, da vam ta verzija deluje - <strong> prvo naredite varnostno "
+#~ "kopijo podatkovne baze</strong> nato"
+
+#~ msgid "click here"
+#~ msgstr "kliknite tukaj"
+
+#~ msgid "to run the update script"
+#~ msgstr ", da zaženete posodobitveno skripto"
+
+#~ msgid "What's new at PhotoGalleryCreator.com"
+#~ msgstr "Kaj je novega pri PhotoGalleryCreator.com"
+
+#~ msgid "News Box"
+#~ msgstr "Novice"
+
+#~ msgid "Images"
+#~ msgstr "Slike"
+
+#~ msgid "Actions:"
+#~ msgstr "Ukrepanja:"
+
+#~ msgid "activated successfully"
+#~ msgstr "Uspešno aktivirano"
+
+#~ msgid "Want more skins?"
+#~ msgstr "Želite novo preobleko?"
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to install skin through admin "
+#~ "page. You can install it by uploading via ftp to /flagallery-skins/ "
+#~ "folder."
+#~ msgstr ""
+#~ "Nimate dovoljenja za namestitev preobleke preko admin strani. Lahko jo "
+#~ "namestite preko ftp v /flagallery-skins/folder."
+
+#~ msgid "If you want more skins, You may get it at."
+#~ msgstr "Če želite več preoblek, jih lahko dobite na."
+
+#~ msgid "custom settings"
+#~ msgstr "nastavitve po meri"
+
+#~ msgid "Order by"
+#~ msgstr "Razvrsti po"
+
+#~ msgid "Upgrade database structure..."
+#~ msgstr "Nadgradi podatkovno strukturo"
+
+#~ msgid "Upgrade Grand Flagallery"
+#~ msgstr "Nadgradi GRAND FLAGalerijo"
+
+#~ msgid "The script detect that you upgrade from a older version."
+#~ msgstr "Skripta je ugotovila, da nadgrajujete iz starejše verzije."
+
+#~ msgid ""
+#~ "Your database tables for Grand Flagallery is out-of-date, and must be "
+#~ "upgraded before you can continue."
+#~ msgstr ""
+#~ "Vaše tabele v podatkovni bazi so prestare in jih morate nadgraditi preden "
+#~ "nadaljujete."
+
+#~ msgid ""
+#~ "If you would like to downgrade later, please make first a complete backup "
+#~ "of your database and the images."
+#~ msgstr ""
+#~ "Če boste želeli nazaj na starejšo verzijo, morate najprej narediti "
+#~ "kompletno varnostno kopijo podatkovne baze in slik."
+
+#~ msgid "The upgrade process may take a while, so please be patient."
+#~ msgstr "Proces nadgradnje lahko traja nekaj časa, zato bodite potrpežljivi."
+
+#~ msgid "Start upgrade now"
+#~ msgstr "Začnite z nadgradnjo zdaj"
+
+#~ msgid "Upgrade sucessful"
+#~ msgstr "nadgradnja je bila uspešna"
+
+#~ msgid "Continue"
+#~ msgstr "Nadaljuj"
+
+#~ msgid "Grand Flagallery skins upgraded/installed incorrectly. Go to"
+#~ msgstr ""
+#~ "Grand Flagallery preobleke nadgrajene/nameščene nepravilno. pojdite na"
+
+#~ msgid "Overview page"
+#~ msgstr "Pregledno stran"
+
+#~ msgid "and click \"Reset settings\" button"
+#~ msgstr "in kliknite  \"Ponastavite nastavitve\" gumb"
+
+#~ msgid "Skins for Grand Flagallery, Photo Galleries, Video Galleries"
+#~ msgstr "Preobleke za GRAND FLAGalerijo, foto galerije, video galerije"
+
+#~ msgid ""
+#~ "developed by CodEasily.com - WordPress Flash Templates, WordPress Themes "
+#~ "and WordPress plugins"
+#~ msgstr ""
+#~ "developed by CodEasily.com - WordPress Flash Templates, WordPress Themes "
+#~ "and WordPress plugins"
+
+#~ msgid "Copyright Notice"
+#~ msgstr "Copyright Notice"
+
+#~ msgid "set default settings"
+#~ msgstr "nastavi privzete nastavitve"
+
+#~ msgid "Show :"
+#~ msgstr "Pokaži:"
+
+#~ msgid "Original images"
+#~ msgstr "Izvirne slike"
+
+#~ msgid "recent added "
+#~ msgstr "Pred kratkim dodane"
+
+#~ msgid "Enable IE8 Web Slices"
+#~ msgstr "Omogoči IE8 Spletne izreze"
+
+#~ msgid "Only which are not listed"
+#~ msgstr "samo katere niso naštete"
+
+#~ msgid "Only which are listed"
+#~ msgstr "samo katere so naštete"
+
+#~ msgid "Gallery ID :"
+#~ msgstr "ID galerije"
+
+#~ msgid "Gallery IDs, separated by commas."
+#~ msgstr "ID-ji galeriji ločeni z vejico."

@@ -1,0 +1,1643 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flash Album Gallery\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/flash-album-gallery\n"
+"POT-Creation-Date: 2009-10-28 10:59+0000\n"
+"PO-Revision-Date: 2012-05-22 18:39+0530\n"
+"Last-Translator: Ashish Jha <ashish@outshinesolutions.com>\n"
+"Language-Team: Team Outshine <ash.pr@outshinesolutions.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: Hindi\n"
+"X-Poedit-Country: INDIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: admin/addgallery.php:37
+#: admin/addmoreimages.php:36
+msgid "Upload failed!"
+msgstr "अपलोड असफल हुआ!"
+
+#: admin/addgallery.php:49
+#: admin/addmoreimages.php:41
+#: admin/functions.php:453
+#: admin/functions.php:543
+msgid "No gallery selected !"
+msgstr "गैलरी चयनित नहीं!"
+
+#: admin/addgallery.php:117
+#: admin/addmoreimages.php:88
+msgid "Image Files"
+msgstr "छवि फ़ाइलें"
+
+#: admin/addgallery.php:136
+#: admin/addgallery.php:166
+#: admin/addmoreimages.php:107
+#: admin/addmoreimages.php:136
+msgid "remove"
+msgstr "हटाना"
+
+#: admin/addgallery.php:137
+#: admin/addmoreimages.php:108
+msgid "Browse..."
+msgstr "ब्राउज़ करें ..."
+
+#: admin/addgallery.php:138
+#: admin/addgallery.php:203
+#: admin/addgallery.php:251
+#: admin/addmoreimages.php:109
+#: admin/addmoreimages.php:168
+msgid "Upload images"
+msgstr "छवियाँ अपलोड"
+
+#: admin/addgallery.php:177
+msgid "Add new gallery"
+msgstr "नई गैलरी जोड़ें"
+
+#: admin/addgallery.php:178
+msgid "Upload Images"
+msgstr "छवियाँ अपलोड करें"
+
+#: admin/addgallery.php:179
+#: admin/addgallery.php:258
+msgid "Import image folder"
+msgstr "छवि फ़ोल्डर आयात करें"
+
+#: admin/addgallery.php:184
+msgid "Create a new gallery"
+msgstr "एक नई गैलरी बनाएँ"
+
+#: admin/addgallery.php:189
+msgid "New Gallery"
+msgstr "नई गैलरी"
+
+#: admin/addgallery.php:193
+msgid "Create a new , empty gallery below the folder"
+msgstr "फ़ोल्डर के नीचे एक नई, खाली गैलरी बनाएँ"
+
+#: admin/addgallery.php:194
+msgid "Allowed characters for file and folder names are"
+msgstr "फ़ाइल और फ़ोल्डर नाम के लिए वर्णों की अनुमति है"
+
+#: admin/addgallery.php:195
+msgid "Add gallery"
+msgstr "गैलरी में जोड़ें"
+
+#: admin/addgallery.php:227
+#: admin/addmoreimages.php:156
+msgid "Upload image(s):"
+msgstr "छवि अपलोड करें"
+
+#: admin/addgallery.php:231
+msgid "in to"
+msgstr "के लिए में"
+
+#: admin/addgallery.php:232
+msgid "Choose gallery"
+msgstr "गैलरी चुनें"
+
+#: admin/addgallery.php:246
+#: admin/addmoreimages.php:164
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "बैच अपलोड करने के लिए  एडोब फ्लैश 10 की आवश्यकता है, इसे निष्क्रिय करने के लिए यदि आप को  समस्या है"
+
+#: admin/addgallery.php:246
+#: admin/addmoreimages.php:164
+msgid "Disable flash upload"
+msgstr "फ़्लैश अपलोड निष्क्रिय करें"
+
+#: admin/addgallery.php:248
+#: admin/addmoreimages.php:166
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "कई सारी फाइलें / ctrl संवाद में बदलाव का चयन करके एक बार अपलोड करें"
+
+#: admin/addgallery.php:248
+#: admin/addmoreimages.php:166
+msgid "Enable flash based upload"
+msgstr "सक्रिय करें फ़्लैश अपलोड आधारित है"
+
+#: admin/addgallery.php:263
+msgid "Import from Server path:"
+msgstr "सर्वर पथ से आयात करें:"
+
+#: admin/addgallery.php:264
+msgid "Toggle DIR Browser"
+msgstr "टॉगल DIR ब्राउज़र"
+
+#: admin/addgallery.php:267
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "कृपया ध्यान दें: =सुरक्षित मोड के लिए आपको सबफ़ोल्डर के मैन्युअल अंगूठे को जोड़ने की जरूरत है"
+
+#: admin/addgallery.php:270
+msgid "Import folder"
+msgstr "आयात फ़ोल्डर"
+
+#: admin/addmoreimages.php:145
+#, php-format
+msgid "Upload More Images in \"%s\""
+msgstr "और अधिक छवियाँ अपलोड करें  \"%s\""
+
+#: admin/addmoreimages.php:150
+msgid "Add images to gallery"
+msgstr "गैलरी के लिए छवियाँ जोड़ें"
+
+#: admin/addmoreimages.php:158
+#: admin/manage-sort.php:61
+msgid "Back to gallery"
+msgstr "गैलरी पर लौटें"
+
+#: admin/admin.php:23
+#: admin/admin.php:24
+msgid "Flash Album Gallery overview"
+msgstr "फ्लैश एल्बम गैलरी अवलोकन"
+
+#: admin/admin.php:23
+msgid "FlAGallery"
+msgstr "FlAGallery"
+
+#: admin/admin.php:24
+msgid "Overview"
+msgstr "अवलोकन"
+
+#: admin/admin.php:25
+msgid "FlAG Manage gallery"
+msgstr "फ्लैग गैलरी प्रबंधित करें"
+
+#: admin/admin.php:25
+msgid "Manage Galleries"
+msgstr "गैलरी प्रबंधित करें"
+
+#: admin/admin.php:26
+msgid "FlAG Manage skins"
+msgstr "खाल प्रबंधित झंडा"
+
+#: admin/admin.php:26
+#: admin/skins.php:312
+msgid "Skins"
+msgstr "खाल"
+
+#: admin/admin.php:27
+msgid "FlAG Change options"
+msgstr "फ्लैग परिवर्तित करें विकल्प"
+
+#: admin/admin.php:27
+msgid "Options"
+msgstr "विकल्प"
+
+#: admin/admin.php:77
+msgid "You do not have the correct permission"
+msgstr "आपको सही अनुमति नहीं है"
+
+#: admin/admin.php:78
+msgid "Unexpected Error"
+msgstr "अप्रत्याशित त्रुटि"
+
+#: admin/admin.php:79
+msgid "A failure occurred"
+msgstr "एक विफलता हुई"
+
+#: admin/flag_install.php:24
+msgid "Sorry, Flash Album Gallery works only with a role called administrator"
+msgstr "माफ करना, फ्लैश एल्बम गैलरी एक व्यवस्थापक बुलाया भूमिका के साथ ही काम करता है"
+
+#: admin/flag_install.php:121
+msgid "Flash Album Gallery : Tables could not created, please check your database settings"
+msgstr "फ्लैश एल्बम गैलरी: टेबल्स नहीं बनाया जा सकता है, अपने डेटाबेस सेटिंग्स की जाँच करें"
+
+#: admin/functions.php:29
+msgid "No valid gallery name!"
+msgstr "मान्य गैलरी नाम नहीं है !"
+
+#: admin/functions.php:36
+#: admin/functions.php:45
+#: admin/functions.php:59
+#: admin/functions.php:127
+#: admin/functions.php:134
+msgid "Directory"
+msgstr "डायरेक्टरी"
+
+#: admin/functions.php:36
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "मौजूद नहीं था. पहले मुख्य गैलरी फ़ोल्डर बनाएँ"
+
+#: admin/functions.php:37
+#: admin/functions.php:46
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "इस लिंक की जाँच करें, अगर आपको नहीं पता था कि कैसे स्थापित करने के लिए अनुमति:"
+
+#: admin/functions.php:45
+#: admin/functions.php:59
+msgid "is not writeable !"
+msgstr "लेखनीय नहीं है!"
+
+#: admin/functions.php:54
+#: admin/functions.php:64
+#: lib/core.php:99
+msgid "Unable to create directory "
+msgstr "निर्देशिका बनाने में असमर्थ"
+
+#: admin/functions.php:68
+msgid "The server setting Safe-Mode is on !"
+msgstr "सुरक्षित मोड स्थापित सर्वर पर है!"
+
+#: admin/functions.php:69
+msgid "If you have problems, please create directory"
+msgstr "यदि आप समस्या है, कृपया निर्देशिका बनाये "
+
+#: admin/functions.php:70
+msgid "and the thumbnails directory"
+msgstr "और थंबनेल निर्देशिका"
+
+#: admin/functions.php:70
+msgid "with permission 777 manually !"
+msgstr "अनुमति मैन्युअल रूप से 777 के साथ!"
+
+#: admin/functions.php:88
+#: admin/functions.php:155
+#: admin/manage-images.php:139
+#: admin/manage.php:89
+#: admin/overview.php:220
+msgid "Gallery"
+msgstr "गैलरी"
+
+#: admin/functions.php:88
+msgid "already exists"
+msgstr "पहले से मौजूद है"
+
+#: admin/functions.php:93
+#, php-format
+msgid "Gallery '%1$s' successfully created.<br/>You can show this gallery with the tag %2$s.<br/>"
+msgstr "गैलरी '%1$s' को सफलतापूर्वक बनाया गया. करें <br/> आपको इस गैलरी दिखाने के टैग के साथ %2$s कर सकते हैं. करें <br/>"
+
+#: admin/functions.php:96
+msgid "Edit gallery"
+msgstr "संपादन गैलरी"
+
+#: admin/functions.php:127
+msgid "doesn&#96;t exist!"
+msgstr "मौजूद नहीं है!"
+
+#: admin/functions.php:134
+msgid "contains no pictures"
+msgstr "कोई चित्र शामिल हैं"
+
+#: admin/functions.php:152
+msgid "Database error. Could not add gallery!"
+msgstr "डेटाबेस त्रुटि. गैलरी को जोड़ नहीं सकता है!"
+
+#: admin/functions.php:155
+msgid "successfully created!"
+msgstr "सफलतापूर्वक बनाया!"
+
+#: admin/functions.php:184
+#: admin/functions.php:525
+#: admin/manage-images.php:212
+#: admin/manage.php:137
+msgid "Create new thumbnails"
+msgstr "नई थंबनेल बनाएँ"
+
+#: admin/functions.php:187
+msgid " picture(s) successfully added"
+msgstr "तस्वीर (ओं) को सफलतापूर्वक जोड़ा गया"
+
+#: admin/functions.php:226
+#: admin/functions.php:305
+msgid "Object didn't contain correct data"
+msgstr "वस्तु सही डेटा शामिल नहीं करता है"
+
+#: admin/functions.php:231
+msgid " is not writeable "
+msgstr "लेखनीय नहीं है"
+
+#: admin/functions.php:312
+msgid " is not writeable"
+msgstr "लेखनीय नहीं है"
+
+#: admin/functions.php:461
+#: admin/functions.php:566
+msgid "Failure in database, no gallery path set !"
+msgstr "डेटाबेस में विफलता, नहीं गैलरी पथ सेट!"
+
+#: admin/functions.php:482
+#: admin/functions.php:560
+msgid "is no valid image file!"
+msgstr "कोई नहीं मान्य छवि फ़ाइल है!"
+
+#: admin/functions.php:496
+#: admin/functions.php:666
+#: admin/functions.php:734
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "निर्देशिका%s को लिखने में असमर्थ. इस निर्देशिका सर्वर के द्वारा लिखने योग्य है?"
+
+#: admin/functions.php:503
+#: admin/functions.php:583
+msgid "Error, the file could not moved to : "
+msgstr "त्रुटि, फ़ाइल को नहीं ले जाया जा सकता है:"
+
+#: admin/functions.php:508
+#: admin/functions.php:587
+msgid "Error, the file permissions could not set"
+msgstr "त्रुटि, फ़ाइल को नहीं ले जाया जा सकता है:"
+
+#: admin/functions.php:529
+msgid " Image(s) successfully added"
+msgstr "छवि (ओं) को सफलतापूर्वक जोड़ा गया"
+
+#: admin/functions.php:548
+msgid "Invalid upload. Error Code : "
+msgstr "अमान्य अपलोड. त्रुटि कोड:"
+
+#: admin/functions.php:613
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "सुरक्षित मोड प्रभाव में प्रतिबंध! आपको फ़ोल्डर मैन्युअल बनाने की जरूरत है:<strong>%s</strong"
+
+#: admin/functions.php:614
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "जब safe_mode पर है, PHP यदि वर्तमान स्क्रिप्ट के मालिक (%s) फ़ाइल के मालिक (%s) से मेल खाता है पर एक फ़ाइल समारोह या अपनी निर्देशिका के द्वारा संचालित किया जा देखने के लिए जाँच करता है"
+
+#: admin/functions.php:660
+#: admin/functions.php:728
+msgid "The destination gallery does not exist"
+msgstr "मंजिल गैलरी मौजूद नहीं है"
+
+#: admin/functions.php:691
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "छवि को स्थानांतरित करने में विफल %1$s to %2$s"
+
+#: admin/functions.php:709
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "गैलरी तस्वीर (ओं): %1$s : %2$s ."
+
+#: admin/functions.php:758
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "छवि की प्रतिलिपि बनाने में विफल %1$s zu %2$s"
+
+#: admin/functions.php:770
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "तस्वीर के लिए डेटाबेस पंक्ति की प्रतिलिपि बनाने में विफल %s"
+
+#: admin/functions.php:775
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "छवि %1$s (%2$s) छवि के रूप में नकल %3$s (%4$s) &raquo; फ़ाइल गंतव्य गैलरी में पहले से ही अस्तित्व"
+
+#: admin/functions.php:778
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "छवि%1$s (%2$s)छवि के रूप में नकल %3$s (%4$s)"
+
+#: admin/functions.php:787
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "%1$s  चित्र गैलरी की नकल की है: %2$s ."
+
+#: admin/manage-galleries.php:19
+#: admin/manage-images.php:39
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: admin/manage-galleries.php:20
+#: admin/manage-images.php:40
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: admin/manage-galleries.php:27
+msgid "Gallery Overview"
+msgstr "गैलरी अवलोकन"
+
+#: admin/manage-galleries.php:30
+#: admin/manage-images.php:202
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "प्रदर्शित %s&#8211;%s of %s"
+
+#: admin/manage-galleries.php:42
+#: admin/manage-images.php:234
+#: admin/manage-images.php:243
+#: admin/manage-sort.php:98
+#: admin/manage-sort.php:107
+msgid "ID"
+msgstr "आईडी"
+
+#: admin/manage-galleries.php:43
+#: admin/manage-images.php:165
+#: lib/meta.php:338
+msgid "Title"
+msgstr "शीर्षक"
+
+#: admin/manage-galleries.php:44
+#: admin/manage-images.php:169
+#: admin/media-upload.php:185
+#: admin/skins.php:324
+#: admin/skins.php:332
+msgid "Description"
+msgstr "विवरण"
+
+#: admin/manage-galleries.php:45
+#: admin/manage-images.php:177
+#: lib/meta.php:339
+msgid "Author"
+msgstr "लेखक"
+
+#: admin/manage-galleries.php:46
+msgid "Quantity"
+msgstr "मात्रा"
+
+#: admin/manage-galleries.php:47
+#: admin/skins.php:23
+#: admin/skins.php:325
+#: admin/skins.php:333
+msgid "Action"
+msgstr "कार्रवाई"
+
+#: admin/manage-galleries.php:67
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: admin/manage-galleries.php:76
+msgid "Delete this gallery ?"
+msgstr "इस गैलरी को हटाएँ?"
+
+#: admin/manage-galleries.php:76
+#: admin/manage-images.php:293
+#: admin/skins.php:383
+msgid "Delete"
+msgstr "हटाना"
+
+#: admin/manage-galleries.php:83
+#: admin/manage-images.php:313
+#: admin/manage-sort.php:139
+msgid "No entries found"
+msgstr "कोई प्रविष्टियां नहीं पाया गया"
+
+#: admin/manage-images.php:16
+msgid "Gallery not found."
+msgstr "गैलरी नहीं मिला."
+
+#: admin/manage-images.php:22
+msgid "Sorry, you have no access here"
+msgstr "क्षमा करें, आप यहाँ पहुँच नहीं है"
+
+#: admin/manage-images.php:107
+msgid "No images selected"
+msgstr "चयनित छवियों नहीं है "
+
+#: admin/manage-images.php:121
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"आपको थोक संपादित करने के लिए %s छवियों के शुरू करने के बारे में हैं \n"
+" \n"
+"'रद्द करें' बंद करो, 'ठीक' आगे बढ़ने के लिए."
+
+#: admin/manage-images.php:141
+msgid "Choose another gallery"
+msgstr "एक और गैलरी चुनें"
+
+#: admin/manage-images.php:161
+msgid "Gallery settings"
+msgstr "गैलरी सेटिंग्स"
+
+#: admin/manage-images.php:173
+msgid "Path"
+msgstr "पथ"
+
+#: admin/manage-images.php:191
+msgid "Scan Folder for new images"
+msgstr "नए चित्रों के लिए फ़ोल्डर स्कैन"
+
+#: admin/manage-images.php:192
+#: admin/manage-images.php:225
+#: admin/manage-images.php:319
+#: admin/settings.php:100
+#: admin/settings.php:133
+#: admin/settings.php:157
+#: admin/settings.php:187
+#: admin/settings.php:313
+msgid "Save Changes"
+msgstr "परिवर्तन सहेजें"
+
+#: admin/manage-images.php:211
+msgid "No action"
+msgstr "कोई कार्रवाई नहीं"
+
+#: admin/manage-images.php:213
+#: admin/manage.php:141
+msgid "Resize images"
+msgstr "छवियों का आकार"
+
+#: admin/manage-images.php:214
+msgid "Delete images"
+msgstr "छवियाँ हटाएँ"
+
+#: admin/manage-images.php:215
+msgid "Import metadata"
+msgstr "आयात मेटाडेटा"
+
+#: admin/manage-images.php:216
+msgid "Copy to..."
+msgstr "कॉपी ..."
+
+#: admin/manage-images.php:217
+msgid "Move to..."
+msgstr "यहां ले जाएं ..."
+
+#: admin/manage-images.php:219
+#: admin/manage-images.php:349
+msgid "OK"
+msgstr "ठीक है"
+
+#: admin/manage-images.php:221
+msgid "Sort gallery"
+msgstr "क्रमबद्ध गैलरी"
+
+#: admin/manage-images.php:223
+msgid "Add Images"
+msgstr "छवियाँ जोड़ें"
+
+#: admin/manage-images.php:235
+#: admin/manage-images.php:244
+#: admin/media-upload.php:206
+msgid "Thumbnail"
+msgstr "थंबनेल"
+
+#: admin/manage-images.php:236
+#: admin/manage-images.php:245
+msgid "Filename / Date"
+msgstr "फ़ाइलनाम /तिथि "
+
+#: admin/manage-images.php:237
+#: admin/manage-images.php:246
+msgid "Alt & Title Text / Description"
+msgstr "ऑल्ट और शीर्षक पाठ / विवरण "
+
+#: admin/manage-images.php:286
+msgid "Size: "
+msgstr "आकार:"
+
+#: admin/manage-images.php:291
+#, php-format
+msgid "View \"%s\""
+msgstr "देखना \"%s\""
+
+#: admin/manage-images.php:291
+msgid "View"
+msgstr "देखना"
+
+#: admin/manage-images.php:292
+msgid "Customize thumbnail"
+msgstr "थंबनेल अनुकूलित"
+
+#: admin/manage-images.php:292
+msgid "Edit thumb"
+msgstr "अंगूठे संपादित करें"
+
+#: admin/manage-images.php:293
+#: admin/skins.php:383
+#, php-format
+msgid "Delete \"%s\""
+msgstr "हटाना \"%s\""
+
+#: admin/manage-images.php:333
+msgid "Select the destination gallery:"
+msgstr "चुनें मंजिल गैलरी:"
+
+#: admin/manage-images.php:351
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: admin/manage-sort.php:31
+msgid "Sort order changed"
+msgstr "सॉर्ट क्रम परिवर्तित"
+
+#: admin/manage-sort.php:54
+msgid "Sort Gallery"
+msgstr "क्रमबद्ध गैलरी"
+
+#: admin/manage-sort.php:58
+#: admin/manage-sort.php:145
+msgid "Update Sort Order"
+msgstr "अपडेट सॉर्ट क्रम"
+
+#: admin/manage-sort.php:99
+#: admin/manage-sort.php:108
+msgid "Thumb"
+msgstr "अंगूठा"
+
+#: admin/manage-sort.php:100
+#: admin/manage-sort.php:109
+msgid "Filename"
+msgstr "फ़ाइलनाम"
+
+#: admin/manage-sort.php:101
+#: admin/manage-sort.php:110
+msgid "Date"
+msgstr "तारीख"
+
+#: admin/manage-sort.php:102
+#: admin/manage-sort.php:111
+msgid "Alt &amp; Title Text"
+msgstr "Alt और शीर्षक पाठ"
+
+#: admin/manage.php:42
+#: admin/manage_thumbnail.php:17
+#: admin/manage_thumbnail.php:20
+msgid "Cheatin&#8217; uh?"
+msgstr "Cheatin&#8217; uh?"
+
+#: admin/manage.php:89
+#: admin/manage.php:111
+#: admin/skins.php:226
+msgid "deleted successfully"
+msgstr "सफलतापूर्वक नष्ट कर दिया"
+
+#: admin/manage.php:111
+msgid "Picture"
+msgstr "चित्र"
+
+#: admin/manage.php:158
+msgid "Pictures deleted successfully "
+msgstr "सफलतापूर्वक नष्ट कर दिया चित्र"
+
+#: admin/manage.php:164
+msgid "Import metadata finished"
+msgstr "आयात मेटाडाटा समाप्त"
+
+#: admin/manage.php:172
+msgid "Operation successful. Please clear your browser cache."
+msgstr "सफल ऑपरेशन. कृपया स्पष्ट आपके ब्राउज़र cache.Import मेटाडाटा समाप्त"
+
+#: admin/manage.php:216
+msgid "Update successful"
+msgstr "सफल अपडेट"
+
+#: admin/manage_thumbnail.php:114
+msgid "Select with the mouse the area for the new thumbnail."
+msgstr "माउस के साथ नई झलक के लिए क्षेत्र का चयन करें."
+
+#: admin/manage_thumbnail.php:128
+msgid "Thumbnail updated"
+msgstr "थंबनेल अपडेट"
+
+#: admin/manage_thumbnail.php:133
+msgid "Error updating thumbnail."
+msgstr "अद्यतन त्रुटि थंबनेल."
+
+#: admin/manage_thumbnail.php:150
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "क्षेत्र के लिए बाईं तरफ के चित्र से थंबनेल का चयन करें."
+
+#: admin/manage_thumbnail.php:165
+msgid "Update"
+msgstr "अपडेट"
+
+#: admin/media-upload.php:9
+msgid "FlAG Gallery"
+msgstr "फ्लैग गैलरी"
+
+#: admin/media-upload.php:126
+msgid "No gallery"
+msgstr " गैलरी नहीं है"
+
+#: admin/media-upload.php:138
+msgid "Select &#187;"
+msgstr "चयन&#187;"
+
+#: admin/media-upload.php:169
+msgid "Show"
+msgstr "दिखाना"
+
+#: admin/media-upload.php:170
+msgid "Hide"
+msgstr "छिपाना"
+
+#: admin/media-upload.php:175
+msgid "Image ID:"
+msgstr "छवि आईडी:"
+
+#: admin/media-upload.php:181
+msgid "Alt/Title text"
+msgstr "ऑल्ट / शीर्षक पाठ"
+
+#: admin/media-upload.php:189
+msgid "Alignment"
+msgstr "संरेखण"
+
+#: admin/media-upload.php:192
+msgid "None"
+msgstr "कोई नहीं"
+
+#: admin/media-upload.php:194
+msgid "Left"
+msgstr "बाएं"
+
+#: admin/media-upload.php:196
+msgid "Center"
+msgstr "केंद्र"
+
+#: admin/media-upload.php:198
+msgid "Right"
+msgstr "सही"
+
+#: admin/media-upload.php:202
+msgid "Size"
+msgstr "आकार"
+
+#: admin/media-upload.php:208
+msgid "Full size"
+msgstr "पूर्ण आकार"
+
+#: admin/media-upload.php:216
+msgid "Insert into Post"
+msgstr "पोस्ट में सम्मिलित करें"
+
+#: admin/media-upload.php:226
+msgid "Save all changes"
+msgstr "परिवर्तन सहेजें"
+
+#: admin/overview.php:13
+msgid "FlAG Gallery Overview"
+msgstr "फ्लैग गैलरी अवलोकन"
+
+#: admin/overview.php:106
+msgid "Reset all settings to default parameter"
+msgstr "डिफ़ॉल्ट पैरामीटर के लिए सभी सेटिंग्स रीसेट करें"
+
+#: admin/overview.php:117
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "सफल स्थापना रद्द करें! अब प्लगइन हटा सकते हैं और अपने जीवन का आनंद! सौभाग्य!"
+
+#: admin/overview.php:125
+msgid "Plugin Home"
+msgstr "प्लगइन होम"
+
+#: admin/overview.php:130
+msgid "Plugin Comments"
+msgstr "प्लगइन टिप्पणियाँ"
+
+#: admin/overview.php:135
+msgid "Rate Plugin"
+msgstr "मूल्यांकन प्लगइन"
+
+#: admin/overview.php:140
+msgid "My Plugins"
+msgstr "मेरे प्लगइन्स"
+
+#: admin/overview.php:145
+msgid "Contact Me"
+msgstr "संपर्क Me"
+
+#: admin/overview.php:155
+msgid "Reset settings"
+msgstr "सेटिंग्स रीसेट"
+
+#: admin/overview.php:155
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"डिफ़ॉल्ट सेटिंग्स करने के लिए सभी विकल्पों को रीसेट?\\n"
+"\\n"
+"चुनें [रद्द करें] बंद करो, [ठीक] आगे बढ़ने के लिए..\\n"
+
+#: admin/overview.php:158
+msgid "Uninstall plugin"
+msgstr "प्लगइन स्थापना रद्द करें"
+
+#: admin/overview.php:158
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"आप के लिए WordPress से इस प्लगइन की स्थापना रद्द करें के बारे में हैं..\\n"
+"यह कार्रवाई पलटवाँ नहीं है.\\n"
+"\\n"
+"चुनें [रद्द करें] बंद करो, [ठीक] स्थापना रद्द करें.\\n"
+
+#: admin/overview.php:184
+msgid "What's new at PhotoGalleryCreator.com"
+msgstr "क्या PhotoGalleryCreator.com में नया क्या है"
+
+#: admin/overview.php:208
+msgid "At a Glance"
+msgstr "एक नजर में"
+
+#: admin/overview.php:214
+msgid "Image"
+msgstr "छवि"
+
+#: admin/overview.php:229
+msgid "Upload pictures"
+msgstr "तस्वीरें अपलोड"
+
+#: admin/overview.php:230
+msgid "Here you can control your images and galleries."
+msgstr "यहाँ आप अपने चित्रों और दीर्घाओं को नियंत्रित कर सकते हैं."
+
+#: admin/overview.php:232
+msgid "Gallery Administrator"
+msgstr "गैलरी प्रशासक"
+
+#: admin/overview.php:232
+msgid "Gallery Editor"
+msgstr "गैलरी संपादक"
+
+#: admin/overview.php:233
+#, php-format
+msgid "You currently have %s rights."
+msgstr "आप के वर्तमान में%s अधिकार है."
+
+#: admin/overview.php:239
+msgid "Setup Box"
+msgstr "सेटअप बॉक्स"
+
+#: admin/overview.php:240
+msgid "News Box"
+msgstr "समाचार बॉक्स"
+
+#: admin/overview.php:241
+msgid "Welcome to FlAG Gallery !"
+msgstr "फ्लैग गैलरी में आपका स्वागत है!"
+
+#: admin/overview.php:242
+msgid "Server Settings"
+msgstr "सर्वर सेटिंग्स"
+
+#: admin/overview.php:243
+msgid "Graphic Library"
+msgstr "ग्राफिक लाइब्रेरी"
+
+#: admin/overview.php:259
+msgid "No GD support"
+msgstr "जी.डी. समर्थननहीं है"
+
+#: admin/overview.php:266
+#: admin/overview.php:295
+#: admin/overview.php:297
+#: admin/overview.php:299
+msgid "Yes"
+msgstr "हां"
+
+#: admin/overview.php:268
+#: admin/overview.php:295
+#: admin/overview.php:297
+#: admin/overview.php:299
+msgid "No"
+msgstr "नहीं है"
+
+#: admin/overview.php:279
+msgid "Not set"
+msgstr "सेट नहीं है"
+
+#: admin/overview.php:281
+#: admin/overview.php:283
+msgid "On"
+msgstr "पर"
+
+#: admin/overview.php:281
+#: admin/overview.php:283
+msgid "Off"
+msgstr "बंद"
+
+#: admin/overview.php:285
+#: admin/overview.php:287
+#: admin/overview.php:289
+#: admin/overview.php:291
+#: admin/overview.php:293
+msgid "N/A"
+msgstr "N/A"
+
+#: admin/overview.php:293
+msgid " MByte"
+msgstr " MByte"
+
+#: admin/overview.php:302
+msgid "Operating System"
+msgstr "ऑपरेटिंग सिस्टम"
+
+#: admin/overview.php:303
+msgid "Server"
+msgstr "सर्वर"
+
+#: admin/overview.php:304
+msgid "Memory usage"
+msgstr "स्मृति के उपयोग"
+
+#: admin/overview.php:305
+msgid "MYSQL Version"
+msgstr "MYSQL संस्करण"
+
+#: admin/overview.php:306
+msgid "SQL Mode"
+msgstr "एसक्यूएल मोड"
+
+#: admin/overview.php:307
+msgid "PHP Version"
+msgstr "PHP संस्करण"
+
+#: admin/overview.php:308
+msgid "PHP Safe Mode"
+msgstr "PHP सुरक्षित मोड"
+
+#: admin/overview.php:309
+msgid "PHP Allow URL fopen"
+msgstr "PHP यूआरएल fopen की अनुमति दें"
+
+#: admin/overview.php:310
+msgid "PHP Memory Limit"
+msgstr "PHP मेमोरी सीमा"
+
+#: admin/overview.php:311
+msgid "PHP Max Upload Size"
+msgstr "PHP अधिकतम अपलोड आकार"
+
+#: admin/overview.php:312
+msgid "PHP Max Post Size"
+msgstr "PHP अधिकतम पोस्ट का आकार"
+
+#: admin/overview.php:313
+msgid "PHP Max Script Execute Time"
+msgstr "PHP अधिकतम स्क्रिप्ट निष्पादित समय"
+
+#: admin/overview.php:314
+msgid "PHP Exif support"
+msgstr "PHP के Exif समर्थन"
+
+#: admin/overview.php:315
+msgid "PHP IPTC support"
+msgstr "PHP आईपीटीसी समर्थन"
+
+#: admin/overview.php:316
+msgid "PHP XML support"
+msgstr "PHP XML समर्थन"
+
+#: admin/settings.php:32
+msgid "Update Successfully"
+msgstr "सफलतापूर्वक अपडेट"
+
+#: admin/settings.php:50
+msgid "Updated capabilities"
+msgstr "क्षमता अपडेट"
+
+#: admin/settings.php:61
+#: admin/settings.php:74
+msgid "General Options"
+msgstr "सामान्य विकल्प"
+
+#: admin/settings.php:62
+msgid "Thumbnails"
+msgstr "थंबनेल"
+
+#: admin/settings.php:63
+msgid "Images"
+msgstr "छवियाँ"
+
+#: admin/settings.php:64
+#: admin/settings.php:164
+msgid "Sorting"
+msgstr "छँटाई"
+
+#: admin/settings.php:66
+#: admin/settings.php:223
+msgid "Colors"
+msgstr "रंग"
+
+#: admin/settings.php:68
+msgid "Roles"
+msgstr "भूमिकाएँ"
+
+#: admin/settings.php:80
+msgid "Gallery path"
+msgstr "गैलरी पथ"
+
+#: admin/settings.php:82
+msgid "This is the default path for all galleries"
+msgstr "इस सभी दीर्घाओं लिए डिफ़ॉल्ट पथ है"
+
+#: admin/settings.php:85
+msgid "Default flash size (W x H)"
+msgstr "डिफ़ॉल्ट फ़्लैश आकार (डब्ल्यू X एच)"
+
+#: admin/settings.php:90
+msgid "Delete image files"
+msgstr "छवि फ़ाइलों को हटाएँ"
+
+#: admin/settings.php:92
+msgid "Delete files, when removing a gallery in the database"
+msgstr "फ़ाइलें हटाएँ, जब डेटाबेस में एक गैलरी हटाने"
+
+#: admin/settings.php:95
+msgid "Activate Media RSS feed"
+msgstr "Activate Media RSS feed"
+
+#: admin/settings.php:97
+msgid "A RSS feed will be added to you blog header."
+msgstr "एक आरएसएस फ़ीड करने के लिए आप शीर्ष लेख ब्लॉग जोड़ दिया जाएगा."
+
+#: admin/settings.php:107
+msgid "Thumbnail settings"
+msgstr "थंबनेल सेटिंग्स"
+
+#: admin/settings.php:111
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "कृपया ध्यान दें: यदि आप सेटिंग्स बदलते हैं, आप के तहत थंबनेल विश्राम की जरूरत -> गैलरी प्रबंधित."
+
+#: admin/settings.php:114
+msgid "Width x Height (in pixel)"
+msgstr "चौड़ाई x ऊँचाई (पिक्सेल में)"
+
+#: admin/settings.php:116
+msgid "These values are maximum values "
+msgstr "ये मान अधिकतम मान रहे हैं"
+
+#: admin/settings.php:119
+msgid "Set fix dimension"
+msgstr "तय आयाम सेट"
+
+#: admin/settings.php:121
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "पहलू अनुपात, कोई चित्र थंबनेल पर ध्यान न दें"
+
+#: admin/settings.php:124
+msgid "Crop square thumbnail from image"
+msgstr "फसल वर्ग थंबनेल छवि"
+
+#: admin/settings.php:126
+msgid "Create square thumbnails, use only the width setting :"
+msgstr "वर्ग थंबनेल बनाएँ, केवल चौड़ाई सेटिंग का उपयोग करें:"
+
+#: admin/settings.php:129
+msgid "Thumbnail quality"
+msgstr "थंबनेल गुणवत्ता"
+
+#: admin/settings.php:140
+msgid "Image settings"
+msgstr "छवि सेटिंग्स"
+
+#: admin/settings.php:146
+msgid "Resize Images"
+msgstr "छवियों का आकार"
+
+#: admin/settings.php:149
+msgid "Width x Height (in pixel). Flash Album Gallery will keep ratio size"
+msgstr "चौड़ाई x ऊँचाई (पिक्सेल में). फ्लैश एल्बम गैलरी अनुपात आकार रखेंगे"
+
+#: admin/settings.php:152
+msgid "Image quality"
+msgstr "Image quality"
+
+#: admin/settings.php:168
+msgid "Sort options"
+msgstr "सॉर्ट विकल्प"
+
+#: admin/settings.php:171
+msgid "Sort thumbnails"
+msgstr "क्रमबद्ध थंबनेल"
+
+#: admin/settings.php:173
+msgid "Custom order"
+msgstr "कस्टम आदेश"
+
+#: admin/settings.php:174
+msgid "Image ID"
+msgstr "छवि आईडी"
+
+#: admin/settings.php:175
+msgid "File name"
+msgstr "फ़ाइल नाम"
+
+#: admin/settings.php:176
+msgid "Alt / Title text"
+msgstr "ऑल्ट / शीर्षक पाठ"
+
+#: admin/settings.php:177
+msgid "Date / Time"
+msgstr "दिनांक / समय"
+
+#: admin/settings.php:181
+msgid "Sort direction"
+msgstr "अनुक्रम दिशा"
+
+#: admin/settings.php:182
+msgid "Ascending"
+msgstr "आरोही"
+
+#: admin/settings.php:183
+msgid "Descending"
+msgstr "अवरोही"
+
+#: admin/settings.php:227
+msgid "Background Color"
+msgstr "पृष्ठभूमि का रंग"
+
+#: admin/settings.php:233
+msgid "Buttons Background Color"
+msgstr "बटन पृष्ठभूमि रंग"
+
+#: admin/settings.php:239
+msgid "Buttons Text Color"
+msgstr "बटन पाठ रंग"
+
+#: admin/settings.php:250
+msgid "Category Buttons Color"
+msgstr "श्रेणी बटन रंग"
+
+#: admin/settings.php:261
+msgid "Category Buttons Text Color"
+msgstr "श्रेणी बटन पाठ का रंग"
+
+#: admin/settings.php:272
+msgid "Thumbs Rollover Color"
+msgstr "अच्छा रोल ओवर का रंग"
+
+#: admin/settings.php:283
+msgid "Main Title"
+msgstr "मुख्य शीर्षक"
+
+#: admin/settings.php:289
+msgid "Category Title"
+msgstr "शीर्षक"
+
+#: admin/settings.php:295
+msgid "Item Background"
+msgstr "आइटम पृष्ठभूमि"
+
+#: admin/settings.php:301
+msgid "Item Title"
+msgstr "लेख का शीर्षक"
+
+#: admin/settings.php:307
+msgid "Item Description"
+msgstr "आइटम विवरण"
+
+#: admin/settings.php:322
+msgid "Roles / capabilities"
+msgstr "भूमिकाएँ / क्षमताओं "
+
+#: admin/settings.php:323
+msgid "Select the lowest role which should be able to access the follow capabilities. Flash Album Gallery supports the standard roles from WordPress."
+msgstr "सबसे कम भूमिका जो पालन क्षमताओं का उपयोग करने में सक्षम होना चाहिए. फ्लैश एल्बम गैलरी WordPress से मानक भूमिका का समर्थन करता है."
+
+#: admin/settings.php:326
+msgid "Main Flash Album Gallery overview"
+msgstr "मुख्य फ़्लैश एल्बम गैलरी सिंहावलोकन"
+
+#: admin/settings.php:330
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "TinyMCE बटन का प्रयोग करें / अपलोड टैब"
+
+#: admin/settings.php:334
+msgid "Add gallery / Upload images"
+msgstr "गैलरी जोड़ें / अपलोड"
+
+#: admin/settings.php:338
+msgid "Manage gallery"
+msgstr "गैलरी प्रबंधित करें"
+
+#: admin/settings.php:342
+msgid "Manage others gallery"
+msgstr "अन्य लोगों गैलरी प्रबंधित करें"
+
+#: admin/settings.php:346
+msgid "Change skin"
+msgstr "त्वचा बदलें"
+
+#: admin/settings.php:350
+msgid "Add skins"
+msgstr "खाल में जोड़ें"
+
+#: admin/settings.php:354
+msgid "Delete skins"
+msgstr "खाल हटाएँ"
+
+#: admin/settings.php:358
+msgid "Change options"
+msgstr "विकल्प बदलें"
+
+#: admin/settings.php:362
+msgid "Update capabilities"
+msgstr "क्षमता अपडेट"
+
+#: admin/skins.php:20
+#: admin/skins.php:28
+msgid "Add new skin"
+msgstr "नई त्वचा जोड़ें"
+
+#: admin/skins.php:21
+msgid "Want more skins?"
+msgstr "अधिक खाल चाहते हैं?"
+
+#: admin/skins.php:29
+msgid "Install a skin in .zip format"
+msgstr ". ज़िप प्रारूप में एक त्वचा स्थापित"
+
+#: admin/skins.php:30
+msgid "If you have a skin in a .zip format, You may install it by uploading it here."
+msgstr "यदि आप एक ज़िप. प्रारूप में एक त्वचा है, तो आप इसे यहाँ अपलोड करके स्थापित कर सकते हैं."
+
+#: admin/skins.php:34
+msgid "Install Now"
+msgstr "अभी संस्थापित"
+
+#: admin/skins.php:39
+msgid "More skins"
+msgstr "अधिक खाल"
+
+#: admin/skins.php:40
+msgid "If you want more skins, You may get it at."
+msgstr "यदि आप अधिक खाल चाहते हैं, तो आप इसे पर मिल सकता है."
+
+#: admin/skins.php:47
+msgid "Install info"
+msgstr "स्थापित जानकारी"
+
+#: admin/skins.php:58
+#: admin/skins.php:88
+msgid "No skin Specified"
+msgstr "विनिर्दिष्ट त्वचा नहीं"
+
+#: admin/skins.php:61
+#, php-format
+msgid "Installing Skin from file: %s"
+msgstr "फ़ाइल से त्वचा का अधिष्ठापनi: %s"
+
+#: admin/skins.php:70
+#, php-format
+msgid "The uploaded file could not be moved to %s."
+msgstr "अपलोड की गई फाईल%s को स्थानांतरित नहीं किया जा सकता है."
+
+#: admin/skins.php:117
+msgid "Installation Failed"
+msgstr "स्थापना में विफल"
+
+#: admin/skins.php:119
+msgid "The skin installed successfully."
+msgstr "त्वचा सफलतापूर्वक स्थापित है"
+
+#: admin/skins.php:122
+#: admin/skins.php:369
+msgid "Activate this skin"
+msgstr "यह त्वचा को सक्रिय करें"
+
+#: admin/skins.php:122
+msgid "Activate Skin"
+msgstr "त्वचा सक्रिय"
+
+#: admin/skins.php:123
+msgid "Goto skin overview"
+msgstr "Goto त्वचा अवलोकन"
+
+#: admin/skins.php:123
+msgid "Skin overview"
+msgstr "त्वचा अवलोकन"
+
+#: admin/skins.php:126
+msgid "Actions:"
+msgstr "क्रिया:"
+
+#: admin/skins.php:145
+msgid "Could not access filesystem."
+msgstr "फाइलसिस्टम का उपयोग नहीं किया जा सका."
+
+#: admin/skins.php:148
+msgid "Filesystem error"
+msgstr "फाइलसिस्टम त्रुटि"
+
+#: admin/skins.php:154
+msgid "Unable to locate FlAGallery Skin directory."
+msgstr "FlAGallery त्वचा निर्देशिका का पता लगाने में असमर्थ है."
+
+#: admin/skins.php:159
+msgid "Unable to locate WordPress Content directory (wp-content)."
+msgstr "WordPress सामग्री निर्देशिका (wp-सामग्री) का पता लगाने में असमर्थ है."
+
+#: admin/skins.php:165
+msgid "Install package not available."
+msgstr "उपलब्ध पैकेज नहीं स्थापित करें."
+
+#: admin/skins.php:173
+msgid "Unpacking the skin package"
+msgstr "त्वचा पैकेज unpacking"
+
+#: admin/skins.php:190
+msgid "Folder already exists."
+msgstr "फोल्डर पहले से मौजूद है."
+
+#: admin/skins.php:193
+msgid "Installing the skin"
+msgstr "त्वचा का अधिष्ठापन"
+
+#: admin/skins.php:226
+#: admin/skins.php:281
+#: admin/skins.php:323
+#: admin/skins.php:331
+msgid "Skin"
+msgstr "त्वचा"
+
+#: admin/skins.php:228
+msgid "Can't find skin directory "
+msgstr "त्वचा निर्देशिका में नहीं मिल सकता है"
+
+#: admin/skins.php:228
+msgid ". Try delete it manualy via ftp"
+msgstr "इसे हटा manualy कोशिश करो FTP के माध्यम से"
+
+#: admin/skins.php:231
+msgid "You need activate another skin before delete it"
+msgstr "आप के एक और त्वचा को सक्रिय करने की जरूरत है इससे पहले कि इसे हटा दें"
+
+#: admin/skins.php:234
+msgid "You do not have sufficient permissions to delete skins of Grand Flagallery."
+msgstr "कहां पर्याप्त ग्रैंड FlAGallery की खाल को हटाने की अनुमति नहीं है."
+
+#: admin/skins.php:281
+msgid "activated successfully"
+msgstr "सफलतापूर्वक सक्रिय"
+
+#: admin/skins.php:342
+msgid "No skins to show"
+msgstr "दिखाने के लिए नहीं है "
+
+#: admin/skins.php:355
+#, php-format
+msgid "Version %s"
+msgstr "संस्करण %s"
+
+#: admin/skins.php:359
+msgid "Visit author homepage"
+msgstr "लेखक मुखपृष्ठ पर जाएँ"
+
+#: admin/skins.php:360
+#, php-format
+msgid "By %s"
+msgstr "द्वारा %s"
+
+#: admin/skins.php:363
+msgid "Visit skin site"
+msgstr "त्वचा साइट पर जाएँ"
+
+#: admin/skins.php:369
+msgid "Activate"
+msgstr "सक्रिय"
+
+#: admin/skins.php:371
+msgid "Activated"
+msgstr "सक्रिय"
+
+#: admin/skins.php:383
+msgid "Delete this skin"
+msgstr "यह त्वचा को हटाएँ"
+
+#: admin/tinymce/tinymce.php:114
+#: admin/tinymce/window.php:16
+#: admin/tinymce/window.php:26
+msgid "Insert Flash Album with one or more galleries"
+msgstr "एक या एक से अधिक दीर्घाओं के साथ फ्लैश एल्बम सम्मिलित करें"
+
+#: admin/tinymce/window.php:8
+msgid "You are not allowed to be here"
+msgstr "आपको यहाँ की अनुमति नहीं है"
+
+#: admin/tinymce/window.php:42
+msgid "Album Name"
+msgstr "एल्बम नाम"
+
+#: admin/tinymce/window.php:46
+msgid "Select galleries"
+msgstr "दीर्घाओं का चयन करें"
+
+#: admin/tinymce/window.php:46
+msgid "(album categories)"
+msgstr "(एल्बम श्रेणियां)"
+
+#: admin/tinymce/window.php:74
+msgid "custom size"
+msgstr "कस्टम आकार"
+
+#: admin/tinymce/window.php:85
+#: admin/tinymce/window.php:128
+msgid "Insert"
+msgstr "सम्मिलित करें"
+
+#: admin/upgrade.php:20
+msgid "Upgrade database structure..."
+msgstr "डेटाबेस संरचना के उन्नयन"
+
+#: admin/upgrade.php:49
+#: admin/upgrade.php:59
+msgid "finished"
+msgstr "समाप्त"
+
+#: admin/upgrade.php:57
+msgid "Import date and time information..."
+msgstr "दिनांक और समय की जानकारी आयात करें ..."
+
+#: admin/upgrade.php:130
+#: admin/upgrade.php:149
+msgid "Upgrade Grand Flagallery"
+msgstr "ग्रैंड FlAGallery अपग्रेड"
+
+#: admin/upgrade.php:131
+msgid "The script detect that you upgrade from a older version."
+msgstr "स्क्रिप्ट का पता लगाने कि आप एक पुराने संस्करण से उन्नयन."
+
+#: admin/upgrade.php:132
+msgid "Your database tables for Grand Flagallery is out-of-date, and must be upgraded before you can continue."
+msgstr "ग्रैंड FlAGallery के लिए डेटाबेस तालिकाओं की तारीख है, और इससे पहले कि आप जारी रख सकते हैं  उन्नत किया जाना चाहिए"
+
+#: admin/upgrade.php:133
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "अगर तुम ढाल करने के लिए बाद में चाहते हैं, कृपया पहले अपने डेटाबेस और छवियों की एक पूर्ण बैकअप है."
+
+#: admin/upgrade.php:134
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "उन्नयन प्रक्रिया कुछ समय ले सकता है, इसलिये कृपया धैर्य रखें."
+
+#: admin/upgrade.php:135
+msgid "Start upgrade now"
+msgstr "अभी नवीनीकरण प्रारंभ"
+
+#: admin/upgrade.php:151
+msgid "Upgrade sucessful"
+msgstr "sucessful अपग्रेड"
+
+#: admin/upgrade.php:152
+msgid "Continue"
+msgstr "जारी रखें"
+
+#: lib/core.php:199
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "नोट: आपके सर्वर स्मृति की सीमा के आधार पर आप बड़े चित्र तो नहीं अपलोड करना चाहिए <strong>%d x %d</strong> पिक्सेल"
+
+#: lib/meta.php:73
+msgid " mm"
+msgstr "मिमी"
+
+#: lib/meta.php:79
+msgid " sec"
+msgstr "सेकंड"
+
+#: lib/meta.php:329
+msgid "Aperture"
+msgstr "छेद"
+
+#: lib/meta.php:330
+#: lib/meta.php:355
+msgid "Credit"
+msgstr "श्रेय"
+
+#: lib/meta.php:331
+msgid "Camera"
+msgstr "कैमरा"
+
+#: lib/meta.php:332
+msgid "Caption"
+msgstr "शीर्षक"
+
+#: lib/meta.php:333
+msgid "Date/Time"
+msgstr "दिनांक / समय"
+
+#: lib/meta.php:334
+msgid "Copyright"
+msgstr "कॉपीराइट"
+
+#: lib/meta.php:335
+msgid "Focal length"
+msgstr "फोकल लम्बाई"
+
+#: lib/meta.php:336
+msgid "ISO"
+msgstr "ISO"
+
+#: lib/meta.php:337
+msgid "Shutter speed"
+msgstr "शटर गति"
+
+#: lib/meta.php:340
+msgid "Tags"
+msgstr "टैग"
+
+#: lib/meta.php:341
+msgid "Subject"
+msgstr "विषय"
+
+#: lib/meta.php:342
+msgid "Make"
+msgstr "बनाना"
+
+#: lib/meta.php:343
+msgid "Edit Status"
+msgstr "स्थिति संपादित करें"
+
+#: lib/meta.php:344
+msgid "Category"
+msgstr "श्रेणी"
+
+#: lib/meta.php:345
+msgid "Keywords"
+msgstr "कीवर्ड"
+
+#: lib/meta.php:346
+msgid "Date Created"
+msgstr "तिथि बनाया"
+
+#: lib/meta.php:347
+msgid "Time Created"
+msgstr "समय बनाया गया"
+
+#: lib/meta.php:348
+msgid "Author Position"
+msgstr "लेखक स्थिति"
+
+#: lib/meta.php:349
+msgid "City"
+msgstr "शहर"
+
+#: lib/meta.php:350
+msgid "Location"
+msgstr "स्थान"
+
+#: lib/meta.php:351
+msgid "Province/State"
+msgstr "प्रदेश / राज्य"
+
+#: lib/meta.php:352
+msgid "Country code"
+msgstr "कंट्री कोड"
+
+#: lib/meta.php:353
+msgid "Country"
+msgstr "देश"
+
+#: lib/meta.php:354
+msgid "Headline"
+msgstr "शीर्षक"
+
+#: lib/meta.php:356
+msgid "Source"
+msgstr "स्रोत"
+
+#: lib/meta.php:357
+msgid "Copyright Notice"
+msgstr "कॉपीराइट सूचना"
+
+#: lib/meta.php:358
+msgid "Contact"
+msgstr "संपर्क"
+
+#: lib/meta.php:359
+msgid "Last modified"
+msgstr "अंतिम बार संशोधित"
+
+#: lib/meta.php:360
+msgid "Program tool"
+msgstr "कार्यक्रम उपकरण"
+
+#: lib/meta.php:361
+msgid "Format"
+msgstr "प्रारूप"
+
+#: lib/shortcodes.php:71
+#: lib/shortcodes.php:86
+msgid "[Gallery not found]"
+msgstr "[ गैलरी नहीं मिला]"
+
+#: lib/shortcodes.php:80
+#, php-format
+msgid "[Gallery %s not found]"
+msgstr "[ गैलरी नहीं मिला] %s "
+
+#: lib/swfobject.php:145
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and a browser with Javascript support are needed.."
+msgstr "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> और जावास्क्रिप्ट समर्थन के साथ एक ब्राउज़र की जरूरत है .."
+
+#: xml/media-rss.php:39
+msgid "No galleries have been yet created."
+msgstr "अभी तक नहीं दीर्घाओं बनाया गया है."
+
+#: xml/media-rss.php:58
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "गैलरी आईडी =%s मौजूद नहीं है."
+
+#: xml/media-rss.php:85
+#, php-format
+msgid "Invalid MediaRSS command (%s)."
+msgstr "अवैध MediaRSS आदेश (%s)."
+

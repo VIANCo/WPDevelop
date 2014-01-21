@@ -1,0 +1,2944 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: flag 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/flash-album-gallery\n"
+"POT-Creation-Date: 2013-07-10 10:46:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-09-15 16:44+0100\n"
+"Last-Translator: Riffe <riffe@freemail.hu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: admin/addgallery.php:37
+msgid "Upload failed!"
+msgstr "Feltöltés nem sikerült!"
+
+#: admin/addgallery.php:49 admin/functions.php:819
+msgid "No gallery selected !"
+msgstr "Nincs galéria kiválasztva!"
+
+#: admin/addgallery.php:118
+msgid "Image Files"
+msgstr "Kép fájlok"
+
+#: admin/addgallery.php:139 admin/addgallery.php:169
+msgid "remove"
+msgstr "eltávolítás"
+
+#: admin/addgallery.php:140 admin/addgallery.php:281 admin/banner-box.php:342
+#: admin/music-box.php:311 admin/video-box.php:265
+msgid "Browse..."
+msgstr "Tallózás ..."
+
+#: admin/addgallery.php:141 admin/addgallery.php:211 admin/addgallery.php:267
+msgid "Upload images"
+msgstr "Képek feltöltése"
+
+#: admin/addgallery.php:180
+msgid "Add new gallery"
+msgstr "Új galéria hozzáadása"
+
+#: admin/addgallery.php:181
+msgid "Upload Images"
+msgstr "Képek feltöltése"
+
+#: admin/addgallery.php:183 admin/addgallery.php:275
+msgid "Import image folder"
+msgstr "Kép könyvtár importálása"
+
+#: admin/addgallery.php:189
+msgid "Create a new gallery"
+msgstr "Új galéria létrehozása"
+
+#: admin/addgallery.php:194
+msgid "New Gallery"
+msgstr "Új galéria"
+
+#: admin/addgallery.php:199
+msgid "Create a new , empty gallery below the folder"
+msgstr "Létre hoz egy új, üres galériát "
+
+#: admin/addgallery.php:201
+msgid "Allowed characters for file and folder names are"
+msgstr "Engedélyezett karakterek a fájl és könyvtárnevekben"
+
+#: admin/addgallery.php:203
+msgid "Add gallery"
+msgstr "Galéria hozzáadása"
+
+#: admin/addgallery.php:238
+msgid "Upload image(s):"
+msgstr "Kép(ek) feltöltése:"
+
+#: admin/addgallery.php:242
+msgid "in to"
+msgstr "be"
+
+#: admin/addgallery.php:244
+msgid "Choose gallery"
+msgstr "Galéria választása"
+
+#: admin/addgallery.php:262
+msgid ""
+"The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr ""
+"A kötegelt feltöltéshez Adobe Flash 10 szükséges, letílthatod ha ez nem "
+"alkalmas neked"
+
+#: admin/addgallery.php:262
+msgid "Disable flash upload"
+msgstr "Flash feltöltés letiltása"
+
+#: admin/addgallery.php:264
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr ""
+"Több fájl feltöltése egyszerre ctrl / shift- billentyűk használata a "
+"kiválasztáskor a párbeszédpanelen"
+
+#: admin/addgallery.php:264
+msgid "Enable flash based upload"
+msgstr "Flash alapú feltöltés engedélyezése"
+
+#: admin/addgallery.php:280 admin/banner-box.php:341 admin/music-box.php:310
+#: admin/video-box.php:264
+msgid "Import from Server path:"
+msgstr "Importálás Szerverről:"
+
+#: admin/addgallery.php:284
+msgid ""
+" Please note : For safe-mode = ON you need to add the subfolder thumbs "
+"manually"
+msgstr ""
+"Kérjük, vegye figyelembe: A safe-mode = ON meg kell adni az almappához kézzel"
+
+#: admin/addgallery.php:287 admin/banner-box.php:349 admin/music-box.php:318
+#: admin/video-box.php:272
+msgid "Import folder"
+msgstr "Import könyvtár"
+
+#: admin/admin.php:53 admin/admin.php:54
+msgid "GRAND Flash Album Gallery overview"
+msgstr "GRAND Flash Album Gallery áttekintás"
+
+#: admin/admin.php:53 admin/media-upload.php:8
+msgid "FlAGallery"
+msgstr "FlAGallery"
+
+#: admin/admin.php:54
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: admin/admin.php:55
+msgid "FlAG Manage gallery"
+msgstr "FlAG Galéria Kezelés"
+
+#: admin/admin.php:55
+msgid "Manage Galleries"
+msgstr "Galériák kezelése"
+
+#: admin/admin.php:56
+msgid "FlAG Music Box"
+msgstr "FlAG Zene Doboz"
+
+#: admin/admin.php:56
+msgid "Music Box"
+msgstr "Zene Doboz"
+
+#: admin/admin.php:57
+msgid "FlAG Video Box"
+msgstr "FlAG Video Doboz"
+
+#: admin/admin.php:57
+msgid "Video Box"
+msgstr "Video Doboz"
+
+#: admin/admin.php:58
+msgid "FlAG Banner Box"
+msgstr "FlAG Banner Doboz"
+
+#: admin/admin.php:58
+msgid "Banner Box"
+msgstr "Banner Doboz"
+
+#: admin/admin.php:59
+msgid "FlAG Manage skins"
+msgstr "FlAG Megjelenések Kezelése"
+
+#: admin/admin.php:59 admin/skins.php:339
+msgid "Skins"
+msgstr "Felületek"
+
+#: admin/admin.php:60
+msgid "FlAG Change options"
+msgstr "FlAG Beállítások változtatása"
+
+#: admin/admin.php:60 admin/skins.php:457
+msgid "Options"
+msgstr "Beállítások"
+
+#: admin/admin.php:61
+msgid "FlAG Facebook Integration"
+msgstr "FlAG Facebook Integráció"
+
+#: admin/admin.php:61
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/admin.php:63
+msgid "GRAND Flash Album Gallery"
+msgstr "GRAND Flash Album Gallery"
+
+#: admin/admin.php:63
+msgid "Grand Flagallery"
+msgstr "Grand Flagallery"
+
+#: admin/admin.php:133
+msgid "You do not have the correct permission"
+msgstr "Nem rendelkezik a megfelelő engedéllyel"
+
+#: admin/admin.php:134
+msgid "Unexpected Error"
+msgstr "Váratlan hiba"
+
+#: admin/admin.php:135
+msgid "A failure occurred"
+msgstr "Hiba történt"
+
+#: admin/admin.php:215 admin/admin.php:249 admin/functions.php:105
+#: admin/functions.php:181 admin/manage-images.php:205 admin/manage.php:101
+#: admin/manage.php:112 admin/manage.php:120 admin/overview.php:197
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin.php:229
+msgid "Get help with Grand Flagallery"
+msgstr "Segítség a Grand Flagallery-től"
+
+#: admin/admin.php:233
+msgid "More Help & Info"
+msgstr "Több Segítség & Információ"
+
+#: admin/admin.php:235
+msgid "Grand Flagallery Video Tutorial"
+msgstr "Grand Flagallery Video oktató"
+
+#: admin/admin.php:236
+msgid "FAQ"
+msgstr "GY.I.K."
+
+#: admin/admin.php:237
+msgid "Grand Flagallery Review"
+msgstr "Grand Flagallery Áttekintése"
+
+#: admin/admin.php:238
+msgid "Get your language pack"
+msgstr "Nyelvi csomag beszerzése"
+
+#: admin/admin.php:239
+msgid "Skins for Grand Flagallery"
+msgstr "Felületek a Grand Flagallery-hez"
+
+#: admin/ajax.php:139 admin/ajax.php:165 admin/facebook-tool.php:13
+msgid "Success"
+msgstr "Sikerült"
+
+#: admin/ajax.php:190 admin/functions.php:250 admin/functions.php:290
+msgid "<em>%s</em> was <strong>not</strong> imported due to an error: %s"
+msgstr ""
+"<em>%s</em> nem sikerült<strong></strong> az importálás egy hiba miatt: %s"
+
+#: admin/ajax.php:192 admin/functions.php:253 admin/functions.php:293
+msgid "<em>%s</em> has been added to Media library"
+msgstr "<em>%s</em>hozzáadásra került a  Media könyvtárhoz"
+
+#: admin/banner-box.php:90 admin/music-box.php:86 admin/video-box.php:80
+msgid "Media updated"
+msgstr "Média feltöltve"
+
+#: admin/banner-box.php:133
+msgid "Import folder is complete. The page reloads after 5 seconds."
+msgstr "Import könyvtár kész. Az oldal újra betöltődik 5 másodpercen belűl."
+
+#: admin/banner-box.php:134
+msgid "Import folder complete. Refresh page."
+msgstr "import könyvtár kész. Frissítsd az oldalt."
+
+#: admin/banner-box.php:155 admin/music-box.php:107 admin/video-box.php:101
+msgid "Created playlists"
+msgstr "Lejátszási lista készítése"
+
+#: admin/banner-box.php:159 admin/banner-sort.php:68 admin/banner-sort.php:76
+#: admin/manage-banner.php:149 admin/manage-galleries.php:153
+#: admin/manage-images.php:232 admin/manage-playlist.php:150
+#: admin/manage-video.php:150 admin/music-box.php:111
+#: admin/playlist-sort.php:68 admin/playlist-sort.php:76
+#: admin/video-box.php:105 admin/video-sort.php:73 admin/video-sort.php:81
+#: lib/meta.php:398
+msgid "Title"
+msgstr "Cím"
+
+#: admin/banner-box.php:160 admin/banner-box.php:433 admin/banner-box.php:442
+#: admin/manage-banner.php:153 admin/manage-banner.php:185
+#: admin/manage-banner.php:194 admin/manage-galleries.php:154
+#: admin/manage-images.php:236 admin/manage-images.php:601
+#: admin/manage-playlist.php:154 admin/manage-playlist.php:187
+#: admin/manage-playlist.php:197 admin/manage-video.php:154
+#: admin/manage-video.php:187 admin/manage-video.php:197
+#: admin/media-upload.php:184 admin/music-box.php:112 admin/music-box.php:402
+#: admin/music-box.php:412 admin/skins.php:385 admin/skins.php:393
+#: admin/video-box.php:106 admin/video-box.php:317 admin/video-box.php:327
+msgid "Description"
+msgstr "Leírás"
+
+#: admin/banner-box.php:161 admin/manage-galleries.php:156
+#: admin/music-box.php:113 admin/video-box.php:107
+msgid "Quantity"
+msgstr "Mennyiség"
+
+#: admin/banner-box.php:162 admin/manage-banner.php:127
+#: admin/manage-playlist.php:128 admin/manage-video.php:128
+#: admin/music-box.php:114 admin/video-box.php:108
+msgid "Shortcode"
+msgstr ""
+
+#: admin/banner-box.php:163 admin/manage-galleries.php:157
+#: admin/music-box.php:115 admin/skins.php:386 admin/skins.php:394
+#: admin/video-box.php:109
+msgid "Action"
+msgstr "Akció"
+
+#: admin/banner-box.php:179 admin/manage-galleries.php:178
+#: admin/music-box.php:131 admin/video-box.php:125
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: admin/banner-box.php:183 admin/music-box.php:135 admin/video-box.php:129
+msgid "player"
+msgstr "Lejátszó"
+
+#: admin/banner-box.php:187 admin/music-box.php:139 admin/video-box.php:133
+msgid "Delete this playlist?"
+msgstr "Törlöd ezt a lejátszási listát?"
+
+#: admin/banner-box.php:187 admin/manage-galleries.php:191
+#: admin/manage-galleries.php:273 admin/manage-images.php:401
+#: admin/music-box.php:139 admin/skins.php:461 admin/skins.php:471
+#: admin/video-box.php:133
+msgid "Delete"
+msgstr "Törlés"
+
+#: admin/banner-box.php:193 admin/music-box.php:145 admin/video-box.php:139
+msgid "No playlists found"
+msgstr "Nincs lejátszási lista"
+
+#: admin/banner-box.php:290 admin/manage-banner.php:42
+#: admin/manage-playlist.php:42 admin/manage-video.php:42
+#: admin/music-box.php:248 admin/video-box.php:205
+msgid "No items selected"
+msgstr "Nincs elem kiválasztva"
+
+#: admin/banner-box.php:336
+msgid "Import banners from folder"
+msgstr "Banner importálása könyvtárból"
+
+#: admin/banner-box.php:345 admin/music-box.php:314 admin/video-box.php:268
+msgid "delete files after import in WordPress Media Library"
+msgstr "törli a fájlokat az importálás után a WordPress Média Tárból"
+
+#: admin/banner-box.php:355
+msgid "WordPress Image Library"
+msgstr "WordPress Kép Könyvtár"
+
+#: admin/banner-box.php:379 admin/manage-galleries.php:22
+#: admin/manage-images.php:55 admin/music-box.php:347
+msgid "&laquo;"
+msgstr ""
+
+#: admin/banner-box.php:380 admin/manage-galleries.php:23
+#: admin/manage-images.php:56 admin/music-box.php:348
+msgid "&raquo;"
+msgstr ""
+
+#: admin/banner-box.php:387 admin/music-box.php:355
+msgid "Selected Media"
+msgstr "Kiválasztott média"
+
+#: admin/banner-box.php:387 admin/music-box.php:355
+msgid "Clear Selected"
+msgstr "Kiválasztás törlése"
+
+#: admin/banner-box.php:389 admin/manage-galleries.php:136
+#: admin/manage-images.php:271 admin/music-box.php:357
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Megjelenít %s&#8211;%s a %s-ból"
+
+#: admin/banner-box.php:404 admin/music-box.php:372 admin/video-box.php:287
+msgid "Update Media"
+msgstr "Média Frissítése"
+
+#: admin/banner-box.php:407 admin/manage-banner.php:168
+#: admin/manage-galleries.php:124 admin/manage-images.php:280
+#: admin/manage-playlist.php:169 admin/manage-video.php:169
+#: admin/music-box.php:375 admin/video-box.php:290
+msgid "No action"
+msgstr "Nincs akció"
+
+#: admin/banner-box.php:408 admin/music-box.php:376 admin/video-box.php:291
+msgid "Create new playlist"
+msgstr "Új Lejátszási lista létrehozása"
+
+#: admin/banner-box.php:410 admin/manage-galleries.php:131
+#: admin/music-box.php:378 admin/video-box.php:293
+msgid "Apply"
+msgstr "Elfogad"
+
+#: admin/banner-box.php:412
+msgid "Upload Banner(s)"
+msgstr "Banner(ek) feltöltése"
+
+#: admin/banner-box.php:421 admin/manage-banner.php:174
+#: admin/manage-banner.php:244 admin/manage-playlist.php:175
+#: admin/manage-playlist.php:255 admin/manage-video.php:175
+#: admin/manage-video.php:250 admin/music-box.php:389 admin/video-box.php:304
+msgid "Update Playlist"
+msgstr "Lejátszási lista frissítése"
+
+#: admin/banner-box.php:429 admin/banner-box.php:438
+#: admin/manage-banner.php:181 admin/manage-banner.php:190
+#: admin/manage-playlist.php:182 admin/manage-playlist.php:192
+#: admin/manage-video.php:182 admin/manage-video.php:192
+#: admin/music-box.php:397 admin/music-box.php:407 admin/video-box.php:312
+#: admin/video-box.php:322
+msgid "Check"
+msgstr "Jelölés"
+
+#: admin/banner-box.php:430 admin/banner-box.php:439 admin/banner-sort.php:65
+#: admin/banner-sort.php:73 admin/manage-banner.php:182
+#: admin/manage-banner.php:191 admin/manage-galleries.php:152
+#: admin/manage-images.php:596 admin/manage-playlist.php:183
+#: admin/manage-playlist.php:193 admin/manage-sort.php:99
+#: admin/manage-sort.php:108 admin/manage-video.php:183
+#: admin/manage-video.php:193 admin/music-box.php:398 admin/music-box.php:408
+#: admin/playlist-sort.php:65 admin/playlist-sort.php:73
+#: admin/video-box.php:313 admin/video-box.php:323 admin/video-sort.php:70
+#: admin/video-sort.php:78
+msgid "ID"
+msgstr ""
+
+#: admin/banner-box.php:431 admin/banner-box.php:440
+#: admin/manage-banner.php:183 admin/manage-banner.php:192
+#: admin/manage-images.php:597 admin/manage-playlist.php:185
+#: admin/manage-playlist.php:195 admin/manage-video.php:185
+#: admin/manage-video.php:195 admin/media-upload.php:205
+#: admin/music-box.php:400 admin/music-box.php:410 admin/video-box.php:315
+#: admin/video-box.php:325
+msgid "Thumbnail"
+msgstr "Bélyegkép"
+
+#: admin/banner-box.php:432 admin/banner-box.php:441
+msgid "Filename / Title / Link"
+msgstr "Fájlnév / Cím / Link"
+
+#: admin/banner-box.php:459 admin/music-box.php:429 admin/video-box.php:351
+msgid "Already Added"
+msgstr "Már hozzáadva"
+
+#: admin/banner-box.php:480 admin/manage-banner.php:226
+msgid "URL"
+msgstr "URL"
+
+#: admin/banner-box.php:489
+msgid "No images in WordPress Media Library."
+msgstr "Nincs kép a WordPress Média Tárban"
+
+#: admin/banner-box.php:507 admin/music-box.php:486 admin/video-box.php:410
+msgid "Playlist Title"
+msgstr "Lejátszási lista címe"
+
+#: admin/banner-box.php:509 admin/facebook-tool.php:180 admin/meta_box.php:126
+#: admin/music-box.php:488 admin/tinymce/window.php:118
+#: admin/video-box.php:412
+msgid "Choose skin"
+msgstr "Válassz Felületet"
+
+#: admin/banner-box.php:518 admin/manage-banner.php:140
+#: admin/manage-playlist.php:141 admin/manage-video.php:141
+#: admin/music-box.php:497 admin/video-box.php:421
+msgid "No Skins"
+msgstr "Nincsenek Felületek"
+
+#: admin/banner-box.php:526 admin/music-box.php:505 admin/video-box.php:429
+msgid "Playlist Description"
+msgstr "Lejátszási lista leírása"
+
+#: admin/banner-box.php:531 admin/manage-galleries.php:335
+#: admin/manage-galleries.php:365 admin/manage-images.php:514
+#: admin/manage-images.php:543 admin/manage-images.php:573
+#: admin/music-box.php:510 admin/video-box.php:434
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: admin/banner-box.php:533 admin/manage-banner.php:171
+#: admin/manage-galleries.php:333 admin/manage-galleries.php:363
+#: admin/manage-images.php:290 admin/manage-images.php:512
+#: admin/manage-images.php:541 admin/manage-images.php:571
+#: admin/manage-playlist.php:172 admin/manage-video.php:172
+#: admin/music-box.php:512 admin/video-box.php:436
+msgid "OK"
+msgstr "OK"
+
+#: admin/banner-sort.php:17 admin/manage-sort.php:53
+#: admin/playlist-sort.php:17 admin/video-sort.php:22
+msgid "Sort Gallery"
+msgstr "Galéria rendezése"
+
+#: admin/banner-sort.php:20 admin/playlist-sort.php:20 admin/video-sort.php:25
+msgid "Back to playlist"
+msgstr "Vissza a lejátszólistához"
+
+#: admin/banner-sort.php:25 admin/banner-sort.php:108 admin/manage-sort.php:63
+#: admin/manage-sort.php:146 admin/playlist-sort.php:25
+#: admin/playlist-sort.php:106 admin/video-sort.php:30
+#: admin/video-sort.php:113
+msgid "Update Sort Order"
+msgstr "Rendezési frissítése"
+
+#: admin/banner-sort.php:66 admin/banner-sort.php:74 admin/manage-sort.php:100
+#: admin/manage-sort.php:109
+msgid "Thumb"
+msgstr "Bélyeg"
+
+#: admin/banner-sort.php:67 admin/banner-sort.php:75
+#: admin/manage-images.php:598 admin/manage-sort.php:101
+#: admin/manage-sort.php:110 admin/playlist-sort.php:67
+#: admin/playlist-sort.php:75 admin/video-sort.php:72 admin/video-sort.php:80
+msgid "Filename"
+msgstr "Fáljnév"
+
+#: admin/banner-sort.php:103 admin/manage-banner.php:238
+#: admin/manage-galleries.php:203 admin/manage-images.php:475
+#: admin/manage-playlist.php:249 admin/manage-sort.php:140
+#: admin/manage-video.php:244 admin/playlist-sort.php:101
+#: admin/video-sort.php:108
+msgid "No entries found"
+msgstr "Nem található"
+
+#: admin/banner.functions.php:151 admin/playlist.functions.php:121
+#: admin/video.functions.php:121
+msgid "Playlist Saved Successfully"
+msgstr "Lejátszási lista mentése Sikerült"
+
+#: admin/banner.functions.php:154 admin/playlist.functions.php:124
+#: admin/video.functions.php:124
+msgid "Create directory please:"
+msgstr "Hozz létre könyvátar:"
+
+#: admin/banner.functions.php:176 admin/playlist.functions.php:146
+#: admin/video.functions.php:146
+msgid "deleted"
+msgstr "törölve"
+
+#: admin/db_skin_color_scheme.php:51
+msgid "Color Settings"
+msgstr "Szín beállítások"
+
+#: admin/db_skin_color_scheme.php:54
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: admin/db_skin_color_scheme.php:58
+msgid "Buttons Background Color"
+msgstr "Gomb háttérszín"
+
+#: admin/db_skin_color_scheme.php:62
+msgid "Buttons Text Color"
+msgstr "Gomb szöveg szín"
+
+#: admin/db_skin_color_scheme.php:71 admin/settings.php:262
+msgid "Category Buttons Color"
+msgstr "Ketegória gomb szín"
+
+#: admin/db_skin_color_scheme.php:80
+msgid "Category Buttons Text Color"
+msgstr "Kategória gomb szöveg szín"
+
+#: admin/db_skin_color_scheme.php:89
+msgid "Thumbs Rollover Color"
+msgstr "Bélyegképek Rollover szín"
+
+#: admin/db_skin_color_scheme.php:98
+msgid "Main Title"
+msgstr "Fő cím"
+
+#: admin/db_skin_color_scheme.php:102
+msgid "Category Title"
+msgstr "Kategória Cím"
+
+#: admin/db_skin_color_scheme.php:106
+msgid "Item Background"
+msgstr "Elem háttér"
+
+#: admin/db_skin_color_scheme.php:110
+msgid "Item Title"
+msgstr "Elem Cím"
+
+#: admin/db_skin_color_scheme.php:114
+msgid "Item Description"
+msgstr "Elem Leírása"
+
+#: admin/db_skin_color_scheme.php:120 admin/manage-images.php:260
+#: admin/manage-images.php:298 admin/manage-images.php:481
+#: admin/settings.php:287 admin/settings.php:370 admin/settings.php:401
+msgid "Save Changes"
+msgstr "Változások mentése"
+
+#: admin/facebook-tool.php:15
+msgid "Failure"
+msgstr "Hiba"
+
+#: admin/facebook-tool.php:144
+msgid "Facebook Integration"
+msgstr "Facebook integráció"
+
+#: admin/facebook-tool.php:155
+msgid "Copy facebook.php file to root directory"
+msgstr "facebook.php fájl másolása a gyökér könyvtárba"
+
+#: admin/facebook-tool.php:158
+msgid "Photo Gallery Facebook Page Generator"
+msgstr "Facebook Képgaléria Készítő"
+
+#: admin/facebook-tool.php:161 admin/meta_box.php:107
+#: admin/tinymce/window.php:76
+msgid "Select galleries"
+msgstr "Galéria választása"
+
+#: admin/facebook-tool.php:161 admin/meta_box.php:107
+#: admin/tinymce/window.php:76
+msgid "(album categories)"
+msgstr "(album kategóriák)"
+
+#: admin/facebook-tool.php:163 admin/meta_box.php:109
+#: admin/tinymce/window.php:78
+msgid "all galleries"
+msgstr "minden galéria"
+
+#: admin/facebook-tool.php:176 admin/meta_box.php:122
+msgid "Galleries order"
+msgstr "Galériák rendezése"
+
+#: admin/facebook-tool.php:182 admin/meta_box.php:128
+msgid "skin active by default"
+msgstr "felület használata alapértelmezettként"
+
+#: admin/facebook-tool.php:191 admin/tinymce/window.php:129
+msgid "Skin size"
+msgstr "Felület mérete"
+
+#: admin/facebook-tool.php:191 admin/tinymce/window.php:129
+msgid "blank for default"
+msgstr "hagyd üresen az alapértelmezetthez"
+
+#: admin/facebook-tool.php:192 admin/tinymce/window.php:130
+msgid "width"
+msgstr "szélesség"
+
+#: admin/facebook-tool.php:192 admin/tinymce/window.php:130
+msgid "height"
+msgstr "magasság"
+
+#: admin/facebook-tool.php:195
+msgid "Post ID"
+msgstr "Bejegyzés ID"
+
+#: admin/facebook-tool.php:195
+msgid "optional"
+msgstr "választható"
+
+#: admin/facebook-tool.php:199 admin/facebook-tool.php:221
+#: admin/facebook-tool.php:243 admin/facebook-tool.php:265
+msgid "Facebook Page Url"
+msgstr "Facebook Page Url"
+
+#: admin/facebook-tool.php:204
+msgid "mp3 Gallery Facebook Page Generator"
+msgstr "mp3 Galéria Facebook Oldal Készítő"
+
+#: admin/facebook-tool.php:207 admin/facebook-tool.php:209
+#: admin/facebook-tool.php:229 admin/facebook-tool.php:231
+#: widgets/widgets.php:499
+msgid "Choose playlist"
+msgstr "Lejátszási lista választása"
+
+#: admin/facebook-tool.php:226
+msgid "Video Blog Gallery Facebook Page Generator"
+msgstr "Videó Blog Galéria Facebook oldal Készítő"
+
+#: admin/facebook-tool.php:248
+msgid "Banner Box Facebook Page Generator"
+msgstr "Banner Doboz Facebook Oldal Készítő"
+
+#: admin/facebook-tool.php:251
+msgid "Choose xml"
+msgstr "xml választása"
+
+#: admin/facebook-tool.php:253
+msgid "Choose XML"
+msgstr "xml választása"
+
+#: admin/flag_install.php:124
+msgid ""
+"Flash Album Gallery : Tables could not created, please check your database "
+"settings"
+msgstr ""
+"Flash Album Galéria: Táblázatot nem tudtam létrehozni, kérlek ellenőrizd le "
+"az adatbázis beállításokat"
+
+#: admin/flag_install.php:149
+msgid "Sorry, Flash Album Gallery works only with a role called administrator"
+msgstr ""
+"Bocs, de a Flash Album Galéria csak Adminisztrátori jogosultsággal működik"
+
+#: admin/functions.php:46
+msgid "No valid gallery name!"
+msgstr "Érvénytelen galéria név"
+
+#: admin/functions.php:53 admin/functions.php:62 admin/functions.php:76
+#: admin/functions.php:153 admin/functions.php:160 admin/functions.php:234
+#: admin/functions.php:241 admin/functions.php:274 admin/functions.php:281
+#: admin/functions.php:314 admin/functions.php:320
+msgid "Directory"
+msgstr "Könyvtár"
+
+#: admin/functions.php:53
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "nem létezik. Kérlek hozz létre egy Fő galéria könyvtárat"
+
+#: admin/functions.php:54 admin/functions.php:63
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr ""
+"Ellenőrizze ezt a linket, ha nem tudja, hogyan kell beállítani az "
+"engedélyeket:"
+
+#: admin/functions.php:62 admin/functions.php:76
+msgid "is not writeable !"
+msgstr "nem írható!"
+
+#: admin/functions.php:71 admin/functions.php:81 lib/core.php:100
+msgid "Unable to create directory "
+msgstr "Nem sikerült létrehozni a könyvtárat"
+
+#: admin/functions.php:85
+msgid "The server setting Safe-Mode is on !"
+msgstr "A szerver beállítás csökkentett mód be van kapcsolva!"
+
+#: admin/functions.php:86
+msgid "If you have problems, please create directory"
+msgstr "Ha problémák merülnek fel, kérjlek, készíts egy könyvtárat"
+
+#: admin/functions.php:87
+msgid "and the thumbnails directory"
+msgstr "és a miniatűrök könyvtár"
+
+#: admin/functions.php:87
+msgid "with permission 777 manually !"
+msgstr "ezekkel az engedélyekkel 777 manuálisan!"
+
+#: admin/functions.php:105
+msgid "already exists"
+msgstr "már létezik"
+
+#: admin/functions.php:115
+msgid ""
+"Gallery '%1$s' successfully created.<br/>You can show this gallery with the "
+"tag %2$s.<br/>"
+msgstr ""
+"A '%1$s' galéria sikeresen elkészűlt.<br/>A galériát ezzel a cimkével tudod "
+"megjeleníteni %2$s.<br/>"
+
+#: admin/functions.php:118
+msgid "Edit gallery"
+msgstr "Galéria szerkesztése"
+
+#: admin/functions.php:153 admin/functions.php:234 admin/functions.php:274
+#: admin/functions.php:314
+msgid "doesn&#96;t exist!"
+msgstr "nincs ilyen"
+
+#: admin/functions.php:160
+msgid "contains no pictures"
+msgstr "nem tartalmaz képeket"
+
+#: admin/functions.php:178
+msgid "Database error. Could not add gallery!"
+msgstr "Adatbázis hiba. Nem tudtam hozzá adni a galériát!"
+
+#: admin/functions.php:181
+msgid "successfully created!"
+msgstr "Létrehozás sikerült!"
+
+#: admin/functions.php:210 admin/functions.php:894
+#: admin/manage-galleries.php:125 admin/manage-images.php:281
+#: admin/manage.php:232 admin/manage.php:301
+msgid "Create new thumbnails"
+msgstr "Új bélyegképek készítése"
+
+#: admin/functions.php:213
+msgid " picture(s) successfully added"
+msgstr "kép(ek) sikeresen hozzáadva"
+
+#: admin/functions.php:241
+msgid "does not contain flv files"
+msgstr "nem tartalmaz flv fájlokat"
+
+#: admin/functions.php:256 admin/functions.php:296
+msgid " file(s) successfully added"
+msgstr "fájl(ok) sikeresen hozzáadva"
+
+#: admin/functions.php:281
+msgid "does not contain mp3 files"
+msgstr "nem tartalmaz mp3 fájlokat"
+
+#: admin/functions.php:320
+msgid "does not contain image files"
+msgstr "nem tartalmaz kép fájlokat"
+
+#: admin/functions.php:323
+msgid "image(s) in the folder"
+msgstr "kép(ek) a könyvtárban"
+
+#: admin/functions.php:323
+msgid "Crunching..."
+msgstr ""
+
+#: admin/functions.php:348
+msgid "File type does not meet security guidelines. Try another."
+msgstr ""
+"A Fájltípus nem felel meg a biztonsági irányelveknek. Próbálj egy másikat."
+
+#: admin/functions.php:379
+msgid "The selected file could not be copied to %s."
+msgstr "A kiválasztott fájlt nem tudtam másolni a %s."
+
+#: admin/functions.php:478 admin/functions.php:552
+msgid "Object didn't contain correct data"
+msgstr "Az objektum nem tartalmazott pontos adatokat"
+
+#: admin/functions.php:483
+msgid " is not writeable "
+msgstr "nem írható"
+
+#: admin/functions.php:562
+msgid " is not writeable"
+msgstr "nem írható"
+
+#: admin/functions.php:657 admin/functions.php:710
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Hiba: nem tudtam frissíteni az adatbázist)"
+
+#: admin/functions.php:664
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Hiba: nem tudtam frissíteni a meta adatokat)"
+
+#: admin/functions.php:666 admin/functions.php:713
+msgid "(Error : Couldn't not find image)"
+msgstr "(Hiba: nem találtam képet)"
+
+#: admin/functions.php:827 admin/functions.php:944
+msgid "Failure in database, no gallery path set !"
+msgstr "Hiba az adatbázisban, nincs kijelölt galéria útvonal!"
+
+#: admin/functions.php:851 admin/functions.php:938
+msgid "is no valid image file!"
+msgstr "nem valós kép fájl!"
+
+#: admin/functions.php:865 admin/functions.php:1105 admin/functions.php:1178
+msgid ""
+"Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Nem lehet írni a% s könyvtárat. Ez a könyvtár írható a szerveren?"
+
+#: admin/functions.php:872 admin/functions.php:961
+msgid "Error, the file could not moved to : "
+msgstr "Hiba, a fájlt nem tudtam mozgatni:"
+
+#: admin/functions.php:877 admin/functions.php:965
+msgid "Error, the file permissions could not set"
+msgstr "Hiba, a fájl hozzáférés nincs beállítva"
+
+#: admin/functions.php:898
+msgid " Image(s) successfully added"
+msgstr "Kép(ek) sikeresen hozzáadva"
+
+#: admin/functions.php:918
+msgid "No gallery selected!"
+msgstr "Nincs galéria kiválasztva!"
+
+#: admin/functions.php:980
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+"A feltölteni kívánt fájl nagyobb upload_max_filesize-ban megadott méretnél "
+"amit php.ini-ben lehet beállítani"
+
+#: admin/functions.php:982
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"A feltölteni kívánt fájl nagy a megadott MAX_FILE_SIZE értékhez képest  HTML "
+"formában"
+
+#: admin/functions.php:984
+msgid "The uploaded file was only partially uploaded"
+msgstr "A feltöltött fájl csak részben került feltöltésre"
+
+#: admin/functions.php:986
+msgid "No file was uploaded"
+msgstr "Nincs fájl feltöltve"
+
+#: admin/functions.php:988
+msgid "Missing a temporary folder"
+msgstr "Hiányzik egy ideiglenes mappa"
+
+#: admin/functions.php:990
+msgid "Failed to write file to disk"
+msgstr "Nem sikerült írni a merevlemezre"
+
+#: admin/functions.php:992
+msgid "File upload stopped by extension"
+msgstr "File feltöltés megállt a kiterjesztés miatt"
+
+#: admin/functions.php:994
+msgid "Unknown upload error"
+msgstr "Ismeretlen feltöltési hiba"
+
+#: admin/functions.php:1008
+msgid ""
+"Sorry, you have used your space allocation. Please delete some files to "
+"upload more files."
+msgstr ""
+"Sajnos már elhasználtad a feltöltésre szánt összes helyet. Kérlek törölj "
+"néhány szükségtelen fájlt, ha fel akarsz tölteni!"
+
+#: admin/functions.php:1048
+msgid ""
+"SAFE MODE Restriction in effect! You need to create the folder <strong>%s</"
+"strong> manually"
+msgstr ""
+"Csökkentett mód korlátozása! Létre kell hoznod egy  <strong>%s</strong> "
+"könyvtárt manuálisan"
+
+#: admin/functions.php:1049
+msgid ""
+"When safe_mode is on, PHP checks to see if the owner (%s) of the current "
+"script matches the owner (%s) of the file to be operated on by a file "
+"function or its directory"
+msgstr ""
+"Ha a safe_mode van bekapcsolva, a PHP ellenőrzi, hogy a tulajdonos (% s) "
+"megegyezik a jelenlegi script  a tulajdonosával (% s)"
+
+#: admin/functions.php:1099 admin/functions.php:1172
+msgid "The destination gallery does not exist"
+msgstr "A cél galéria nem létezik"
+
+#: admin/functions.php:1130
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Hiba történt a kép %1$s és % 2$s között"
+
+#: admin/functions.php:1148
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "%1$s kép került mozgatásra a galériába: %2$s."
+
+#: admin/functions.php:1205
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Sikertelen kép másolása  %1$s -ból %2$s-ba"
+
+#: admin/functions.php:1217
+msgid "Failed to copy database row for picture %s"
+msgstr "Nem sikerült az adatbázis sorából másolni a képhez %s"
+
+#: admin/functions.php:1222
+msgid ""
+"Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already "
+"existed in the destination gallery."
+msgstr ""
+" %1$s (%2$s) kép másolva mint kép %3$s (%4$s) &raquo; A fájl már létezik a "
+"célkönyvtárban."
+
+#: admin/functions.php:1225
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr " %1$s (%2$s) kép másolva mint %3$s (%4$s) kép"
+
+#: admin/functions.php:1234
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "%1$s kép másolva a: %2$s  galériába"
+
+#: admin/grab_meta.php:13 admin/showmeta.php:28
+msgid "Meta Data"
+msgstr "Meta adatok"
+
+#: admin/grab_meta.php:20 admin/showmeta.php:48
+msgid "No meta data saved"
+msgstr "A Meta adatok nincsenek elmentve"
+
+#: admin/grab_meta.php:23 admin/showmeta.php:54
+msgid "EXIF Data"
+msgstr "EXIF adatok"
+
+#: admin/grab_meta.php:29 admin/showmeta.php:80
+msgid "IPTC Data"
+msgstr "IPTC adatok"
+
+#: admin/grab_meta.php:35 admin/showmeta.php:104
+msgid "XMP Data"
+msgstr "XMP adatok"
+
+#: admin/manage-banner.php:50 admin/manage-playlist.php:50
+#: admin/manage-video.php:50
+msgid ""
+"You are about to delete %s item(s) \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Arra készül, hogy % s elem(et)  töröl \n"
+" \n"
+"  \"Mégse\",ha abba akarod hagyni, 'OK' a folytatáshoz."
+
+#: admin/manage-banner.php:54 admin/manage-playlist.php:54
+#: admin/manage-video.php:54
+msgid ""
+"You are about to start the bulk edit for %s item(s) \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Tömeges szerkesztésre készülsz % s elem(en) \n"
+"  \n"
+"  \"Mégse\", ha abba akarod hagyni, 'OK' a folytatáshoz."
+
+#: admin/manage-banner.php:100 admin/manage-playlist.php:101
+#: admin/manage-video.php:101
+msgid "Playlist"
+msgstr "Lejátszási lista"
+
+#: admin/manage-banner.php:102
+msgid "Back to Banner Box"
+msgstr "Vissza a Banner Dobozhoz"
+
+#: admin/manage-banner.php:104 admin/manage-playlist.php:105
+#: admin/manage-video.php:105
+msgid "Choose another playlist"
+msgstr "Válassz másik lejátszási listát"
+
+#: admin/manage-banner.php:123 admin/manage-playlist.php:124
+#: admin/manage-video.php:124
+msgid "Playlist settings"
+msgstr "Lejátszási lista beállításai"
+
+#: admin/manage-banner.php:129 admin/manage-playlist.php:130
+#: admin/manage-video.php:130
+msgid "Playlist Skin"
+msgstr "Lejátszási lista megjelenése"
+
+#: admin/manage-banner.php:143 admin/manage-playlist.php:144
+#: admin/manage-video.php:144
+msgid "Change Skin Options"
+msgstr "Megjelenés beállításainak megváltoztatása"
+
+#: admin/manage-banner.php:145 admin/manage-playlist.php:146
+#: admin/manage-video.php:146
+msgid "Update skin options for this playlist"
+msgstr "Lejátszólista megjelenésének frissítése"
+
+#: admin/manage-banner.php:157 admin/manage-images.php:240
+#: admin/manage-playlist.php:158 admin/manage-video.php:158
+msgid "Path"
+msgstr "Útvonal"
+
+#: admin/manage-banner.php:169 admin/manage-playlist.php:170
+#: admin/manage-video.php:170
+msgid "Delete items"
+msgstr "Tételek törlése"
+
+#: admin/manage-banner.php:172 admin/manage-playlist.php:173
+#: admin/manage-video.php:173
+msgid "Sort Playlist"
+msgstr "Lejátszólista rendezése"
+
+#: admin/manage-banner.php:173 admin/manage-playlist.php:174
+#: admin/manage-video.php:174
+msgid "Add/Remove Items from Playlist"
+msgstr "Elemek Hozzáadása/Eltávolítása a Lejátszólistáról "
+
+#: admin/manage-banner.php:184 admin/manage-banner.php:193
+#: admin/manage-playlist.php:186 admin/manage-playlist.php:196
+#: admin/manage-video.php:186 admin/manage-video.php:196
+#: admin/music-box.php:401 admin/music-box.php:411 admin/video-box.php:316
+#: admin/video-box.php:326
+msgid "Filename / Title"
+msgstr "Fájlnév / Cím"
+
+#: admin/manage-galleries.php:64 admin/manage-images.php:150
+msgid "No images selected"
+msgstr "Nincs kép kiválasztva"
+
+#: admin/manage-galleries.php:81
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Tömeges szerkesztésre készülsz % s galérián \n"
+"  \n"
+"  \"Mégse\", ha abba akarod hagyni, 'OK' a folytatáshoz."
+
+#: admin/manage-galleries.php:106
+msgid "Gallery Overview"
+msgstr "Galéria Áttekintése"
+
+#: admin/manage-galleries.php:109 admin/manage-galleries.php:112
+#: admin/manage-images.php:190 admin/manage-images.php:193
+msgid "Search Images"
+msgstr "Képek keresése"
+
+#: admin/manage-galleries.php:126 admin/manage-images.php:282
+#: admin/manage.php:216 admin/manage.php:287
+msgid "Resize images"
+msgstr "Képek átméretezése"
+
+#: admin/manage-galleries.php:127 admin/manage-images.php:284
+#: admin/manage.php:194 admin/manage.php:268
+msgid "Import metadata"
+msgstr "Meta adatok importálása"
+
+#: admin/manage-galleries.php:128 admin/manage-images.php:285
+msgid "Metadata to description"
+msgstr "Metaadat leírás"
+
+#: admin/manage-galleries.php:155 admin/manage-images.php:244 lib/meta.php:399
+msgid "Author"
+msgstr "Szerző"
+
+#: admin/manage-galleries.php:184 admin/manage-galleries.php:195
+msgid "Draft"
+msgstr "Vázlat"
+
+#: admin/manage-galleries.php:191
+msgid "Delete this gallery ?"
+msgstr "Törlöd ezt a galériát?"
+
+#: admin/manage-galleries.php:193
+msgid "Publish this gallery?"
+msgstr "Közzéteszed ezt a galériát?"
+
+#: admin/manage-galleries.php:193
+msgid "Publish"
+msgstr "Közzététel"
+
+#: admin/manage-galleries.php:195
+msgid "Make this gallery draft?"
+msgstr "Ezt a galériát vázlatként hagyod?"
+
+#: admin/manage-galleries.php:260 admin/tinymce/window.php:50
+#: admin/tinymce/window.php:59
+msgid "Albums"
+msgstr "Albumok"
+
+#: admin/manage-galleries.php:262
+msgid "Create New Album"
+msgstr "Új Album létrehozása"
+
+#: admin/manage-galleries.php:263
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: admin/manage-galleries.php:273 admin/skins.php:333
+msgid "Save"
+msgstr "Metés"
+
+#: admin/manage-galleries.php:284
+msgid "Drag&Drop Categories Here"
+msgstr "Fogd&Engedd el Kategóriák itt"
+
+#: admin/manage-galleries.php:291
+msgid "No Albums"
+msgstr "Nincsenek Albumok"
+
+#: admin/manage-galleries.php:324 admin/manage-images.php:532
+msgid "Resize Images to"
+msgstr "Képek átméretezése"
+
+#: admin/manage-galleries.php:328
+msgid "Width x height (in pixel). FlAGallery will keep ratio size"
+msgstr "Szélesség x magasság (pixel), FIAGallery megtartja a kép arányait"
+
+#: admin/manage-galleries.php:352 admin/manage-images.php:560
+msgid "Width x height (in pixel)"
+msgstr "Szélesség x Magasság (pixel)"
+
+#: admin/manage-galleries.php:354 admin/manage-images.php:562
+msgid "These values are maximum values "
+msgstr "Ezek az értékek a maximális értékek"
+
+#: admin/manage-galleries.php:357 admin/manage-images.php:565
+msgid "Set fix dimension"
+msgstr "Fix méret beállítása"
+
+#: admin/manage-galleries.php:359 admin/manage-images.php:567
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Figyelmen kívül hagyja a képarányt a nem álló miniatűröknél"
+
+#: admin/manage-images.php:31
+msgid "Gallery not found."
+msgstr "Nem találom a galériát."
+
+#: admin/manage-images.php:37
+msgid "Sorry, you have no access here"
+msgstr "Sajnálom, ehhez nincs hozzáférésed engedélyezve"
+
+#: admin/manage-images.php:172
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Tömeges kép szerkesztésbe kezdesz %s képen \n"
+" \n"
+" 'Mégse' ha nem így akartad, 'OK' a folytatáshoz."
+
+#: admin/manage-images.php:187
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Keresés eredménye: &#8220;%s&#8221;"
+
+#: admin/manage-images.php:207
+msgid "Choose another gallery"
+msgstr "válassz másik galériát"
+
+#: admin/manage-images.php:228
+msgid "Gallery settings"
+msgstr "Galéria beállítások"
+
+#: admin/manage-images.php:259
+msgid "Scan Folder for new images"
+msgstr "Új képek ellenörzése a mappában"
+
+#: admin/manage-images.php:283
+msgid "Delete images"
+msgstr "Képek törlése"
+
+#: admin/manage-images.php:286
+msgid "Copy to..."
+msgstr "Másolás ide ..."
+
+#: admin/manage-images.php:287
+msgid "Move to..."
+msgstr "Mozgatás ide..."
+
+#: admin/manage-images.php:293
+msgid "Sort gallery"
+msgstr "Galéria rendezése"
+
+#: admin/manage-images.php:296
+msgid "Add Images"
+msgstr "Képek hozzáadása"
+
+#: admin/manage-images.php:389 admin/manage-images.php:393
+msgid "Size: "
+msgstr "Méret:"
+
+#: admin/manage-images.php:389 admin/manage-images.php:393
+msgid "pixel"
+msgstr "pixel"
+
+#: admin/manage-images.php:398
+msgid "View \"%s\""
+msgstr "Megtekintés \"%s\""
+
+#: admin/manage-images.php:398
+msgid "View"
+msgstr "Megtekintés"
+
+#: admin/manage-images.php:399
+msgid "Show Meta data"
+msgstr "Meta adatok mutatása"
+
+#: admin/manage-images.php:399
+msgid "Meta"
+msgstr "Meta"
+
+#: admin/manage-images.php:400
+msgid "Customize thumbnail"
+msgstr "Bélyegképek testreszabása "
+
+#: admin/manage-images.php:400
+msgid "Edit thumb"
+msgstr "Bélyegkép szerkesztése"
+
+#: admin/manage-images.php:401
+msgid "Delete \"%s\""
+msgstr "Törlés \"%s\""
+
+#: admin/manage-images.php:496
+msgid "Select the destination gallery:"
+msgstr "Válaszd ki a célgalériát:"
+
+#: admin/manage-images.php:536
+msgid "Width x height (in pixel). Grand Flagallery will keep ratio size"
+msgstr "Szélesség x magasság ( pixel). Grand Flagallery megtartja a képarányt"
+
+#: admin/manage-images.php:599
+msgid "Views / Likes"
+msgstr "Megtekintések / Lájkok"
+
+#: admin/manage-images.php:600
+msgid "Rating"
+msgstr "Értékelés"
+
+#: admin/manage-images.php:601 admin/manage-sort.php:103
+#: admin/manage-sort.php:112
+msgid "Alt &amp; Title Text"
+msgstr "Alt &amp; Cím szöveg"
+
+#: admin/manage-images.php:602
+msgid "Only for logged in users"
+msgstr "Csak bejelentkezett felhasználóknak"
+
+#: admin/manage-playlist.php:103
+msgid "Back to Music Box"
+msgstr "Vissza a Zene Dobozhoz"
+
+#: admin/manage-playlist.php:184 admin/manage-playlist.php:194
+#: admin/manage-video.php:184 admin/manage-video.php:194
+#: admin/media-upload.php:201 admin/music-box.php:399 admin/music-box.php:409
+#: admin/video-box.php:314 admin/video-box.php:324
+msgid "Size"
+msgstr "Méret"
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "Thumb URL:"
+msgstr "Bélyegkép URL"
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "Add an Image"
+msgstr "Kép hozzáadása"
+
+#: admin/manage-playlist.php:233 admin/manage-video.php:232
+#: admin/music-box.php:454 admin/video-box.php:380
+msgid "assist"
+msgstr "segít"
+
+#: admin/manage-sort.php:31
+msgid "Sort order changed"
+msgstr "Rendezési sorrend megváltozott"
+
+#: admin/manage-sort.php:57
+msgid "Back to gallery"
+msgstr "Vissza a galériához"
+
+#: admin/manage-sort.php:102 admin/manage-sort.php:111
+msgid "Date"
+msgstr "Dátum"
+
+#: admin/manage-video.php:103
+msgid "Back to Video Box"
+msgstr "Vissza a Videó dobozhoz"
+
+#: admin/manage.php:101 admin/manage.php:153 admin/skins.php:217
+msgid "deleted successfully"
+msgstr "A törlés sikerült"
+
+#: admin/manage.php:112
+msgid "now in draft"
+msgstr "most mint vázlat"
+
+#: admin/manage.php:120
+msgid "now visible"
+msgstr "most látható"
+
+#: admin/manage.php:134
+msgid "Album"
+msgstr "Album"
+
+#: admin/manage.php:134
+msgid "successfully created"
+msgstr "Létrehozás sikerült"
+
+#: admin/manage.php:153
+msgid "Picture"
+msgstr "Kép"
+
+#: admin/manage.php:162
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Sikeres művelet. Törölje a böngésző cache-t."
+
+#: admin/manage.php:199 admin/manage.php:271
+msgid "Copy metadata to image Description"
+msgstr "Meta adatok másolása a kép leírásához"
+
+#: admin/manage.php:264
+msgid "Pictures deleted successfully "
+msgstr "Képek törlése végrehajtva"
+
+#: admin/manage.php:345
+msgid "Update successful"
+msgstr "Frissítés sikerült"
+
+#: admin/manage_thumbnail.php:17 admin/manage_thumbnail.php:20
+#: admin/showmeta.php:10 admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: admin/manage_thumbnail.php:107
+msgid "Select with the mouse the area for the new thumbnail."
+msgstr "Jelöld ki az egérrel az új területet az új bélyegképhez."
+
+#: admin/manage_thumbnail.php:121
+msgid "Thumbnail updated"
+msgstr "Bélyegkép frissítése"
+
+#: admin/manage_thumbnail.php:126
+msgid "Error updating thumbnail."
+msgstr "Bélyegkép frissítési hiba."
+
+#: admin/manage_thumbnail.php:143
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Válasz ki egy területet a bélyegképhez a baloldali képen."
+
+#: admin/manage_thumbnail.php:158 admin/wpmu.php:61
+msgid "Update"
+msgstr "Frissítés"
+
+#: admin/media-upload.php:125
+msgid "No gallery"
+msgstr "Nincs galéria"
+
+#: admin/media-upload.php:137
+msgid "Select &#187;"
+msgstr "Kiválasztás &#187;"
+
+#: admin/media-upload.php:168
+msgid "Show"
+msgstr "Megjelenít"
+
+#: admin/media-upload.php:169
+msgid "Hide"
+msgstr "Elrejt"
+
+#: admin/media-upload.php:174
+msgid "Image ID:"
+msgstr "Kép ID:"
+
+#: admin/media-upload.php:180
+msgid "Alt/Title text"
+msgstr "Alt/Cím szöveg"
+
+#: admin/media-upload.php:188
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: admin/media-upload.php:191
+msgid "None"
+msgstr "Nincs"
+
+#: admin/media-upload.php:193
+msgid "Left"
+msgstr "Balra"
+
+#: admin/media-upload.php:195
+msgid "Center"
+msgstr "Középen"
+
+#: admin/media-upload.php:197
+msgid "Right"
+msgstr "Jobbra"
+
+#: admin/media-upload.php:207
+msgid "Full size"
+msgstr "Teljes méret"
+
+#: admin/media-upload.php:215
+msgid "Insert into Post"
+msgstr "Beágyazás a bejegyzésbe"
+
+#: admin/media-upload.php:225
+msgid "Save all changes"
+msgstr "Minden változás mentése"
+
+#: admin/meta_box.php:139
+msgid "Back Button Text"
+msgstr "Vissza Gomb szövege"
+
+#: admin/meta_box.php:141
+msgid "Leave empty to hide Back button"
+msgstr "Hagyd üresen a Vissza gomb elrejtéséhez"
+
+#: admin/meta_box.php:144
+msgid "Back Button Link"
+msgstr "Vissza Gomb Link"
+
+#: admin/meta_box.php:146
+msgid "Leave empty to use referer link"
+msgstr "Hagyja üresen hivatkozási link használatához"
+
+#: admin/meta_box.php:149 admin/tinymce/window.php:53
+#: admin/tinymce/window.php:62 widgets/widgets.php:595
+msgid "Music"
+msgstr "Music"
+
+#: admin/meta_box.php:151 admin/tinymce/window.php:176
+msgid "choose playlist"
+msgstr "Lejátszási lista választása"
+
+#: admin/meta_box.php:161
+msgid "(optional) Read Skin specification for supporting this function."
+msgstr "(választható) Read Skin specifikáció támogatja ezt a funkciót."
+
+#: admin/meta_box.php:164
+msgid "Background Image Link"
+msgstr "Háttérkép link"
+
+#: admin/meta_box.php:166
+msgid "(optional) Be sure you set Wmode to 'transparent' in skin's options"
+msgstr ""
+"(választható) Biztos vagy benne hogy beállítod a Wmode átlátszóságát ennek a "
+"Felszínnek a beállításaiban "
+
+#: admin/meta_box.php:169
+msgid "Background Position"
+msgstr "Háttér pozíció"
+
+#: admin/meta_box.php:183
+msgid "Background Repeat"
+msgstr "Háttérkép ismétlés"
+
+#: admin/music-box.php:305
+msgid "Import mp3 from folder"
+msgstr "MP+ importálása könyvtárból"
+
+#: admin/music-box.php:324
+msgid "WordPress Music Library"
+msgstr "WordPress Zene Könyvtár"
+
+#: admin/music-box.php:380
+msgid "Upload Music"
+msgstr "Zene feltöltése"
+
+#: admin/music-box.php:468
+msgid "No music in WordPress Media Library."
+msgstr "Nincs zene a WordPress Média Library-ban"
+
+#: admin/overview.php:14
+msgid "Grand Flagallery Overview"
+msgstr "Grand Flagallery Áttekintés"
+
+#: admin/overview.php:111
+msgid "Reset all settings to default parameter"
+msgstr "Minden beállítás visszaállítása az alapértelmezett értékre"
+
+#: admin/overview.php:122
+msgid ""
+"Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr ""
+"A plugin törlése sikeres! Most törölted a plugint, élvezd az életed! Jó "
+"szerencsét!"
+
+#: admin/overview.php:130
+msgid "Plugin Home"
+msgstr "Plugin Home"
+
+#: admin/overview.php:135
+msgid "Plugin Comments"
+msgstr "Plugin hozzászólások"
+
+#: admin/overview.php:140
+msgid "Rate Plugin"
+msgstr "Plugin értékelések"
+
+#: admin/overview.php:145
+msgid "My Plugins"
+msgstr "Plugin-jaim"
+
+#: admin/overview.php:150
+msgid "Contact Me"
+msgstr "Kapcsolat"
+
+#: admin/overview.php:161
+msgid "Reset settings"
+msgstr "Beállítások alapba állítása"
+
+#: admin/overview.php:161
+msgid ""
+"Reset all options to default settings ?\\n\\nChoose [Cancel] to Stop, [OK] "
+"to proceed.\\n"
+msgstr ""
+"Vissza állítasz minden beállítást az alapértékekre ?\\n\\nVálassz [Mégse] ha "
+"nem ezt akarod vagy, [OK] a folytatáshoz.\\n"
+
+#: admin/overview.php:164
+msgid "Uninstall plugin"
+msgstr "Plugin letörlése"
+
+#: admin/overview.php:164
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\nThis action is not "
+"reversible.\\n\\nChoose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Te most elkezdted a plugin eltávolítását a WordPress pluginok közűl.\\nEz "
+"nem visszafordítható\\n\\nVálaszd a [Mégse] gombot a visszalépéshez, [OK] "
+"gombot az eltávolításhoz.\\n"
+
+#: admin/overview.php:186
+msgid "At a Glance"
+msgstr "Dióhéjban"
+
+#: admin/overview.php:191
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/overview.php:206
+msgid "Upload pictures"
+msgstr "Képek feltöltése"
+
+#: admin/overview.php:207
+msgid "Here you can control your images and galleries."
+msgstr "Itt tudod felügyelni a képeid és galériáid"
+
+#: admin/overview.php:209
+msgid "Gallery Administrator"
+msgstr "Galéria adminisztráció"
+
+#: admin/overview.php:209
+msgid "Gallery Editor"
+msgstr "Galéria szerkesztés"
+
+#: admin/overview.php:210
+msgid "You currently have %s rights."
+msgstr "Jelenleg %s jogaid vannak."
+
+#: admin/overview.php:216
+msgid "Welcome to FlAGallery !"
+msgstr "Isten hozott a FlAGallery-ben !"
+
+#: admin/overview.php:217
+msgid "Server Settings"
+msgstr "Szerver beállítás"
+
+#: admin/overview.php:218
+msgid "Graphic Library"
+msgstr "Grafikus könyvtár"
+
+#: admin/overview.php:219
+msgid "Setup Box"
+msgstr "Beállítás Doboz"
+
+#: admin/overview.php:239
+msgid "No GD support"
+msgstr "Nincs GD támogatás"
+
+#: admin/overview.php:251 admin/overview.php:295 admin/overview.php:298
+#: admin/overview.php:301
+msgid "Yes"
+msgstr "Igen"
+
+#: admin/overview.php:253 admin/overview.php:296 admin/overview.php:299
+#: admin/overview.php:302
+msgid "No"
+msgstr "Nincs"
+
+#: admin/overview.php:269
+msgid "Not set"
+msgstr "Nincs beállítva"
+
+#: admin/overview.php:271 admin/overview.php:274
+msgid "On"
+msgstr "Be"
+
+#: admin/overview.php:272 admin/overview.php:275
+msgid "Off"
+msgstr "Ki"
+
+#: admin/overview.php:278 admin/overview.php:281 admin/overview.php:284
+#: admin/overview.php:287 admin/overview.php:290 admin/overview.php:293
+msgid "N/A"
+msgstr "N/A"
+
+#: admin/overview.php:292
+msgid " MByte"
+msgstr "MByte"
+
+#: admin/overview.php:304
+msgid "Operating System"
+msgstr "Operációs rendszer"
+
+#: admin/overview.php:305
+msgid "Server"
+msgstr "Szerver"
+
+#: admin/overview.php:306
+msgid "Memory usage"
+msgstr "Memória használat"
+
+#: admin/overview.php:307
+msgid "MYSQL Version"
+msgstr "MYSQL Verzió"
+
+#: admin/overview.php:308
+msgid "SQL Mode"
+msgstr "SQL Mód"
+
+#: admin/overview.php:309
+msgid "PHP Version"
+msgstr "PHP Verzió"
+
+#: admin/overview.php:310
+msgid "PHP Safe Mode"
+msgstr "PHP Csökkentett Mód"
+
+#: admin/overview.php:311
+msgid "PHP Allow URL fopen"
+msgstr ""
+
+#: admin/overview.php:312
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: admin/overview.php:313
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: admin/overview.php:314
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: admin/overview.php:315
+msgid "PHP Output Buffer Size"
+msgstr ""
+
+#: admin/overview.php:316
+msgid "PHP Max Script Execute Time"
+msgstr ""
+
+#: admin/overview.php:317
+msgid "PHP Exif support"
+msgstr ""
+
+#: admin/overview.php:318
+msgid "PHP IPTC support"
+msgstr ""
+
+#: admin/overview.php:319
+msgid "PHP XML support"
+msgstr ""
+
+#: admin/overview.php:377
+msgid "Storage Space"
+msgstr "Tárhely méret"
+
+#: admin/overview.php:380
+msgid "Upload Space Used:"
+msgstr "Feltöltésre hazsnált tárhely mérete:"
+
+#: admin/overview.php:386
+msgid "Upload Space Remaining:"
+msgstr "Fennmaradó használható tárhely:"
+
+#: admin/playlist-sort.php:66 admin/playlist-sort.php:74
+#: admin/video-sort.php:71 admin/video-sort.php:79
+msgid "Play"
+msgstr "Lejátszás"
+
+#: admin/settings.php:33 admin/skins.php:152 admin/skins.php:204
+msgid "Update Successfully"
+msgstr "Frissítés sikerült"
+
+#: admin/settings.php:47 admin/settings.php:89 admin/skins.php:183
+#: admin/skins.php:374
+msgid "cURL library is not installed on your server."
+msgstr "cURL könyvtár nincs telepítve a Te szerveredre."
+
+#: admin/settings.php:77
+msgid "Error: All fields required."
+msgstr "Hiba: Minden mező kitöltése szükséges."
+
+#: admin/settings.php:122
+msgid "Updated capabilities"
+msgstr "Lehetőségek frissítve"
+
+#: admin/settings.php:134
+msgid "Gallery Options"
+msgstr "Galéria Beállítások"
+
+#: admin/settings.php:136 admin/settings.php:296
+msgid "License Key & Remote Control"
+msgstr "Licensz Kulcs & Távoli Felügyelet"
+
+#: admin/settings.php:138
+msgid "FLV Single Player Options"
+msgstr "FLV Single Player Beállítások"
+
+#: admin/settings.php:139
+msgid "MP3 Single Player Options"
+msgstr "MP3 Single Player Beállítások"
+
+#: admin/settings.php:141
+msgid "Roles"
+msgstr "Szabályok"
+
+#: admin/settings.php:164
+msgid "Image Gallery Options"
+msgstr "Kép Galéria Beállítások"
+
+#: admin/settings.php:165
+msgid "General Options"
+msgstr "Általános Beállítások"
+
+#: admin/settings.php:168 admin/wpmu.php:44
+msgid "Gallery path"
+msgstr "Galéria útvonal"
+
+#: admin/settings.php:170
+msgid "This is the default path for all galleries"
+msgstr "Ez a Galériák alapértelmezett útvonala"
+
+#: admin/settings.php:173
+msgid "Default flash size (W x H)"
+msgstr "Alapértelmezett flash mozi méretei (Szélesség x Magasság)"
+
+#: admin/settings.php:178
+msgid "Delete image files"
+msgstr "Kép fájlok törlése"
+
+#: admin/settings.php:180
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Fájlok törlése, miután a galéria eltávolításra kerül az adatbázisból"
+
+#: admin/settings.php:183
+msgid "Activate Deep Linking (optional)"
+msgstr "Deep Linking aktiválása (választható)"
+
+#: admin/settings.php:183
+msgid "Not all skins support this feature."
+msgstr "Nem minden Felület támogatja ezt a lehetőséget"
+
+#: admin/settings.php:185
+msgid "Deep links for images in flash."
+msgstr "Deep Links a képekhez flashhez"
+
+#: admin/settings.php:188
+msgid "Activate Media RSS feed"
+msgstr "Media RSS követés aktiválása"
+
+#: admin/settings.php:190
+msgid "A RSS feed will be added to you blog header."
+msgstr "Az RSS követés hozzá lesz adva a blog fejlécéhez."
+
+#: admin/settings.php:194
+msgid "Image settings"
+msgstr "Kép Beállítások"
+
+#: admin/settings.php:197
+msgid "Resize Images"
+msgstr "Képek Átméretezése"
+
+#: admin/settings.php:199
+msgid "Width x Height (in pixel). Flash Album Gallery will keep ratio size"
+msgstr ""
+"Szélesség x Magasság (pixel). A Flash Album Galéria meg fogja tartani a kép "
+"arányait"
+
+#: admin/settings.php:202
+msgid "Image quality"
+msgstr "Kép minősége"
+
+#: admin/settings.php:207
+msgid "Sort options"
+msgstr "Rendezési lehetőségek"
+
+#: admin/settings.php:210
+msgid "Sort thumbnails"
+msgstr "Bélyegképek rendezése"
+
+#: admin/settings.php:212
+msgid "Custom order"
+msgstr "Egyedi rendezés"
+
+#: admin/settings.php:213
+msgid "Image ID"
+msgstr "Kép ID"
+
+#: admin/settings.php:214
+msgid "File name"
+msgstr "Fájl név"
+
+#: admin/settings.php:215
+msgid "Alt / Title text"
+msgstr "Alt / Cím szöveg"
+
+#: admin/settings.php:216
+msgid "Date / Time"
+msgstr "Dátum / Idő"
+
+#: admin/settings.php:217
+msgid "Image views"
+msgstr "Kép megtekintések"
+
+#: admin/settings.php:218
+msgid "Image likes"
+msgstr "Kép lájkok"
+
+#: admin/settings.php:219 admin/tinymce/window.php:153
+msgid "Randomly"
+msgstr "Véletlenül"
+
+#: admin/settings.php:223
+msgid "Sort direction"
+msgstr "Rendezés iránya"
+
+#: admin/settings.php:224
+msgid "Ascending"
+msgstr "Novekvő"
+
+#: admin/settings.php:225
+msgid "Descending"
+msgstr "Csökkenő"
+
+#: admin/settings.php:230
+msgid "Alternative Gallery Options"
+msgstr "Alternatív Galéria Beállítások"
+
+#: admin/settings.php:230
+msgid ""
+"(Note: this is not flash skin option. Options below only for alternative "
+"gallery in mobile browsers)"
+msgstr ""
+"(Figyelem: ez nem flash felület beállítása. A lenti beállítások csak a mobil "
+"böngészők alternatív galériához vannak)"
+
+#: admin/settings.php:233
+msgid "Show jQuery gallery for browsers without flashplayer"
+msgstr "jQuery galéria mutatása a böngészőkben Flash lejátszó nélkül"
+
+#: admin/settings.php:237
+msgid "jQuery gallery script"
+msgstr "jQuery galéria script"
+
+#: admin/settings.php:245
+msgid "Disable image views/likes counter on thumbnails"
+msgstr "A képek megtekintése /láájkolása számlálok tiltása a bélyegképeknél"
+
+#: admin/settings.php:249
+msgid "Top Bar BG"
+msgstr "Felső Sáv Háttére"
+
+#: admin/settings.php:253
+msgid "Category Buttons BG"
+msgstr "Kategória Gomb Háttér"
+
+#: admin/settings.php:271
+msgid "Thumbnail BG"
+msgstr "Bélyegkép Háttér"
+
+#: admin/settings.php:275
+msgid "Thumbnail MouseOver BG"
+msgstr "Bélyegkép egér föléhúzásakor háttere"
+
+#: admin/settings.php:279
+msgid "Fancybox Title"
+msgstr "Fancybox Cím"
+
+#: admin/settings.php:279 admin/settings.php:283
+msgid "Only if FancyBox script is selected"
+msgstr "Csak ha FancyBox szkript van kiválasztva"
+
+#: admin/settings.php:283
+msgid "Fancybox Description Text"
+msgstr "FanciBox leírás szövege"
+
+#: admin/settings.php:300
+msgid "License Key"
+msgstr "Liszensz Kulcs"
+
+#: admin/settings.php:304
+msgid ""
+"If you want to upload photos to FlAGallery right from your iPhone <a href="
+"\"https://itunes.apple.com/us/app/mypgc/id663405181?ls=1&mt=8\">download "
+"application</a> and enter access key below. You can enter your own access "
+"key. You can change these at any point in time and this will force all users "
+"to have to log in again in application."
+msgstr ""
+"Ha képeket akarsz feltölteni a FlAGallery-ba az iPhone-ról <a href=\"https://"
+"itunes.apple.com/us/app/mypgc/id663405181?ls=1&mt=8\">töltsd ezt le</a> és "
+"add meg a hozzáférési kódot. Saját hozzáférési kódod is meg tudod adni. Ezt "
+"meg lehet változtatnibármikor, és ezelz arra kényszeríted a felhasználókat, "
+"hogy az újbóli bejelentkezéskor megtegyék."
+
+#: admin/settings.php:307
+msgid "Remote App Access Key"
+msgstr "Távoli Alkalmazás Hozzáférési Kulcs"
+
+#: admin/settings.php:309
+msgid "Leave blank to disable access from application"
+msgstr "Hagyd üresen a hozzáférés letiltásához ebből az alkalmazásból"
+
+#: admin/settings.php:313
+msgid "Update Settings for Remote Access"
+msgstr "Frissítési Beállítások a Távoli Hozzáféréshez"
+
+#: admin/settings.php:318
+msgid ""
+"Register with form below or <a href=\"http://mypgc.co/membership/\" target="
+"\"_blank\">purchase license key</a>"
+msgstr ""
+"Regisztrációs űrlap alul vagy <a href=\"http://mypgc.co/membership/\" target="
+"\"_blank\">  liszenszkulcs vásárlásaa</a>"
+
+#: admin/settings.php:323
+msgid "First Name"
+msgstr "Vezetéknév"
+
+#: admin/settings.php:324
+msgid "Last Name"
+msgstr "Utónév"
+
+#: admin/settings.php:327
+msgid "Email"
+msgstr "Email"
+
+#: admin/settings.php:328
+msgid "Register"
+msgstr "Regisztráció"
+
+#: admin/settings.php:341
+msgid "Flash Video Player Colors"
+msgstr "Flash Videó Lejátszó Szinei"
+
+#: admin/settings.php:344
+msgid "Video BG"
+msgstr "Videó Háttere"
+
+#: admin/settings.php:348 admin/settings.php:385
+msgid "Color 1"
+msgstr "Szín 1"
+
+#: admin/settings.php:352 admin/settings.php:389
+msgid "Color 2"
+msgstr "Szín 2"
+
+#: admin/settings.php:357 admin/settings.php:394
+msgid "Autoplay"
+msgstr "Automatikus lejátszás"
+
+#: admin/settings.php:359 admin/settings.php:396
+msgid "True"
+msgstr "Igen"
+
+#: admin/settings.php:360 admin/settings.php:397
+msgid "False"
+msgstr "Nem"
+
+#: admin/settings.php:364
+msgid "Default Size"
+msgstr "Alapértelmezett méret"
+
+#: admin/settings.php:378
+msgid "MP3 Player Colors"
+msgstr "MP3 Lejátszó szinei"
+
+#: admin/settings.php:381
+msgid "Player BG"
+msgstr "Lejátszó Háttere"
+
+#: admin/settings.php:409
+msgid "Roles / capabilities"
+msgstr "Szabályok / lehetőségek"
+
+#: admin/settings.php:410
+msgid ""
+"Select the lowest role which should be able to access the follow "
+"capabilities. Flash Album Gallery supports the standard roles from WordPress."
+msgstr ""
+"Válassza ki a legalacsonyabb szerepkört, amely hozzáférhet a következő "
+"beállításokhoz. Flash Album Gallery támogatja a szabványos WordPress "
+"szerepköröket."
+
+#: admin/settings.php:413
+msgid "Main Flash Album Gallery overview"
+msgstr " Elsődleges Flash Galéria áttekintés"
+
+#: admin/settings.php:417
+msgid "View TinyMCE Button / GRAND Pages"
+msgstr "Mutassa a  TinyMCE Gombot / Fő Oldal"
+
+#: admin/settings.php:421
+msgid "Add gallery / Upload images"
+msgstr "Galéria hozzáadás / Kép feltöltés"
+
+#: admin/settings.php:425
+msgid "Import images folder"
+msgstr "Kép könyvtár importálás"
+
+#: admin/settings.php:429
+msgid "Manage gallery"
+msgstr "Galéria kezelése"
+
+#: admin/settings.php:433
+msgid "Manage others galleries and Albums"
+msgstr "Más galériák és albumok kezelése"
+
+#: admin/settings.php:437
+msgid "Manage music"
+msgstr "Zenék kezelése"
+
+#: admin/settings.php:441
+msgid "Manage video"
+msgstr "Videó kezelése"
+
+#: admin/settings.php:445
+msgid "Manage banners"
+msgstr "Bannerek kezelése"
+
+#: admin/settings.php:449
+msgid "Change skin"
+msgstr "Felület változtatása"
+
+#: admin/settings.php:453
+msgid "Add skins"
+msgstr "Felület hozzáadása"
+
+#: admin/settings.php:457
+msgid "Delete skins"
+msgstr "Felület törlése"
+
+#: admin/settings.php:461
+msgid "Change options"
+msgstr "Beállítások változtatása"
+
+#: admin/settings.php:465
+msgid "Facebook page"
+msgstr "Facebook oldal"
+
+#: admin/settings.php:469
+msgid "Update capabilities"
+msgstr "Jogoslutságok Frissítése"
+
+#: admin/showmeta.php:33 admin/showmeta.php:59 admin/showmeta.php:84
+#: admin/showmeta.php:108
+msgid "Tag"
+msgstr "Cimke"
+
+#: admin/showmeta.php:34 admin/showmeta.php:60 admin/showmeta.php:85
+#: admin/showmeta.php:109
+msgid "Value"
+msgstr "Érték"
+
+#: admin/showmeta.php:73
+msgid "No exif data"
+msgstr "Nincsennek EXIF adatok"
+
+#: admin/skin_install.php:10 admin/skins.php:84
+msgid "No skin Specified"
+msgstr "Nincs Felület meghatározva"
+
+#: admin/skin_install.php:39
+msgid "Installation Failed"
+msgstr "Sikertelen telepítés"
+
+#: admin/skin_install.php:42 admin/skins.php:65
+msgid "The skin installed successfully."
+msgstr "A Felület telepítése sikerült!"
+
+#: admin/skin_install.php:45 admin/skins.php:439
+msgid "Activate this skin"
+msgstr "Ennek a Felületnek az aktiválása"
+
+#: admin/skin_install.php:45
+msgid "Activate Skin"
+msgstr "Felület aktiválása"
+
+#: admin/skin_install.php:46
+msgid "Goto skin overview"
+msgstr "Ugrás a Felületek áttekintéséhez"
+
+#: admin/skin_install.php:46
+msgid "Skin overview"
+msgstr "Felületek Áttekintése"
+
+#: admin/skin_install.php:70
+msgid "Could not access filesystem."
+msgstr "Nem férsz hozzá a fáljrendszerhez"
+
+#: admin/skin_install.php:73
+msgid "Filesystem error"
+msgstr "Fáljrendszer hiba"
+
+#: admin/skin_install.php:79
+msgid "Unable to locate FlAGallery Skin directory."
+msgstr "Nem található FlAGallery Skin könyvtár."
+
+#: admin/skin_install.php:84
+msgid "Unable to locate WordPress Content directory (wp-content)."
+msgstr "Nem található WordPress Content könyvtár (wp-content)."
+
+#: admin/skin_install.php:90
+msgid "Install package not available."
+msgstr "Telepítő csomag nem érhető el."
+
+#: admin/skin_install.php:98
+msgid "Unpacking the skin package"
+msgstr "Felület fájlok kicsomagolása"
+
+#: admin/skin_install.php:115
+msgid "Folder already exists."
+msgstr "A könyvtár már létezik"
+
+#: admin/skin_install.php:118
+msgid "Installing the skin"
+msgstr "Felület Telepítése"
+
+#: admin/skins.php:72
+msgid "Install info"
+msgstr "Telepítési információk"
+
+#: admin/skins.php:87
+msgid "Installing Skin from file: %s"
+msgstr "Felület telepítése a : %s fáljból"
+
+#: admin/skins.php:96
+msgid "The uploaded file could not be moved to %s."
+msgstr "A feltöltött fáljjt nem lehetett mozgatni ide: %s."
+
+#: admin/skins.php:161
+msgid "License Key Updated"
+msgstr "Liszensz Kulcs Frissítése"
+
+#: admin/skins.php:176
+msgid "Your license key was deactivated"
+msgstr "A Liszensz Kulcsod ki volt kapcsolva"
+
+#: admin/skins.php:180
+msgid "Bad Licence Key"
+msgstr "Rossz Liszensz Kulcs"
+
+#: admin/skins.php:217 admin/skins.php:247 admin/skins.php:384
+#: admin/skins.php:392 admin/tinymce/window.php:52 admin/tinymce/window.php:61
+msgid "Skin"
+msgstr "Felület"
+
+#: admin/skins.php:219 admin/skins.php:223
+msgid "Can't find skin directory "
+msgstr "Nem találok Felületet a könyvtárban"
+
+#: admin/skins.php:219 admin/skins.php:223
+msgid ". Try delete it manualy via ftp"
+msgstr ". Próbáld törölni manuálisnak ftp-n keresztűl"
+
+#: admin/skins.php:226
+msgid "You need activate another skin before delete it"
+msgstr "Aktiválnod kell egy másik Felületet mielőtt ezt törlöd."
+
+#: admin/skins.php:229
+msgid ""
+"You do not have sufficient permissions to delete skins of Grand Flagallery."
+msgstr "Nem megfelelő engedélyed a Felület törlésére a Grand Flagallery-ben."
+
+#: admin/skins.php:247
+msgid ""
+"activated successfully. Optionally it can be overwritten with shortcode "
+"parameter."
+msgstr "aktiválás sikerült. Kívánt esetben felülírható shortcode paraméterrel"
+
+#: admin/skins.php:254 admin/skins.php:274
+msgid "New Photo Skins"
+msgstr "Új Fotó Felületek"
+
+#: admin/skins.php:258
+msgid "New Music Skins"
+msgstr "Új Zene Felületek"
+
+#: admin/skins.php:262
+msgid "New Video Skins"
+msgstr "Új Videó Felületek"
+
+#: admin/skins.php:266
+msgid "New Banner Skins"
+msgstr "Új Banner Felületek"
+
+#: admin/skins.php:270
+msgid "New Widget Skins"
+msgstr "Új Widget Felületek"
+
+#: admin/skins.php:283
+msgid "Skins refreshed successfully"
+msgstr "Felület frissítése sikerült"
+
+#: admin/skins.php:289 admin/skins.php:296
+msgid "Add new skin"
+msgstr "Új Felület hozzáadása"
+
+#: admin/skins.php:291 admin/skins.php:311
+msgid "Active Skin Options"
+msgstr "Aktív Felület Beállításai"
+
+#: admin/skins.php:297
+msgid "Install a skin in .zip format"
+msgstr "Felület telepítése .zip fájlból"
+
+#: admin/skins.php:298
+msgid ""
+"If you have a skin in a .zip format, You may install it by uploading it here."
+msgstr "Ha van egy Felületed .zip fájlban, feltöltésével tudod telepíteni itt."
+
+#: admin/skins.php:302
+msgid "Install Now"
+msgstr "Telepítés most"
+
+#: admin/skins.php:328
+msgid "Skin License Key"
+msgstr "Felület Liszensz Kulcs"
+
+#: admin/skins.php:329
+msgid "If you have license key then paste it here."
+msgstr "Ha van Liszensz Kulcsod akkor másold ide."
+
+#: admin/skins.php:340
+msgid "Refresh / Update Skins"
+msgstr "Felület Frissítés / Aktualizálás"
+
+#: admin/skins.php:341
+msgid "Photo skins"
+msgstr "Fotó Felületek"
+
+#: admin/skins.php:342
+msgid "Music skins"
+msgstr "Zene Felületek"
+
+#: admin/skins.php:343
+msgid "Video skins"
+msgstr "Videó Felületek"
+
+#: admin/skins.php:344
+msgid "Banner skins"
+msgstr "Banner Felületek"
+
+#: admin/skins.php:345
+msgid "Widget skins"
+msgstr "Widget Felületek"
+
+#: admin/skins.php:374
+msgid "Download skins from http://photogallerycreator.com"
+msgstr "Felületek letöltése innen: http://photogallerycreator.com"
+
+#: admin/skins.php:403
+msgid "No skins to show"
+msgstr "Nincs skin megjelenítéséhez"
+
+#: admin/skins.php:422
+msgid "Version %s"
+msgstr "Verzió %s"
+
+#: admin/skins.php:426
+msgid "Visit author homepage"
+msgstr "Szerző weboldalának megtekintése"
+
+#: admin/skins.php:427
+msgid "By %s"
+msgstr "%s-től"
+
+#: admin/skins.php:430
+msgid "Visit skin site"
+msgstr "Felület weboldalának megtekintése"
+
+#: admin/skins.php:439
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: admin/skins.php:441
+msgid "Activated by default"
+msgstr "Alapértelmezettként aktiválás"
+
+#: admin/skins.php:461
+msgid "Delete this skin"
+msgstr "Felület törlése"
+
+#: admin/skins.php:491
+msgid "Install"
+msgstr "Telepítés"
+
+#: admin/skins.php:492
+msgid "Preview"
+msgstr "Előnézet"
+
+#: admin/skins.php:500
+msgid "All available %s skins are already installed..."
+msgstr "Minden elérhető %s Felület már telepíve van..."
+
+#: admin/tinymce/tinymce.php:115 admin/tinymce/window.php:21
+#: admin/tinymce/window.php:32
+msgid "Insert Flash Album with one or more galleries"
+msgstr "Egy vagy több galéria behelyezése a Flash Albumba"
+
+#: admin/tinymce/window.php:10
+msgid "You are not allowed to be here"
+msgstr "Nincs engedélyezve, hogy itt legyél"
+
+#: admin/tinymce/window.php:49 admin/tinymce/window.php:58
+msgid "Galleries"
+msgstr "Galériák"
+
+#: admin/tinymce/window.php:51 admin/tinymce/window.php:60
+msgid "Sort"
+msgstr "Rendezés"
+
+#: admin/tinymce/window.php:72
+msgid "Album Name"
+msgstr "Album neve"
+
+#: admin/tinymce/window.php:97
+msgid "Select album"
+msgstr "Album kiválasztás"
+
+#: admin/tinymce/window.php:99
+msgid "choose album"
+msgstr "válassz albumot"
+
+#: admin/tinymce/window.php:120
+msgid "choose custom skin"
+msgstr "válassz egyedi felületet"
+
+#: admin/tinymce/window.php:133
+msgid "Skin align"
+msgstr "Felület igazítása"
+
+#: admin/tinymce/window.php:135
+msgid "default"
+msgstr "alapértelmezett"
+
+#: admin/tinymce/window.php:136
+msgid "align left"
+msgstr "balra igazított"
+
+#: admin/tinymce/window.php:137
+msgid "align center"
+msgstr "középre igazított"
+
+#: admin/tinymce/window.php:138
+msgid "align right"
+msgstr "jobbra igazított"
+
+#: admin/tinymce/window.php:148
+msgid "Order galleries by"
+msgstr "Galéria rendezési módja"
+
+#: admin/tinymce/window.php:150
+msgid "Gallery IDs (default)"
+msgstr "Galéria ID (alapértelmezett)"
+
+#: admin/tinymce/window.php:151
+msgid "Gallery Title"
+msgstr "Galéria Cím"
+
+#: admin/tinymce/window.php:152
+msgid "User Defined"
+msgstr "Felhasználó szerint"
+
+#: admin/tinymce/window.php:157
+msgid "Order"
+msgstr "Rendezés"
+
+#: admin/tinymce/window.php:159
+msgid "DESC (default)"
+msgstr "Csökkenő (alapért.)"
+
+#: admin/tinymce/window.php:160
+msgid "ASC"
+msgstr "Növekvő"
+
+#: admin/tinymce/window.php:164
+msgid "Exclude Gallery"
+msgstr "Galéria kizárása"
+
+#: admin/tinymce/window.php:174
+msgid "Choose playlist for background music"
+msgstr "Válasz lejátszási listát háttérzenének"
+
+#: admin/tinymce/window.php:185
+msgid "Read Skin specification for supporting this function."
+msgstr "Read Skin felület támogatja ezt a funkciót."
+
+#: admin/tinymce/window.php:194
+msgid "Insert"
+msgstr "Beillesztés"
+
+#: admin/tuning.php:20 admin/tuning.php:24
+msgid "Directory <strong>\""
+msgstr "Könyvtár <strong>\""
+
+#: admin/tuning.php:20
+msgid ""
+"\"</strong> doesn't exist. Please create first the <strong>\"flagallery-skins"
+"\"</strong> folder!"
+msgstr ""
+"\"</strong> nincs. Kérlek, előbb hozzd létre a <strong>\"flagallery-skins\"</"
+"strong> könyvtárat!"
+
+#: admin/tuning.php:24
+msgid "\"</strong> is not writeable!"
+msgstr "\"</strong> nem írható!"
+
+#: admin/tuning.php:39
+msgid "Failed to move files from %1$s to %2$s"
+msgstr "Sikertelen fájl mozgatás %1$s -ból %2$s-ba"
+
+#: admin/upgrade.php:52
+msgid "Import date and time information..."
+msgstr "Dátum és idő információk importálása"
+
+#: admin/upgrade.php:54 admin/upgrade.php:72 admin/upgrade.php:84
+#: admin/upgrade.php:93
+msgid "finished"
+msgstr "befejezve"
+
+#: admin/upgrade.php:58 admin/upgrade.php:75 admin/upgrade.php:87
+msgid "Adding new options to database..."
+msgstr "Új opciók hozzáadása az adatbázishoz ..."
+
+#: admin/video-box.php:259
+msgid "Import video from folder"
+msgstr "Videó importálása könyvtárból"
+
+#: admin/video-box.php:278
+msgid "WordPress Video Library"
+msgstr "WordPress Videó Könyvtár"
+
+#: admin/video-box.php:295
+msgid "Upload Video"
+msgstr "Videó Feltöltés"
+
+#: admin/video-box.php:371
+msgid "Can't read file size. Perhaps file is broken."
+msgstr "Nem olvasható a fájl mérete. Talán sérült a fájl."
+
+#: admin/video-box.php:392
+msgid "No video in WordPress Media Library."
+msgstr "Nincs videó a WordPress Média Könyvtárban."
+
+#: admin/wpmu.php:29
+msgid "Update successfully"
+msgstr "A Frissítés sikerült"
+
+#: admin/wpmu.php:38
+msgid "General WordPress MU Settings"
+msgstr "Általános WordPress MU beállítások"
+
+#: admin/wpmu.php:46
+msgid ""
+"This is the default path for all blogs. With the placeholder %BLOG_ID% you "
+"can organize the folder structure better. The path must end with a /."
+msgstr ""
+"Ez az alapértelmezett útvonal az összes bloghoz. A %BLOG_ID% helyörzővel "
+"jobban fogod tudni a könyvtárstuktúrákat szervezni. Az útvonalnak / jellel "
+"kell végződnie."
+
+#: admin/wpmu.php:49
+msgid "Enable upload quota check"
+msgstr "Engedélyezze a feltöltési kvóta ellenőrzést"
+
+#: admin/wpmu.php:51
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Működnie kellene, ha a galéria a blog.dir alatt van"
+
+#: admin/wpmu.php:55
+msgid "Enable roles/capabilities"
+msgstr "Engedélyezés szabályok /szerepkörök"
+
+#: admin/wpmu.php:57
+msgid "Allow users to change the roles for other blog authors."
+msgstr ""
+"Engedélyezi a felhasználónak a szabályok megváltoztatását más blog "
+"szerzőknél."
+
+#: facebook.php:68 facebook.php:80 facebook.php:98
+msgid "Can't find playlist"
+msgstr "Nem találok lejátszási listát"
+
+#: flag.php:155
+msgid ""
+"Sorry, GRAND Flash Album Gallery works only with a Memory Limit of 16 MB "
+"higher"
+msgstr ""
+"Sajnálom, a GRAND Flash Album Galéria csak 16MB-nál nagyobb Memória Limitnél "
+"működik"
+
+#: flag.php:354
+msgctxt "post type general name"
+msgid "GRAND Galleries"
+msgstr "GRAND Galéria [ post type general name ]"
+
+#: flag.php:355
+msgid "FlAGallery Page"
+msgstr "FIAGallery Oldal"
+
+#: flag.php:356 flag.php:357
+msgid "Add New Gallery Page"
+msgstr "Új Galéria Oldal Hozzáadása"
+
+#: flag.php:358
+msgid "Edit Gallery Page"
+msgstr "Galéria Oldal Szerkesztése"
+
+#: flag.php:359
+msgid "New Gallery Page"
+msgstr "Új Galéria Oldal"
+
+#: flag.php:360
+msgid "All GRAND Galleries"
+msgstr "Minden GRAND Galéria"
+
+#: flag.php:361
+msgid "View Gallery Page"
+msgstr "Galéria Oldal Megtekintése"
+
+#: flag.php:362
+msgid "Search GRAND Galleries"
+msgstr "GRAND Galéria Keresés"
+
+#: flag.php:363
+msgid "No GRAND Galleries found"
+msgstr "Nem találtam GRAND Galériát"
+
+#: flag.php:364
+msgid "No GRAND Galleries found in Trash"
+msgstr "Nem találtam GRAND Galériát a Lomtárban"
+
+#: flag.php:371
+msgid ""
+"This is the page template for displaing Grand Flagallery galleries in full "
+"width and height of browser window."
+msgstr ""
+"Ez az az oldal sablon a Grand Flagallery galériákat  teljes szélességeben és "
+"magasságában jeleníti meg a böngésző ablakban."
+
+#: flag.php:390
+msgid "Photo Gallery Page Generator"
+msgstr "Fotó Galéria Oldal Készítő"
+
+#: flag.php:474
+msgid "Add Grand Flagallery"
+msgstr "GRAND Flagallery Hozzáadása"
+
+#: lib/class.swfobject.php:59
+msgid ""
+"The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> "
+"and a browser with Javascript support are needed."
+msgstr ""
+"A <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> "
+"és a böngészőnek szüksége van Javascript futtatás engedélyezésére."
+
+#: lib/core.php:200
+msgid ""
+"Note : Based on your server memory limit you should not upload larger images "
+"then <strong>%d x %d</strong> pixel"
+msgstr ""
+"Figyelem: A szervered memória limit beállítása nem enged nagyobb kép "
+"feltöltését mint <strong>%d x %d</strong> pixel"
+
+#: lib/core.php:280
+msgid "Can't create/open file '"
+msgstr "Nem tudok létrehozni / megnyitni fájlt '"
+
+#: lib/core.php:286
+msgid "Can't write data to file '"
+msgstr "Nem tudok adatokat írni a fájlba '"
+
+#: lib/meta.php:116
+msgid " mm"
+msgstr "mm"
+
+#: lib/meta.php:122
+msgid " sec"
+msgstr "mperc"
+
+#: lib/meta.php:126
+msgid "Fired"
+msgstr ""
+
+#: lib/meta.php:126
+msgid "Not fired"
+msgstr ""
+
+#: lib/meta.php:389
+msgid "Aperture"
+msgstr ""
+
+#: lib/meta.php:390
+msgid "Credit"
+msgstr ""
+
+#: lib/meta.php:391
+msgid "Camera"
+msgstr "Kamera"
+
+#: lib/meta.php:392
+msgid "Caption"
+msgstr "Felirat"
+
+#: lib/meta.php:393
+msgid "Date/Time"
+msgstr "Dátum/Idő"
+
+#: lib/meta.php:394
+msgid "Copyright"
+msgstr ""
+
+#: lib/meta.php:395
+msgid "Focal length"
+msgstr "Fókusztávolság"
+
+#: lib/meta.php:396
+msgid "ISO"
+msgstr ""
+
+#: lib/meta.php:397
+msgid "Shutter speed"
+msgstr "Zársebesség"
+
+#: lib/meta.php:400
+msgid "Tags"
+msgstr "Cimkék"
+
+#: lib/meta.php:401
+msgid "Subject"
+msgstr "Tárgy"
+
+#: lib/meta.php:402
+msgid "Make"
+msgstr "Készítő"
+
+#: lib/meta.php:403
+msgid "Edit Status"
+msgstr "Szerkesztés allapota"
+
+#: lib/meta.php:404
+msgid "Category"
+msgstr "Kategória"
+
+#: lib/meta.php:405
+msgid "Keywords"
+msgstr "Kulcsszó"
+
+#: lib/meta.php:406
+msgid "Date Created"
+msgstr "Létrehozás Dátuma"
+
+#: lib/meta.php:407
+msgid "Time Created"
+msgstr "Létrehozás Ideje"
+
+#: lib/meta.php:408
+msgid "Author Position"
+msgstr "Szerző Poziciója"
+
+#: lib/meta.php:409
+msgid "City"
+msgstr "Város"
+
+#: lib/meta.php:410
+msgid "Location"
+msgstr "Tartózkodási hely"
+
+#: lib/meta.php:411
+msgid "Province/State"
+msgstr "Megye /Állam"
+
+#: lib/meta.php:412
+msgid "Country code"
+msgstr "Megye kód"
+
+#: lib/meta.php:413
+msgid "Country"
+msgstr "Megye"
+
+#: lib/meta.php:414
+msgid "Headline"
+msgstr "Főcím"
+
+#: lib/meta.php:415
+msgid "Source"
+msgstr "Forrás"
+
+#: lib/meta.php:416
+msgid "Contact"
+msgstr "Kapcsolat"
+
+#: lib/meta.php:417
+msgid "Last modified"
+msgstr "Utolsó módosítás"
+
+#: lib/meta.php:418
+msgid "Program tool"
+msgstr "Program eszközök"
+
+#: lib/meta.php:419
+msgid "Format"
+msgstr "Formátum"
+
+#: lib/meta.php:420
+msgid "Image Width"
+msgstr "Kép Szélesség"
+
+#: lib/meta.php:421
+msgid "Image Height"
+msgstr "Kép Magasság"
+
+#: lib/meta.php:422
+msgid "Flash"
+msgstr "Flash"
+
+#: lib/shortcodes.php:62
+msgid "[Gallery %s not found]"
+msgstr ""
+
+#: lib/shortcodes.php:81
+msgid "[Galleries not found]"
+msgstr ""
+
+#: lib/shortcodes.php:93
+msgid "[Galleries %s not found]"
+msgstr ""
+
+#: lib/shortcodes.php:155 lib/shortcodes.php:194
+msgid "[Playlist %s not found]"
+msgstr ""
+
+#: lib/shortcodes.php:234 lib/shortcodes.php:258
+msgid "[XML %s not found]"
+msgstr ""
+
+#: widgets/widgets.php:15
+msgid "Show links to GRAND Pages as random images from the galleries"
+msgstr "A GRAND oldalak véletlenszerű képeket mutassanak a galériákból"
+
+#: widgets/widgets.php:16
+msgid "FLAGallery GRANDPages"
+msgstr "FLAGaléria GRAND Oldal"
+
+#: widgets/widgets.php:107 widgets/widgets.php:305 widgets/widgets.php:479
+msgid "Title :"
+msgstr "Cím:"
+
+#: widgets/widgets.php:113 widgets/widgets.php:320 widgets/widgets.php:485
+msgid "Width x Height of thumbs:"
+msgstr "Bélyegképek Szélessége x Magassága:"
+
+#: widgets/widgets.php:119
+msgid "Select GRAND Pages:"
+msgstr "GRAND Oldal Kiválasztása:"
+
+#: widgets/widgets.php:131
+msgid "galleries order:"
+msgstr "galéria rendezése:"
+
+#: widgets/widgets.php:147
+msgid "Show a Grand Flagallery Banner"
+msgstr "Mutassa a GRAND Flagallery Bannert"
+
+#: widgets/widgets.php:148
+msgid "FLAGallery Banner"
+msgstr "FLAGallery Banner"
+
+#: widgets/widgets.php:154
+msgid "Banner"
+msgstr "Banner"
+
+#: widgets/widgets.php:205 widgets/widgets.php:646
+msgid "Title:"
+msgstr "Cím:"
+
+#: widgets/widgets.php:207 widgets/widgets.php:648
+msgid "Select playlist:"
+msgstr "Lejátszási lista választása:"
+
+#: widgets/widgets.php:219 widgets/widgets.php:660
+msgid "Height:"
+msgstr "Magasság:"
+
+#: widgets/widgets.php:220 widgets/widgets.php:661
+msgid "Width:"
+msgstr "Szélesség:"
+
+#: widgets/widgets.php:222 widgets/widgets.php:348 widgets/widgets.php:663
+msgid "Select Skin:"
+msgstr "Felület kiválasztása:"
+
+#: widgets/widgets.php:260
+msgid "Add recent or random images from the galleries"
+msgstr "Adja hozzá a legfrissebb vagy véletlenszerű képeket a galériákból"
+
+#: widgets/widgets.php:261
+msgid "FLAGallery Widget"
+msgstr "FLAGallery Widget"
+
+#: widgets/widgets.php:312
+msgid "random"
+msgstr "véletlen"
+
+#: widgets/widgets.php:315
+msgid "first in album"
+msgstr "elsőt az albumból"
+
+#: widgets/widgets.php:326 widgets/widgets.php:491
+msgid "Width x Height of popup:"
+msgstr " a popup ablak Szélessége x Magassága"
+
+#: widgets/widgets.php:332
+msgid "Select Album:"
+msgstr "Album választása:"
+
+#: widgets/widgets.php:334
+msgid "Choose album"
+msgstr "Válassz albumot"
+
+#: widgets/widgets.php:440
+msgid "Add recent or random video from the galleries"
+msgstr "Legfrissebb vagy véletlen videó hozzáadása a galériákból"
+
+#: widgets/widgets.php:441
+msgid "FLAGallery Video Widget"
+msgstr "FLAGallery Videó Widget"
+
+#: widgets/widgets.php:497
+msgid "Select Playlist:"
+msgstr "Válassz Lejátszási listát"
+
+#: widgets/widgets.php:564
+msgid "Error! No playlist."
+msgstr "Hiba! Nincs lejátszási lista."
+
+#: widgets/widgets.php:588
+msgid "Show a Grand Flagallery Music Player"
+msgstr "Mutassa a Grand Flagallery Zene Lejátszót"
+
+#: widgets/widgets.php:589
+msgid "FLAGallery Music"
+msgstr "FLAGallery Zene"
+
+#: xml/media-rss.php:39
+msgid "No galleries have been yet created."
+msgstr "Nincs még galéria létrehozva."
+
+#: xml/media-rss.php:58
+msgid "The gallery ID=%s does not exist."
+msgstr "Az ID=%s  Galéria ID nem létezik."
+
+#: xml/media-rss.php:85
+msgid "Invalid MediaRSS command (%s)."
+msgstr "Érvénytelen MediaRSS parancs (%s)."

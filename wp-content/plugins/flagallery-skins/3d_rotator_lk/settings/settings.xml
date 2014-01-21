@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panel title="3D Banner Rotator 2.1">
+	<item type="textInput" name="width">
+		<title><![CDATA[Width]]></title>
+		<maxChars>0</maxChars>
+		<restrict><![CDATA[0-9%]]></restrict>
+		<text><![CDATA[100%]]></text>
+	</item>
+	<item type="textInput" name="height">
+		<title><![CDATA[Height]]></title>
+		<maxChars>0</maxChars>
+		<restrict><![CDATA[0-9%]]></restrict>
+		<text><![CDATA[350]]></text>
+	</item>
+	<item type="comboBox" name="property0">
+		<title><![CDATA[Flash Object WMode]]></title>
+		<description><![CDATA[If 'transparent' - "Background Color" option is ignored, but you can position the absolute elements over the flash.]]></description>
+		<data>
+			<label name="Window"><![CDATA[window]]></label>
+			<label name="Transparent"><![CDATA[transparent]]></label>
+			<label name="Opaque"><![CDATA[opaque]]></label>
+		</data>
+		<prompt><![CDATA[]]></prompt>
+		<rowCount>3</rowCount>
+		<value><![CDATA[opaque]]></value>
+	</item>
+	<item type="checkBox" name="swfmousewheel">
+
+		<title><![CDATA[SWF Mouse Wheel]]></title>
+
+		<description><![CDATA[Turn On/Off mouse wheel detection over Gallery.]]></description>
+
+		<selected>true</selected>
+
+	</item>
+	<item type="checkBox" name="autoPlay">
+		<title><![CDATA[AutoStart Slideshow option]]></title>
+		<description><![CDATA[]]></description>
+		<selected>true</selected>
+	</item>
+	<item type="numericSteper" name="slideshowDelay">
+
+		<title><![CDATA[Slideshow Delay]]></title>
+
+		<description><![CDATA[]]></description>
+
+		<maximum>30</maximum>
+
+		<minimum>0</minimum>
+
+		<stepSize>1</stepSize>
+
+		<value>10</value>
+
+	</item>
+	<item type="colorPicker" name="property1">
+		<title><![CDATA[Background Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x000000</selectedColor>
+	</item>
+	<item type="comboBox" name="orientation">
+		<title><![CDATA[Structure (Orientation)]]></title>
+		<data>
+			<label name="horisontal"><![CDATA[horisontal]]></label>
+			<label name="vertical"><![CDATA[vertical]]></label>
+		</data>
+		<prompt><![CDATA[]]></prompt>
+		<rowCount>2</rowCount>
+		<value><![CDATA[horisontal]]></value>
+	</item>
+	<item type="checkBox" name="botDescroptionPart">
+		<title><![CDATA[Enable/Disable Bottom Description Box]]></title>
+		<description><![CDATA[]]></description>
+		<selected>true</selected>
+	</item>
+	<item type="comboBox" name="button3dMode">
+		<title><![CDATA[Image Navigation Bar Style]]></title>
+		<description><![CDATA[Need disable Bottom Description Box to be used this option]]></description>
+		<data>
+			<label name="3D style"><![CDATA[true]]></label>
+			<label name="Flat"><![CDATA[false]]></label>
+		</data>
+		<prompt><![CDATA[]]></prompt>
+		<rowCount>2</rowCount>
+		<value><![CDATA[false]]></value>
+	</item>
+	<item type="checkBox" name="cameraPan">
+		<title><![CDATA[Enable/Disable Camera Motion]]></title>
+		<description><![CDATA[]]></description>
+		<selected>true</selected>
+	</item>
+	<item type="slider" name="cameraAngLock">
+
+		<title><![CDATA[Adjustable Angular Limit]]></title>
+
+		<description><![CDATA[]]></description>
+
+		<maximum>40</maximum>
+
+		<minimum>-40</minimum>
+
+		<snapInterval>1</snapInterval>
+
+		<tickInterval>5</tickInterval>
+
+		<value>-30</value>
+
+	</item>
+	<item type="textInput" name="itemsWidth">
+		<title><![CDATA[Image Width]]></title>
+		<maxChars>0</maxChars>
+		<restrict><![CDATA[0-9]]></restrict>
+		<text><![CDATA[450]]></text>
+	</item>
+	<item type="textInput" name="itemsHeight">
+		<title><![CDATA[Image Height]]></title>
+		<maxChars>0</maxChars>
+		<restrict><![CDATA[0-9]]></restrict>
+		<text><![CDATA[270]]></text>
+	</item>
+	<item type="comboBox" name="imgZoom">
+		<title><![CDATA[Image Image Zoom Type]]></title>
+		<data>
+			<label name="FILL"><![CDATA[FILL]]></label>
+			<label name="FIT"><![CDATA[FIT]]></label>
+		</data>
+		<prompt><![CDATA[]]></prompt>
+		<rowCount>2</rowCount>
+		<value><![CDATA[FILL]]></value>
+	</item>
+	<item type="colorPicker" name="itemsBg">
+		<title><![CDATA[Image Background Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x242424</selectedColor>
+	</item>
+	<item type="colorPicker" name="titleColor">
+		<title><![CDATA[Title Text Color]]></title>
+		<description><![CDATA[]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xff0000</selectedColor>
+	</item>
+	<item type="colorPicker" name="linkColor">
+		<title><![CDATA[Links Text Color]]></title>
+		<description><![CDATA[Text between <a></a> (Description or Title Box)]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xff0000</selectedColor>
+	</item>
+	<item type="checkBox" name="linkWindow">
+		<title><![CDATA[Open link in new window]]></title>
+		<description><![CDATA[]]></description>
+		<selected>true</selected>
+	</item>
+	<item type="textInput" name="readMoreText">
+		<title><![CDATA[Link Button Title]]></title>
+		<maxChars>0</maxChars>
+		<restrict><![CDATA[]]></restrict>
+		<text><![CDATA[Read More]]></text>
+	</item>
+	<item type="numericSteper" name="dsBoxHeight">
+
+		<title><![CDATA[Description Box Height]]></title>
+
+		<description><![CDATA[Main Page Description Box Height]]></description>
+
+		<maximum>300</maximum>
+
+		<minimum>40</minimum>
+
+		<stepSize>1</stepSize>
+
+		<value>95</value>
+
+	</item>
+	<item type="colorPicker" name="dsBoxColor">
+		<title><![CDATA[Description Box BG Color]]></title>
+		<description><![CDATA[Main Page Description Box BG Color]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0x000000</selectedColor>
+	</item>
+	<item type="slider" name="dsBoxBgAlpha">
+
+		<title><![CDATA[Description Box BG Alpha]]></title>
+
+		<description><![CDATA[]]></description>
+
+		<maximum>100</maximum>
+
+		<minimum>0</minimum>
+
+		<snapInterval>5</snapInterval>
+
+		<tickInterval>5</tickInterval>
+
+		<value>85</value>
+
+	</item>
+	<item type="colorPicker" name="dsBoxTextColor">
+		<title><![CDATA[Description Box Text Color]]></title>
+		<description><![CDATA[Main Page Description Box Text Color]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xffffff</selectedColor>
+	</item>
+	<item type="colorPicker" name="mpButtoColor1">
+		<title><![CDATA[Button Color 1]]></title>
+		<description><![CDATA[Main Page Button Color 1]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xffffff</selectedColor>
+	</item>
+	<item type="colorPicker" name="mpButtoColor2">
+		<title><![CDATA[Button Color 2]]></title>
+		<description><![CDATA[Main Page Button Color 2]]></description>
+		<showTextField>true</showTextField>
+		<selectedColor>0xff0000</selectedColor>
+	</item>
+<properties>
+  <property0><![CDATA[opaque]]></property0>
+  <swfmousewheel>true</swfmousewheel>
+  <property1>0x000000</property1>
+  <itemsBg>0x242424</itemsBg>
+  <width><![CDATA[100%]]></width>
+  <height><![CDATA[350]]></height>
+  <itemsWidth><![CDATA[450]]></itemsWidth>
+  <itemsHeight><![CDATA[270]]></itemsHeight>
+  <orientation><![CDATA[horisontal]]></orientation>
+  <cameraPan>true</cameraPan>
+  <cameraAngLock>-30</cameraAngLock>
+  <button3dMode><![CDATA[false]]></button3dMode>
+  <imgZoom><![CDATA[FILL]]></imgZoom>
+  <autoPlay>true</autoPlay>
+  <slideshowDelay>10</slideshowDelay>
+  <botDescroptionPart>true</botDescroptionPart>
+  <readMoreText><![CDATA[Read More]]></readMoreText>
+  <dsBoxHeight>95</dsBoxHeight>
+  <dsBoxColor>0x000000</dsBoxColor>
+  <dsBoxBgAlpha>85</dsBoxBgAlpha>
+  <titleColor>0xff0000</titleColor>
+  <linkColor>0xff0000</linkColor>
+  <linkWindow>true</linkWindow>
+  <dsBoxTextColor>0xffffff</dsBoxTextColor>
+  <mpButtoColor1>0xffffff</mpButtoColor1>
+  <mpButtoColor2>0xff0000</mpButtoColor2>
+</properties>
+</panel>

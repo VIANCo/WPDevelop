@@ -1,0 +1,12 @@
+/*
+** Flash Album Gallery StyleSheet (if is not crawler)
+*/
+.flag_alternate { display: none; }
+.flag_alternate .flagcatlinks { padding: 3px; margin:0 0 3px; background-color: #292929; text-align: left; }
+.flag_alternate .flagcatlinks a.flagcat { display: inline-block; padding: 4px 10px; margin: 2px; border: none; font: 14px/16px Tahoma; text-decoration: none; background: none; color: #ffffff; background-color: #292929; }
+.flag_alternate .flagcatlinks a.flagcat:hover { text-decoration: none; background: none; }
+.flag_alternate .flagcatlinks a.active, .flag_alternate .flagcatlinks a.flagcat:hover { color: #ffffff; background-color: #737373; outline: none; }
+.flag_alternate .flagcatlinks a.flagcat:first-child {  }
+.flag_alternate .flagcategory { display: none; font-size: 0; line-height: 0; }
+.flagcatlinks a.backlink { display: inline-block; padding: 4px 10px; margin: 2px text-decoration: none; outline: none; font-size: 12px; font-family: Verdana; font-weight: bold; line-height: 16px; }
+.flagcatlinks a.backlink:hover { text-decoration: underline; }

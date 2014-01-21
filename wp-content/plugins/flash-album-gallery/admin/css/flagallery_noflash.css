@@ -1,0 +1,25 @@
+/*
+** Flash Album Gallery StyleSheet (no flash)
+*/
+.flashalbum {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: -moz-none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+div.flashalbum br { display: none; }
+.flag_alternate { margin: 7px 0; }
+.flag_alternate .flagcategory { width: 100%; height: auto; position: relative; text-align: center; padding-bottom: 4px; }
+.flag_alternate .flagcategory a.flag_pic_alt { display: inline-block; margin: 1px 0 0 1px; padding: 0; height: 120px; width: 120px; line-height: 96px; position:relative; overflow: hidden; text-align: center; z-index:99; cursor:pointer; background-color: #ffffff; border: 2px solid #ffffff; text-decoration: none; background-image: url(../images/loadingAnimation.gif); background-repeat: no-repeat; background-position: 50% 50%; font-size: 8px; color: #ffffff; }
+.flag_alternate .flagcategory a.flag_pic_alt > .flag_pic_desc { display: none; padding: 4px; line-height: 140%; font-size: 12px; }
+.flag_alternate .flagcategory a.flag_pic_alt > .flag_pic_desc * { display: none; line-height: 140%; font-size: 12px !important; }
+.flag_alternate .flagcategory a.flag_pic_alt:hover { background-color: #ffffff; border: 2px solid #4a4a4a; color: #4a4a4a; text-decoration: none; z-index: 3; }
+.flag_alternate .flagcategory a.flag_pic_alt.current, .flag_alternate .flagcategory a.flag_pic_alt.last { border-color: #4a4a4a; }
+.flag_alternate .flagcategory a.flag_pic_alt > img { vertical-align: middle; display:inline-block; position: static; margin: 0 auto; padding: 0; border: none; height: 120px; width: 120px; min-height: 120px !important; min-width: 120px !important; max-height: 150px; max-width: 150px; line-height: 96px; font-size: 0; }
+.flag_alternate .flagcategory a.flag_pic_alt .flag_pic_counters { position: absolute; left: 0; bottom: 0; right: 0; height: 20px; display: block; line-height: 20px; margin: 0; padding: 0 10px; text-align: left; opacity: 0.85; filter: "alpha(opacity=85)"; }
+.flag_alternate .flagcategory .flag_pic_counters i { display: inline-block; line-height: 20px; margin: 0; padding: 0 0 0 16px; background: url(../images/views.png) 0 50% no-repeat; font-style: normal; font-size: 12px; float: left; }
+.flag_alternate .flagcategory .flag_pic_counters b { display: inline-block; line-height: 20px; margin: 0; padding: 0 0 0 16px; background: url(../images/like.png) 0 50% no-repeat; font-weight: normal; font-size: 12px; float: right; width: 25%; }
+
+
